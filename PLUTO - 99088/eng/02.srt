@@ -1,0 +1,3080 @@
+1
+00:01:10,236 --> 00:01:11,446
+My goodness.
+
+2
+00:01:12,280 --> 00:01:15,533
+Superintendent Tawashi,
+we have the name of the victim.
+
+3
+00:01:16,659 --> 00:01:19,162
+Junichiro Tazaki, a legal scholar.
+
+4
+00:01:19,788 --> 00:01:22,916
+He's the one who proposed
+the International Robot Laws.
+
+5
+00:01:22,999 --> 00:01:29,130
+Oh, the very man
+who gave robots freedom and equality?
+
+6
+00:01:29,672 --> 00:01:30,507
+Yes.
+
+7
+00:01:30,590 --> 00:01:31,800
+Well then,
+
+8
+00:01:31,883 --> 00:01:35,470
+let's start by questioning everyone
+in anti-robot law groups.
+
+9
+00:01:35,553 --> 00:01:36,387
+Yes, sir!
+
+10
+00:01:42,519 --> 00:01:44,104
+Horns, eh?
+
+11
+00:01:44,187 --> 00:01:48,233
+I remember hearing about cases
+involving horns somewhere.
+
+12
+00:01:48,316 --> 00:01:49,692
+I'll have it looked into.
+
+13
+00:01:51,945 --> 00:01:53,196
+Hey, you there!
+
+14
+00:01:55,532 --> 00:01:58,159
+Still, what in the world happened here?
+
+15
+00:02:07,877 --> 00:02:09,462
+What caused this?
+
+16
+00:02:09,963 --> 00:02:14,259
+Did it collapse on its own,
+or did someone use a power shovel on it?
+
+17
+00:02:15,385 --> 00:02:16,970
+We're analyzing it now.
+
+18
+00:02:17,929 --> 00:02:21,933
+I guess it wouldn't be impossible
+for you lot.
+
+19
+00:02:22,767 --> 00:02:23,726
+Sir?
+
+20
+00:02:24,477 --> 00:02:28,690
+For a robot with some strength,
+this would be a piece of cake.
+
+21
+00:02:29,274 --> 00:02:30,567
+Superintendent Tawashi!
+
+22
+00:02:30,650 --> 00:02:33,653
+The cases with the horns
+happened in Switzerland and Germany.
+
+23
+00:02:36,197 --> 00:02:37,240
+That's right!
+
+24
+00:02:37,323 --> 00:02:40,451
+They were found in the head
+of a destroyed robot called Mont Blanc.
+
+25
+00:02:41,035 --> 00:02:44,205
+There was another case
+in Düsseldorf, Germany.
+
+26
+00:02:44,747 --> 00:02:49,419
+The victim, Bernard Lanke, was also
+a leader in the Robot Liberation Movement.
+
+27
+00:02:51,546 --> 00:02:53,256
+We'd better contact Europol
+
+28
+00:02:53,339 --> 00:02:56,384
+and talk to the investigators
+assigned to each case.
+
+29
+00:02:56,467 --> 00:02:59,012
+Actually, according to this data,
+
+30
+00:02:59,095 --> 00:03:02,098
+the same detective
+is in charge of both cases.
+
+31
+00:03:02,724 --> 00:03:04,058
+The same detective?
+
+32
+00:03:04,142 --> 00:03:07,020
+Yes, and a robot detective at that.
+
+33
+00:03:07,854 --> 00:03:09,189
+A robot, eh?
+
+34
+00:03:09,731 --> 00:03:10,982
+What's his name?
+
+35
+00:03:11,608 --> 00:03:13,234
+Gesicht.
+
+36
+00:03:33,755 --> 00:03:35,048
+How curious.
+
+37
+00:03:35,757 --> 00:03:37,008
+What is?
+
+38
+00:03:37,634 --> 00:03:39,052
+When I look at you,
+
+39
+00:03:39,135 --> 00:03:43,973
+my identification system might malfunction
+trying to tell if you're robot or human.
+
+40
+00:03:44,766 --> 00:03:45,934
+I get that a lot.
+
+41
+00:03:46,517 --> 00:03:48,728
+I've seen you many times in the news,
+
+42
+00:03:48,811 --> 00:03:51,898
+but seeing you
+sitting right in front of me...
+
+43
+00:03:52,649 --> 00:03:53,858
+The news?
+
+44
+00:03:53,942 --> 00:03:55,068
+Yes.
+
+45
+00:03:55,151 --> 00:03:58,196
+When you arrived
+with the peacekeeping forces
+
+46
+00:03:58,279 --> 00:04:01,282
+during the 39th Central Asian War,
+
+47
+00:04:01,783 --> 00:04:03,493
+the media raised a fuss, remember?
+
+48
+00:04:05,161 --> 00:04:05,995
+Right.
+
+49
+00:04:06,496 --> 00:04:12,210
+I only went there to help defend
+the peace in that nation. Yet...
+
+50
+00:04:13,419 --> 00:04:17,840
+And yet, they treated you
+like an idol or a pop star.
+
+51
+00:04:18,341 --> 00:04:19,175
+Yes.
+
+52
+00:04:19,842 --> 00:04:20,885
+Here you go.
+
+53
+00:04:24,430 --> 00:04:25,765
+Time to dig in!
+
+54
+00:04:37,735 --> 00:04:38,695
+Is something wrong?
+
+55
+00:04:39,320 --> 00:04:43,116
+No, it's just that you seem like
+you're truly enjoying it.
+
+56
+00:04:43,658 --> 00:04:46,411
+I'm sure it's obvious
+that I'm pretending to drink.
+
+57
+00:04:47,495 --> 00:04:50,415
+The more I pretend,
+the more I feel like I understand it.
+
+58
+00:04:50,957 --> 00:04:52,125
+Understand what?
+
+59
+00:04:52,792 --> 00:04:54,252
+When something is delicious.
+
+60
+00:04:56,379 --> 00:04:59,299
+I don't know
+if it's a truly human sensation,
+
+61
+00:04:59,382 --> 00:05:00,925
+but I feel it in my heart.
+
+62
+00:05:03,636 --> 00:05:05,221
+Incredible.
+
+63
+00:05:05,305 --> 00:05:09,350
+When you saw that kid
+playing with a new toy earlier,
+
+64
+00:05:09,434 --> 00:05:11,602
+did you really want one too?
+
+65
+00:05:12,228 --> 00:05:16,566
+Yes. That toy is really popular
+among kids right now.
+
+66
+00:05:16,649 --> 00:05:18,234
+Then, how about the snail?
+
+67
+00:05:18,318 --> 00:05:19,319
+Huh?
+
+68
+00:05:19,402 --> 00:05:22,864
+Earlier, you found a snail in the rain.
+
+69
+00:05:22,947 --> 00:05:23,781
+I did.
+
+70
+00:05:24,365 --> 00:05:26,826
+<i>You didn't just collect a sample</i>
+
+71
+00:05:26,909 --> 00:05:29,412
+<i>of a pulmonate gastropod mollusk
+from the helicidae family.</i>
+
+72
+00:05:30,204 --> 00:05:31,831
+You felt something.
+
+73
+00:05:32,332 --> 00:05:34,500
+You were moved by life, weren't you?
+
+74
+00:05:35,877 --> 00:05:38,004
+Maybe? Beats me.
+
+75
+00:05:42,008 --> 00:05:45,011
+You really live up to your reputation.
+You're amazing.
+
+76
+00:05:45,762 --> 00:05:47,430
+You may look like a child,
+
+77
+00:05:47,513 --> 00:05:51,642
+but I know your artificial intelligence
+is far superior to mine.
+
+78
+00:05:55,438 --> 00:05:56,939
+That's why I was sold.
+
+79
+00:05:57,982 --> 00:06:01,027
+I look like a child,
+and people found it amusing,
+
+80
+00:06:01,110 --> 00:06:02,862
+so they sold me to the circus.
+
+81
+00:06:03,446 --> 00:06:04,364
+Sold?
+
+82
+00:06:10,453 --> 00:06:11,287
+Gesicht?
+
+83
+00:06:16,793 --> 00:06:19,212
+It's nothing.
+I'm sorry for bringing all that up.
+
+84
+00:06:19,295 --> 00:06:20,129
+It's all right.
+
+85
+00:06:21,589 --> 00:06:23,674
+Let me get down to business.
+
+86
+00:06:24,509 --> 00:06:27,178
+As I had mentioned in the email,
+
+87
+00:06:27,261 --> 00:06:30,598
+Mont Blanc of Switzerland
+and North No.2 in Scotland
+
+88
+00:06:30,681 --> 00:06:32,600
+were killed in a series of murders.
+
+89
+00:06:33,184 --> 00:06:35,144
+And you think I'm in danger too?
+
+90
+00:06:35,645 --> 00:06:39,899
+Yes. I don't have any proof yet,
+but the killer's goal may be...
+
+91
+00:06:41,901 --> 00:06:45,822
+to destroy the seven
+most advanced robots in the world.
+
+92
+00:06:46,948 --> 00:06:48,199
+But why?
+
+93
+00:06:50,368 --> 00:06:51,994
+I think you know why.
+
+94
+00:06:58,459 --> 00:07:02,463
+Gesicht, could I please
+read your memory chip?
+
+95
+00:07:02,547 --> 00:07:03,381
+What?
+
+96
+00:07:03,464 --> 00:07:09,303
+There may be clues to help solve the case
+in everything you've seen and heard.
+
+97
+00:07:10,138 --> 00:07:12,223
+No, I can't do that.
+
+98
+00:07:12,306 --> 00:07:16,894
+It includes classified information
+on other cases and my personal data.
+
+99
+00:07:21,607 --> 00:07:26,404
+Oh, right. Your artificial intelligence
+is more advanced than mine.
+
+100
+00:07:26,904 --> 00:07:28,489
+I'll trust you.
+
+101
+00:07:30,116 --> 00:07:31,492
+It'll only take a minute.
+
+102
+00:07:47,592 --> 00:07:49,177
+Thank you.
+
+103
+00:07:49,260 --> 00:07:51,762
+For anything unrelated
+to the investigation,
+
+104
+00:07:52,472 --> 00:07:53,806
+could you delete that?
+
+105
+00:07:53,890 --> 00:07:55,141
+I will.
+
+106
+00:07:55,224 --> 00:07:58,811
+I hope you can find information
+that I've overlooked.
+
+107
+00:08:02,064 --> 00:08:04,025
+Something you've overlooked...
+
+108
+00:08:08,362 --> 00:08:10,281
+Pardon me, Gesicht.
+
+109
+00:08:11,324 --> 00:08:13,201
+- I'm going to the bathroom.
+- The bathroom?
+
+110
+00:08:13,868 --> 00:08:17,497
+It's another habit I've developed
+while mimicking human behavior.
+
+111
+00:08:18,581 --> 00:08:20,166
+I see.
+
+112
+00:08:20,249 --> 00:08:23,336
+Well, being as close to human as you are,
+it makes sense.
+
+113
+00:08:41,187 --> 00:08:43,773
+Gesicht, you...
+
+114
+00:08:49,612 --> 00:08:50,988
+It sure rains a lot.
+
+115
+00:08:51,072 --> 00:08:51,906
+Yes.
+
+116
+00:08:51,989 --> 00:08:54,534
+Are you leaving Japan right away?
+
+117
+00:08:55,076 --> 00:08:57,453
+Yes, I have a lot of work waiting for me,
+
+118
+00:08:58,037 --> 00:09:01,707
+and I need to speak
+to three more robots about this.
+
+119
+00:09:02,875 --> 00:09:06,546
+Gesicht, please come visit again. Promise?
+
+120
+00:09:06,629 --> 00:09:08,172
+Yeah, I promise.
+
+121
+00:09:10,049 --> 00:09:11,384
+Your wife is lovely.
+
+122
+00:09:14,595 --> 00:09:17,390
+This is why I didn't want
+to let you read my chip.
+
+123
+00:09:19,559 --> 00:09:22,520
+Come on! No making fun of adults!
+Delete that data now!
+
+124
+00:09:29,777 --> 00:09:30,861
+It'll be okay.
+
+125
+00:09:32,405 --> 00:09:34,907
+You and your wife will be okay.
+
+126
+00:09:35,408 --> 00:09:37,368
+Whatever happens, you two can handle it.
+
+127
+00:09:39,870 --> 00:09:40,705
+Thank you.
+
+128
+00:09:41,998 --> 00:09:43,749
+Goodbye, Atom.
+
+129
+00:09:50,047 --> 00:09:52,174
+Gesicht, I'll be waiting!
+
+130
+00:09:53,259 --> 00:09:55,136
+We'll meet again for sure!
+
+131
+00:10:12,069 --> 00:10:14,196
+FORENSICS DIVISION
+
+132
+00:10:16,741 --> 00:10:18,159
+Cause of death?
+
+133
+00:10:18,743 --> 00:10:19,910
+It was suffocation.
+
+134
+00:10:20,494 --> 00:10:21,704
+Suffocation?
+
+135
+00:10:21,787 --> 00:10:23,664
+What was the murder weapon? A rope?
+
+136
+00:10:24,165 --> 00:10:26,167
+We don't know yet.
+
+137
+00:10:26,250 --> 00:10:28,961
+We only know that his neck
+was subjected to great pressure.
+
+138
+00:10:29,462 --> 00:10:31,589
+- No trace evidence?
+- None.
+
+139
+00:10:34,925 --> 00:10:37,136
+Hey, bring up the 3D replica!
+
+140
+00:11:11,504 --> 00:11:14,006
+I've got a pretty good idea
+who the perp might be.
+
+141
+00:11:14,090 --> 00:11:15,800
+What? You do?
+
+142
+00:11:15,883 --> 00:11:19,261
+Sure. For the suspect to not leave
+any trace, that could only mean--
+
+143
+00:11:19,345 --> 00:11:20,554
+How strange...
+
+144
+00:11:24,975 --> 00:11:25,935
+You!
+
+145
+00:11:26,018 --> 00:11:27,311
+Atom!
+
+146
+00:11:27,895 --> 00:11:31,482
+Hello there, Superintendent Tawashi,
+Inspector Nakamura!
+
+147
+00:11:32,066 --> 00:11:34,235
+Who gave you permission to be in here?
+
+148
+00:11:35,361 --> 00:11:37,196
+I have an admission pass here.
+
+149
+00:11:37,780 --> 00:11:41,117
+You requested cooperation
+on the investigation from Europol, right?
+
+150
+00:11:41,617 --> 00:11:44,704
+I installed the memory
+of Inspector Gesicht,
+
+151
+00:11:44,787 --> 00:11:46,372
+the one in charge of the cases.
+
+152
+00:11:46,455 --> 00:11:51,168
+So I have the data on the Mont Blanc case
+in Switzerland and the Düsseldorf case.
+
+153
+00:11:52,628 --> 00:11:58,968
+Being a robot must be awfully convenient
+to swap the contents of your brain.
+
+154
+00:11:59,760 --> 00:12:03,889
+But if you think you know everything
+from that, you're very mistaken!
+
+155
+00:12:03,973 --> 00:12:07,852
+You robots don't even know
+when something is beautiful or tasty.
+
+156
+00:12:10,563 --> 00:12:14,775
+Then again, when it comes to this case,
+perhaps your kind might grasp it better.
+
+157
+00:12:15,359 --> 00:12:19,238
+You guys have finally done it.
+A robot committed murder.
+
+158
+00:12:19,989 --> 00:12:21,699
+What makes you say that?
+
+159
+00:12:21,782 --> 00:12:25,619
+No human could have done this
+without leaving a trace!
+
+160
+00:12:25,703 --> 00:12:30,416
+A living human would have left
+fingerprints, hair, something,
+
+161
+00:12:30,499 --> 00:12:32,710
+but there is nothing here.
+
+162
+00:12:33,878 --> 00:12:35,421
+Then what do you make of this?
+
+163
+00:12:37,965 --> 00:12:40,342
+There's green tea under the rubble here.
+
+164
+00:12:40,426 --> 00:12:41,844
+Green tea?
+
+165
+00:12:41,927 --> 00:12:46,015
+Yes, two broken teacups
+and some <i>yokan</i> red bean jelly.
+
+166
+00:12:46,098 --> 00:12:48,559
+- Hey, pick up this spot!
+<i>- Yes, sir.</i>
+
+167
+00:12:52,146 --> 00:12:55,733
+It hadn't been that long
+since this tea was brewed.
+
+168
+00:12:55,816 --> 00:13:01,113
+The autopsy did find some tea
+and <i>yokan</i> in the victim's stomach.
+
+169
+00:13:02,156 --> 00:13:05,534
+Would you serve tea and <i>yokan</i>
+if a robot came to visit?
+
+170
+00:13:06,952 --> 00:13:09,663
+You pretend to eat all the time!
+
+171
+00:13:10,873 --> 00:13:12,082
+The outside corridor...
+
+172
+00:13:16,462 --> 00:13:17,671
+Hydrangeas.
+
+173
+00:13:17,755 --> 00:13:20,633
+They sat outside
+and admired the hydrangeas.
+
+174
+00:13:21,842 --> 00:13:23,385
+Hey, pick up that spot!
+
+175
+00:13:24,053 --> 00:13:27,681
+<i>We can confirm that there were
+hydrangeas in the garden there.</i>
+
+176
+00:13:29,391 --> 00:13:32,228
+Robots don't understand beauty, right?
+
+177
+00:13:32,728 --> 00:13:34,647
+Do you still think a robot did this?
+
+178
+00:13:35,231 --> 00:13:36,649
+What are you saying?
+
+179
+00:13:36,732 --> 00:13:39,735
+That the human who committed the murders
+also wrecked the house?
+
+180
+00:13:39,819 --> 00:13:45,282
+That after happily gazing at hydrangeas,
+the suspect bulldozed the house?
+
+181
+00:13:45,366 --> 00:13:48,077
+- Pull up the witness statements!
+<i>- Yes, sir.</i>
+
+182
+00:13:51,038 --> 00:13:53,040
+<i>Yes, it was like a tornado.</i>
+
+183
+00:13:53,123 --> 00:13:57,002
+<i>I heard this crazy roar,
+and suddenly the house next door was gone!</i>
+
+184
+00:13:57,086 --> 00:14:01,882
+<i>I can't believe our house still stands.
+It was such a huge tornado.</i>
+
+185
+00:14:01,966 --> 00:14:03,676
+See? They said it was a tornado!
+
+186
+00:14:03,759 --> 00:14:08,138
+And an unnaturally localized one
+that only destroyed one house!
+
+187
+00:14:08,222 --> 00:14:10,432
+What do you make of that?
+
+188
+00:14:10,516 --> 00:14:13,060
+After that,
+Mr. Tazaki went out to the garden.
+
+189
+00:14:14,937 --> 00:14:18,190
+Excuse me. Could you bring up
+the image of the body?
+
+190
+00:14:18,274 --> 00:14:20,609
+No, it's not something
+a child should see--
+
+191
+00:14:20,693 --> 00:14:21,652
+It's fine!
+
+192
+00:14:21,735 --> 00:14:24,655
+He only looks like a child.
+He's just a robot.
+
+193
+00:14:24,738 --> 00:14:25,614
+Oh, right.
+
+194
+00:14:26,240 --> 00:14:27,658
+<i>Hey, bring it up!</i>
+
+195
+00:14:27,741 --> 00:14:28,576
+Yes, sir.
+
+196
+00:14:32,496 --> 00:14:33,330
+Horns.
+
+197
+00:14:46,093 --> 00:14:48,804
+The god of death had horns.
+
+198
+00:14:49,305 --> 00:14:53,017
+<i>This is Gesicht's memory.</i>
+
+199
+00:14:54,393 --> 00:14:56,729
+The lord of the underworld
+in Roman mythology...
+
+200
+00:14:59,148 --> 00:15:01,609
+<i>The lord of the underworld
+in Roman mythology...</i>
+
+201
+00:15:04,111 --> 00:15:05,237
+Pluto.
+
+202
+00:15:18,292 --> 00:15:19,168
+Excuse me.
+
+203
+00:15:19,251 --> 00:15:22,254
+Did Mr. Junichiro Tazaki use pens?
+
+204
+00:15:22,338 --> 00:15:23,255
+Huh?
+
+205
+00:15:23,339 --> 00:15:26,967
+There's a callus on his middle finger,
+so it looks like he did.
+
+206
+00:15:27,051 --> 00:15:30,721
+The rain washed most of it away,
+but there's a bit of ink on his hand.
+
+207
+00:15:42,942 --> 00:15:44,318
+Wet footprints.
+
+208
+00:15:44,860 --> 00:15:48,864
+He rushed into the house from the garden.
+To the study!
+
+209
+00:15:49,531 --> 00:15:50,699
+Look, right here!
+
+210
+00:15:50,783 --> 00:15:53,369
+There's an ink bottle
+with the same ink on his hand.
+
+211
+00:15:53,452 --> 00:15:54,828
+Hey, pick this up!
+
+212
+00:15:57,206 --> 00:15:59,583
+He must have knocked it over
+to find something.
+
+213
+00:16:00,125 --> 00:16:01,293
+Find what?
+
+214
+00:16:04,713 --> 00:16:06,674
+Can you pick up what's beneath here?
+
+215
+00:16:09,343 --> 00:16:10,719
+Business cards?
+
+216
+00:16:11,512 --> 00:16:13,430
+INQUIRY COMMISSION
+
+217
+00:16:14,515 --> 00:16:15,933
+"Inquiry commission"?
+
+218
+00:16:16,016 --> 00:16:17,101
+There it is.
+
+219
+00:16:18,227 --> 00:16:20,604
+A business card with ink and fingerprints.
+
+220
+00:16:21,271 --> 00:16:22,439
+Whose card?
+
+221
+00:16:33,367 --> 00:16:34,868
+Not that matter again.
+
+222
+00:16:35,452 --> 00:16:37,997
+No matter what you say,
+I will not change my mind.
+
+223
+00:16:38,080 --> 00:16:39,915
+Thracia may say what they want,
+
+224
+00:16:39,999 --> 00:16:43,085
+but we are not making robots
+for them to use in wars!
+
+225
+00:16:43,168 --> 00:16:44,461
+Good grief.
+
+226
+00:16:47,715 --> 00:16:49,174
+Professor Ochanomizu?
+
+227
+00:16:49,258 --> 00:16:50,968
+Oh, Atom.
+
+228
+00:16:51,051 --> 00:16:52,845
+Do you have a moment to spare?
+
+229
+00:16:52,928 --> 00:16:55,806
+Sure. What brings you here at this hour?
+
+230
+00:16:57,182 --> 00:16:58,475
+Professor Ochanomizu.
+
+231
+00:16:58,976 --> 00:17:02,813
+Have you heard of a scholar
+named Junichiro Tazaki?
+
+232
+00:17:03,731 --> 00:17:06,316
+Yes, I heard he died.
+
+233
+00:17:06,400 --> 00:17:08,277
+He was caught up in some incident.
+
+234
+00:17:08,944 --> 00:17:11,530
+It was he who proposed
+the International Robot Laws.
+
+235
+00:17:11,613 --> 00:17:12,990
+He was a great man.
+
+236
+00:17:13,824 --> 00:17:16,577
+How about Bernard Lanke?
+
+237
+00:17:16,660 --> 00:17:17,870
+Lanke?
+
+238
+00:17:17,953 --> 00:17:20,205
+He was a key advocate for the robot laws.
+
+239
+00:17:20,831 --> 00:17:24,460
+Yes, I know him,
+though I haven't seen him in years.
+
+240
+00:17:24,960 --> 00:17:26,420
+What about him?
+
+241
+00:17:28,088 --> 00:17:29,131
+He passed away.
+
+242
+00:17:31,842 --> 00:17:35,095
+Professor, where did you meet Mr. Lanke?
+
+243
+00:17:35,179 --> 00:17:40,559
+During the 39th Central Asian War,
+as part of a certain inquiry commission.
+
+244
+00:17:41,226 --> 00:17:42,978
+Right before he passed,
+
+245
+00:17:43,062 --> 00:17:47,107
+Junichiro Tazaki
+was looking for a business card.
+
+246
+00:17:49,735 --> 00:17:51,236
+It was yours, Professor.
+
+247
+00:17:52,029 --> 00:17:53,530
+He was trying to contact me?
+
+248
+00:17:54,531 --> 00:17:57,409
+Yes. I believe you're in danger.
+
+249
+00:17:59,953 --> 00:18:02,247
+Someone is after you.
+
+250
+00:18:02,331 --> 00:18:04,833
+You and the former members
+of the Bora Inquiry Commission.
+
+251
+00:18:07,586 --> 00:18:08,670
+Please tell me.
+
+252
+00:18:09,171 --> 00:18:10,839
+What exactly is Bora?
+
+253
+00:18:14,301 --> 00:18:16,887
+<i>It all started from the suspicion
+that the Kingdom of Persia</i>
+
+254
+00:18:16,970 --> 00:18:21,141
+<i>was in possession
+of robots of mass destruction.</i>
+
+255
+00:18:21,225 --> 00:18:22,810
+<i>As you know,</i>
+
+256
+00:18:22,893 --> 00:18:28,774
+<i>the Kingdom of Persia was ruled
+by the dictatorship of Darius XIV then.</i>
+
+257
+00:18:28,857 --> 00:18:32,903
+<i>Its citizens and robots
+were treated poorly,</i>
+
+258
+00:18:32,986 --> 00:18:35,739
+<i>not in compliance
+with United Nations treaties.</i>
+
+259
+00:18:35,823 --> 00:18:40,202
+<i>Darius XIV used
+overwhelming robot military might</i>
+
+260
+00:18:40,285 --> 00:18:42,663
+<i>to bring neighboring countries
+under his control</i>
+
+261
+00:18:42,746 --> 00:18:45,624
+<i>and attempted to conquer
+all of Central Asia.</i>
+
+262
+00:18:46,208 --> 00:18:47,417
+<i>That's when they proposed</i>
+
+263
+00:18:47,501 --> 00:18:51,046
+<i>the Prohibition of the Manufacture
+of Robots of Mass Destruction treaty.</i>
+
+264
+00:18:51,130 --> 00:18:53,924
+<i>It was immediately passed
+at the United Nations.</i>
+
+265
+00:18:54,007 --> 00:18:55,801
+<i>Soon after, the Kingdom of Persia</i>
+
+266
+00:18:55,884 --> 00:18:58,971
+<i>was suspected of possessing
+robots of mass destruction.</i>
+
+267
+00:18:59,721 --> 00:19:02,099
+<i>President Alexander
+of the United States of Thracia,</i>
+
+268
+00:19:02,182 --> 00:19:07,354
+<i>the one who had called for the treaty,
+leveled the accusations against Persia.</i>
+
+269
+00:19:07,437 --> 00:19:09,356
+<i>Based on his accusations,</i>
+
+270
+00:19:09,439 --> 00:19:13,861
+<i>the Bora Inquiry Commission
+was dispatched to the Kingdom of Persia.</i>
+
+271
+00:19:14,444 --> 00:19:16,321
+No one knew what Bora was
+
+272
+00:19:16,405 --> 00:19:20,868
+or if it was just a code name
+or to what it referred.
+
+273
+00:19:20,951 --> 00:19:25,831
+But I was a member
+of the inquiry commission alongside Lanke
+
+274
+00:19:26,415 --> 00:19:27,499
+and Mr. Tazaki.
+
+275
+00:19:28,584 --> 00:19:29,960
+What happened with Bora?
+
+276
+00:19:30,919 --> 00:19:34,548
+Such robots of mass destruction,
+as the United States of Thracia claimed,
+
+277
+00:19:34,631 --> 00:19:35,924
+were nowhere to be seen.
+
+278
+00:19:36,008 --> 00:19:40,387
+On what basis did the United States
+of Thracia make such a claim?
+
+279
+00:19:41,305 --> 00:19:42,848
+There was this genius.
+
+280
+00:19:43,640 --> 00:19:44,558
+A genius?
+
+281
+00:19:44,641 --> 00:19:49,396
+It was believed that the Kingdom
+of Persia's advanced robot army
+
+282
+00:19:49,479 --> 00:19:52,649
+came from the mind of a genius scientist.
+
+283
+00:19:53,150 --> 00:19:55,235
+What is the name of this scientist?
+
+284
+00:19:55,986 --> 00:19:58,197
+He was commonly known as "Dr. Goji."
+
+285
+00:20:00,741 --> 00:20:02,826
+No one knew his real name
+
+286
+00:20:02,910 --> 00:20:04,578
+or what he looked like.
+
+287
+00:20:05,078 --> 00:20:10,167
+We didn't even know
+if such a person actually existed.
+
+288
+00:20:10,751 --> 00:20:14,129
+That's about all we found out.
+
+289
+00:20:15,964 --> 00:20:19,426
+But there was this one place
+that we visited.
+
+290
+00:20:20,636 --> 00:20:23,263
+<i>It was deep underground,
+beneath an old mosque.</i>
+
+291
+00:20:24,932 --> 00:20:27,309
+<i>I still don't know what to make
+of what we saw there,</i>
+
+292
+00:20:27,809 --> 00:20:31,146
+<i>those piles and piles of robot corpses.</i>
+
+293
+00:20:33,232 --> 00:20:35,442
+The Kingdom explained to us
+
+294
+00:20:35,525 --> 00:20:40,364
+that it was a dump for unusable robots.
+
+295
+00:20:43,825 --> 00:20:44,743
+And then,
+
+296
+00:20:45,369 --> 00:20:47,120
+the war started.
+
+297
+00:21:25,409 --> 00:21:27,035
+You all right, Mont Blanc?
+
+298
+00:21:49,182 --> 00:21:50,934
+You two hurt anywhere?
+
+299
+00:21:55,188 --> 00:21:58,817
+Brando destroyed 2,895.
+
+300
+00:22:01,611 --> 00:22:03,739
+I destroyed 2,962.
+
+301
+00:22:04,239 --> 00:22:06,992
+How many did you destroy, Mont Blanc?
+
+302
+00:22:08,327 --> 00:22:09,453
+A lot.
+
+303
+00:22:10,162 --> 00:22:11,413
+A lot, huh?
+
+304
+00:22:12,873 --> 00:22:13,957
+How impressive.
+
+305
+00:22:14,041 --> 00:22:15,667
+It was 3,022.
+
+306
+00:22:21,089 --> 00:22:23,467
+What are we doing here?
+
+307
+00:22:25,677 --> 00:22:28,805
+We came here for a just cause, didn't we?
+
+308
+00:22:29,348 --> 00:22:32,434
+To liberate robots from oppression.
+
+309
+00:22:32,517 --> 00:22:34,019
+That's why we came, right?
+
+310
+00:22:39,858 --> 00:22:40,817
+We...
+
+311
+00:22:44,029 --> 00:22:45,405
+Access the network.
+
+312
+00:22:48,283 --> 00:22:52,120
+<i>The palace of Darius XIV is about to fall.</i>
+
+313
+00:22:53,580 --> 00:22:57,209
+<i>The peacekeeping forces
+have entered the center of town.</i>
+
+314
+00:23:00,253 --> 00:23:01,922
+<i>An "Emissary of Peace," huh?</i>
+
+315
+00:23:02,714 --> 00:23:04,299
+Atom's got it easy.
+
+316
+00:23:06,885 --> 00:23:09,304
+Why did we come here, you ask?
+
+317
+00:23:09,388 --> 00:23:11,890
+Who is it that we should have destroyed?
+
+318
+00:23:14,935 --> 00:23:17,562
+Who is it that we were supposed to hate?
+
+319
+00:23:18,772 --> 00:23:19,773
+"Hate"?
+
+320
+00:23:20,357 --> 00:23:21,274
+Yeah.
+
+321
+00:23:21,358 --> 00:23:24,736
+What the heck is this thing
+they call "hatred"?
+
+322
+00:24:02,858 --> 00:24:04,985
+Brando!
+
+323
+00:24:05,068 --> 00:24:06,695
+<i>What a landslide!</i>
+
+324
+00:24:06,778 --> 00:24:08,530
+<i>Truly unbeatable!</i>
+
+325
+00:24:08,613 --> 00:24:13,493
+<i>The final round of the ESKKKR Tournament
+ended with his instant victory!</i>
+
+326
+00:24:13,577 --> 00:24:15,704
+<i>Undefeated in 936 consecutive matches!</i>
+
+327
+00:24:15,787 --> 00:24:19,249
+<i>Will we ever see an end
+to the legend of this invincible hero?</i>
+
+328
+00:24:19,332 --> 00:24:21,668
+<i>The strongest warrior in history!</i>
+
+329
+00:24:22,169 --> 00:24:24,671
+<i>Brando!</i>
+
+330
+00:24:31,470 --> 00:24:34,139
+That was an impressive match, Brando.
+
+331
+00:24:34,681 --> 00:24:37,976
+Nah, I'm definitely
+getting rickety these days.
+
+332
+00:24:38,518 --> 00:24:42,272
+Sometimes, I can't even move
+after a match, like right now.
+
+333
+00:24:45,692 --> 00:24:47,110
+It's strange though.
+
+334
+00:24:47,861 --> 00:24:51,031
+You all wear
+the same pankration suits in the ring,
+
+335
+00:24:51,114 --> 00:24:53,492
+but when you wear it,
+you're the strongest.
+
+336
+00:24:54,034 --> 00:24:58,079
+Experience is all you need
+to win most matches.
+
+337
+00:24:58,580 --> 00:24:59,915
+The rest is luck.
+
+338
+00:25:00,832 --> 00:25:01,875
+Luck?
+
+339
+00:25:01,958 --> 00:25:06,838
+Yeah. I know humans laugh
+when a robot talks about luck.
+
+340
+00:25:07,756 --> 00:25:10,133
+But I'm a lucky man.
+
+341
+00:25:21,520 --> 00:25:22,729
+It's an old town, right?
+
+342
+00:25:23,522 --> 00:25:24,356
+Yes.
+
+343
+00:25:30,362 --> 00:25:32,030
+My place is upstairs.
+
+344
+00:25:40,163 --> 00:25:42,624
+Your face says,
+
+345
+00:25:42,707 --> 00:25:46,753
+"Why does a combat-sports superstar live
+in a dump like this?"
+
+346
+00:25:46,836 --> 00:25:48,338
+Not at all.
+
+347
+00:25:48,421 --> 00:25:53,677
+Sure, with my fight money,
+I could afford to live in a fancy mansion.
+
+348
+00:25:55,804 --> 00:25:56,638
+However,
+
+349
+00:25:57,222 --> 00:25:59,891
+I've chosen to use my money
+on something else.
+
+350
+00:26:02,435 --> 00:26:05,230
+I'm home!
+King of the fighting world has returned!
+
+351
+00:26:05,313 --> 00:26:06,565
+Daddy!
+
+352
+00:26:07,482 --> 00:26:08,858
+Daddy!
+
+353
+00:26:08,942 --> 00:26:10,569
+- You're home!
+- Welcome back!
+
+354
+00:26:13,405 --> 00:26:14,531
+All right, kiddos.
+
+355
+00:26:15,323 --> 00:26:16,950
+Have you been good?
+
+356
+00:26:17,033 --> 00:26:18,827
+Daddy, you're so strong!
+
+357
+00:26:18,910 --> 00:26:21,037
+- You were amazing!
+- You betcha!
+
+358
+00:26:21,830 --> 00:26:23,582
+Welcome home, dear.
+
+359
+00:26:23,665 --> 00:26:24,499
+Oh?
+
+360
+00:26:24,583 --> 00:26:27,419
+I almost forgot. This is my wife, Mine.
+
+361
+00:26:28,044 --> 00:26:31,423
+Pleased to meet you.
+I'm Gesicht, of Europol.
+
+362
+00:26:32,007 --> 00:26:34,467
+Time for dinner, everyone!
+
+363
+00:26:34,551 --> 00:26:36,386
+- I'm starving!
+- I'm so hungry!
+
+364
+00:26:36,469 --> 00:26:37,762
+Let's go!
+
+365
+00:26:38,388 --> 00:26:40,515
+Please come in.
+
+366
+00:26:43,184 --> 00:26:44,728
+Catch me if you can!
+
+367
+00:26:44,811 --> 00:26:46,771
+Hey! Don't go spilling things.
+
+368
+00:26:46,855 --> 00:26:48,231
+Hey, you!
+
+369
+00:26:48,315 --> 00:26:50,817
+No running during meals!
+
+370
+00:26:52,277 --> 00:26:54,070
+Hey, mister, are you really a detective?
+
+371
+00:26:54,154 --> 00:26:54,988
+I am.
+
+372
+00:26:55,780 --> 00:26:58,950
+Then do you have a cool weapon
+or something?
+
+373
+00:26:59,034 --> 00:27:01,953
+No, I'm afraid I don't have anything cool.
+
+374
+00:27:02,537 --> 00:27:04,664
+Stop with the silly questions!
+
+375
+00:27:04,748 --> 00:27:07,167
+Keep that up, and you'll get a spanking!
+
+376
+00:27:11,504 --> 00:27:13,465
+Please excuse them.
+
+377
+00:27:13,548 --> 00:27:16,384
+No, I haven't had
+such a fun meal in a while.
+
+378
+00:27:19,220 --> 00:27:22,891
+What do you think?
+A human-style meal isn't so bad, is it?
+
+379
+00:27:23,600 --> 00:27:25,644
+Yes, so merry and lively.
+
+380
+00:27:26,936 --> 00:27:29,272
+This is how it is in our house.
+
+381
+00:27:29,356 --> 00:27:31,483
+Every day is a zoo event!
+
+382
+00:27:32,067 --> 00:27:35,028
+Honey! Eat your salad!
+
+383
+00:27:35,570 --> 00:27:36,821
+Oh...
+
+384
+00:27:36,905 --> 00:27:39,157
+My mom is the strongest in this house!
+
+385
+00:27:39,949 --> 00:27:42,577
+She's the world champion, right?
+
+386
+00:27:42,661 --> 00:27:46,581
+Champion!
+
+387
+00:27:46,665 --> 00:27:49,084
+Stop being silly and finish your dinner!
+
+388
+00:27:49,167 --> 00:27:52,379
+Yikes! So scary!
+She really is the champion!
+
+389
+00:28:02,347 --> 00:28:03,431
+Is everyone asleep?
+
+390
+00:28:03,515 --> 00:28:04,349
+Yeah.
+
+391
+00:28:09,729 --> 00:28:11,606
+Don't drink too much.
+
+392
+00:28:17,278 --> 00:28:22,033
+This is the life I've made for myself
+with the fight money I've earned.
+
+393
+00:28:22,534 --> 00:28:23,451
+Right.
+
+394
+00:28:24,619 --> 00:28:26,579
+Because I fight for a living,
+
+395
+00:28:27,080 --> 00:28:31,835
+Mine never knows when I'm going
+to come home in pieces.
+
+396
+00:28:32,377 --> 00:28:37,424
+For a while, she had to stay home alone,
+worrying about me every day.
+
+397
+00:28:38,550 --> 00:28:41,344
+That's when that policy came into effect.
+
+398
+00:28:42,470 --> 00:28:44,806
+The Robot Adoption System.
+
+399
+00:28:44,889 --> 00:28:47,183
+Right. We took in one first.
+
+400
+00:28:47,267 --> 00:28:50,353
+And then a second
+because the more, the merrier.
+
+401
+00:28:50,437 --> 00:28:52,063
+Now we have five.
+
+402
+00:28:56,109 --> 00:28:57,736
+It's a funny thing.
+
+403
+00:28:57,819 --> 00:29:02,282
+Before kids, I never gave a shit
+if I'd be torn into pieces in a match.
+
+404
+00:29:03,324 --> 00:29:04,284
+But now,
+
+405
+00:29:04,951 --> 00:29:07,912
+I want to live as long as possible.
+
+406
+00:29:08,496 --> 00:29:09,539
+Weird, huh?
+
+407
+00:29:10,039 --> 00:29:13,460
+I got kids, so I could die at any time.
+
+408
+00:29:13,543 --> 00:29:16,296
+But now that I have them,
+I don't want to die.
+
+409
+00:29:22,051 --> 00:29:24,053
+I'm sure Mont Blanc wanted to live too.
+
+410
+00:29:27,348 --> 00:29:31,936
+I met him
+during the 39th Central Asian War.
+
+411
+00:29:32,729 --> 00:29:34,773
+But more than the memory
+of fighting together,
+
+412
+00:29:34,856 --> 00:29:37,817
+I remember the fun times we had
+doing silly things and talking all night.
+
+413
+00:29:38,318 --> 00:29:42,906
+He told me about trees,
+birds, all kinds of things.
+
+414
+00:29:43,698 --> 00:29:45,283
+For a great guy like him
+
+415
+00:29:45,950 --> 00:29:47,786
+to die the way he did...
+
+416
+00:29:56,252 --> 00:29:59,088
+Do you know a robot named North No.2?
+
+417
+00:30:00,089 --> 00:30:01,800
+Yeah, only by name.
+
+418
+00:30:03,176 --> 00:30:04,427
+He's dead.
+
+419
+00:30:07,388 --> 00:30:08,723
+Last week.
+
+420
+00:30:09,307 --> 00:30:14,646
+He was living peacefully as the butler
+of a composer in Scotland, and then...
+
+421
+00:30:15,980 --> 00:30:17,357
+Was he killed?
+
+422
+00:30:18,358 --> 00:30:22,320
+Yes. And now you're in danger too.
+
+423
+00:30:23,154 --> 00:30:25,240
+You don't need to worry about me.
+
+424
+00:30:25,323 --> 00:30:27,075
+I'm the king of the fighting world.
+
+425
+00:30:27,992 --> 00:30:29,744
+That's why you're being targeted.
+
+426
+00:30:30,411 --> 00:30:31,788
+I say bring it on.
+
+427
+00:30:32,372 --> 00:30:35,124
+After what they did to Mont Blanc,
+
+428
+00:30:36,334 --> 00:30:38,670
+I'll rip them apart, just you watch.
+
+429
+00:30:38,753 --> 00:30:42,799
+Please don't be stupid!
+If anything happens, call me right away!
+
+430
+00:30:43,716 --> 00:30:45,176
+Would you like another?
+
+431
+00:30:45,760 --> 00:30:50,640
+Oh, actually, this Turkish energy drink
+is pretty potent.
+
+432
+00:30:51,266 --> 00:30:53,601
+I'm ready for another.
+
+433
+00:30:53,685 --> 00:30:55,061
+None for you.
+
+434
+00:30:57,814 --> 00:30:59,607
+Fine.
+
+435
+00:31:00,608 --> 00:31:03,069
+You sure you don't want me
+to drive you back?
+
+436
+00:31:03,736 --> 00:31:06,239
+Yes, I can grab a cab there.
+
+437
+00:31:06,781 --> 00:31:09,617
+Okay. Come visit again soon.
+
+438
+00:31:10,451 --> 00:31:13,538
+Thank you. I had a great time today.
+
+439
+00:31:14,664 --> 00:31:17,083
+Yeah, kids are great, you know?
+
+440
+00:31:17,584 --> 00:31:19,544
+You might want to give it a thought.
+
+441
+00:31:20,295 --> 00:31:24,007
+Five of them like us
+might be a bit much though.
+
+442
+00:31:25,800 --> 00:31:26,885
+You're right.
+
+443
+00:31:28,303 --> 00:31:31,014
+You can have the whole body for 500 ZEUS.
+
+444
+00:31:32,849 --> 00:31:33,933
+What's the matter?
+
+445
+00:31:36,060 --> 00:31:39,522
+Oh, it's nothing.
+Maybe I had too much to drink.
+
+446
+00:31:39,606 --> 00:31:42,400
+Are you sure you can get home by yourself?
+
+447
+00:31:44,569 --> 00:31:45,862
+Yes, I'll be fine.
+
+448
+00:31:47,405 --> 00:31:48,823
+All right, if you say so.
+
+449
+00:31:49,574 --> 00:31:52,285
+Do take care of yourself.
+
+450
+00:31:52,368 --> 00:31:55,288
+If anything happens, contact me.
+
+451
+00:31:57,624 --> 00:31:59,000
+- Say...
+- Hmm?
+
+452
+00:31:59,584 --> 00:32:02,962
+I told you that winning
+was up to one's luck, right?
+
+453
+00:32:05,423 --> 00:32:08,593
+Humans leave things up to chance,
+
+454
+00:32:09,218 --> 00:32:10,929
+but I say luck is something you take.
+
+455
+00:32:13,473 --> 00:32:16,726
+It's because I have a family
+that I've got luck on my side now.
+
+456
+00:32:16,809 --> 00:32:20,313
+If anything happens, you just call me.
+
+457
+00:32:21,147 --> 00:32:23,608
+I'm a lucky man.
+
+458
+00:32:26,069 --> 00:32:27,028
+Yes.
+
+459
+00:32:27,111 --> 00:32:28,529
+Thanks. I'm counting on you.
+
+460
+00:32:37,997 --> 00:32:39,040
+<i>Please...</i>
+
+461
+00:32:41,250 --> 00:32:42,669
+<i>Don't you die on me.</i>
+
+462
+00:33:06,359 --> 00:33:10,989
+<i>Whoa! It's a double wrist lock!
+Is this the end?</i>
+
+463
+00:33:11,072 --> 00:33:13,241
+Rip his arm out!
+
+464
+00:33:16,244 --> 00:33:17,620
+Break it!
+
+465
+00:33:17,704 --> 00:33:19,122
+Twist it off!
+
+466
+00:33:24,919 --> 00:33:27,088
+<i>There he is, the undefeated champion!</i>
+
+467
+00:33:27,171 --> 00:33:30,633
+<i>What a perfect match
+to defend the title of world champion!</i>
+
+468
+00:33:33,094 --> 00:33:38,224
+<i>Everyone is intoxicated by the artistry
+of Hercules, our god of battle!</i>
+
+469
+00:33:38,975 --> 00:33:40,893
+Hercules!
+
+470
+00:33:40,977 --> 00:33:43,688
+<i>Next month,
+Hercules will finally have a showdown</i>
+
+471
+00:33:43,771 --> 00:33:47,316
+<i>with Brando from Turkey,
+the European champion!</i>
+
+472
+00:33:48,901 --> 00:33:51,988
+<i>There it is, his signature pose!
+The god of battle!</i>
+
+473
+00:33:54,949 --> 00:33:57,952
+It's an amazing monument, Hercules.
+
+474
+00:33:59,996 --> 00:34:01,664
+I told them not to.
+
+475
+00:34:02,582 --> 00:34:06,878
+I said it would only ruin the view
+of the world heritage site.
+
+476
+00:34:06,961 --> 00:34:11,132
+But they ended up building a statue
+of my pankration suit.
+
+477
+00:34:12,842 --> 00:34:15,344
+Humans like that kind of stuff.
+
+478
+00:34:16,429 --> 00:34:18,681
+I saw the match last night.
+
+479
+00:34:19,223 --> 00:34:21,059
+You were strong, as usual.
+
+480
+00:34:22,685 --> 00:34:24,062
+As usual, huh?
+
+481
+00:34:25,188 --> 00:34:28,733
+Would you like to sit down
+for a cup of tea and talk?
+
+482
+00:34:29,233 --> 00:34:30,985
+I don't imitate humans.
+
+483
+00:34:32,570 --> 00:34:33,821
+I'm a robot.
+
+484
+00:34:34,489 --> 00:34:37,533
+A killing machine
+that destroys his opponents.
+
+485
+00:34:38,534 --> 00:34:41,287
+But in your recent matches...
+
+486
+00:34:42,997 --> 00:34:45,041
+You think I've gone soft, right?
+
+487
+00:34:45,625 --> 00:34:48,002
+That I held back last night
+when it really mattered.
+
+488
+00:34:48,628 --> 00:34:52,131
+Are you worried
+about my next match with Brando?
+
+489
+00:34:54,175 --> 00:34:57,053
+I heard you went to see him.
+
+490
+00:34:58,012 --> 00:34:58,930
+Yes.
+
+491
+00:34:59,013 --> 00:35:00,306
+He was in top shape.
+
+492
+00:35:00,389 --> 00:35:01,557
+I'll bet.
+
+493
+00:35:02,058 --> 00:35:05,311
+I've fought him many times,
+and I know he's tough.
+
+494
+00:35:07,647 --> 00:35:09,273
+Just like he was back then.
+
+495
+00:35:10,817 --> 00:35:15,029
+During the 39th Central Asian War,
+you mean?
+
+496
+00:35:22,829 --> 00:35:24,122
+Detective Gesicht,
+
+497
+00:35:24,664 --> 00:35:28,417
+do you know why humans
+love building these monuments?
+
+498
+00:35:32,463 --> 00:35:34,298
+Because they forget.
+
+499
+00:35:35,258 --> 00:35:40,847
+Before their memory fades,
+they build these things to remember.
+
+500
+00:35:40,930 --> 00:35:43,307
+But look at us.
+
+501
+00:35:44,100 --> 00:35:48,896
+Unless we erase them,
+our memories will last forever.
+
+502
+00:35:49,522 --> 00:35:51,816
+We remember things vividly.
+
+503
+00:35:53,234 --> 00:35:54,485
+Our comrades in arms.
+
+504
+00:35:54,986 --> 00:35:58,364
+Mountains of robot corpses on both sides.
+Ours and theirs.
+
+505
+00:36:01,909 --> 00:36:03,411
+That's how I learned
+
+506
+00:36:04,453 --> 00:36:05,621
+about murderous intent.
+
+507
+00:36:08,583 --> 00:36:12,879
+Ever since then, I haven't been able
+to destroy my opponents.
+
+508
+00:36:14,589 --> 00:36:16,841
+What do humans call this feeling?
+
+509
+00:36:18,843 --> 00:36:20,595
+Compassion, perhaps?
+
+510
+00:36:24,056 --> 00:36:24,932
+Say...
+
+511
+00:36:25,558 --> 00:36:26,392
+Yes?
+
+512
+00:36:26,475 --> 00:36:27,602
+Don't you think
+
+513
+00:36:29,020 --> 00:36:31,355
+that we are evolving?
+
+514
+00:37:07,391 --> 00:37:08,559
+<i>But why, Daddy?</i>
+
+515
+00:37:10,895 --> 00:37:14,065
+You promised
+that you'd come to the zoo with us!
+
+516
+00:37:14,649 --> 00:37:15,775
+Yeah.
+
+517
+00:37:15,858 --> 00:37:17,443
+Sorry, kiddos.
+
+518
+00:37:17,526 --> 00:37:21,280
+Some work came up
+that I have to attend to.
+
+519
+00:37:21,364 --> 00:37:22,740
+What?
+
+520
+00:37:22,823 --> 00:37:25,243
+You're just going to cancel on us?
+
+521
+00:37:25,326 --> 00:37:27,036
+I'll come with you next time.
+
+522
+00:37:27,119 --> 00:37:28,621
+It's a promise!
+
+523
+00:37:29,121 --> 00:37:31,332
+You'll just break your promise again!
+
+524
+00:37:32,917 --> 00:37:35,253
+No, I promise this as a man.
+
+525
+00:37:35,336 --> 00:37:39,966
+And real men never break their promises.
+
+526
+00:37:40,841 --> 00:37:43,970
+All right. Stop complaining!
+
+527
+00:37:44,595 --> 00:37:46,097
+I'm coming with you.
+
+528
+00:37:46,681 --> 00:37:48,724
+You're a liar, Daddy!
+
+529
+00:37:49,684 --> 00:37:51,060
+I'm sorry.
+
+530
+00:37:52,103 --> 00:37:54,522
+A sudden work matter...
+Did something happen?
+
+531
+00:37:55,940 --> 00:37:58,484
+Oh, it's an interview.
+
+532
+00:37:58,567 --> 00:38:00,027
+An interview?
+
+533
+00:38:02,780 --> 00:38:05,908
+It's a conversation with Miss Istanbul.
+
+534
+00:38:09,203 --> 00:38:13,874
+I owe this editor I know,
+and I couldn't say no.
+
+535
+00:38:15,209 --> 00:38:17,503
+Well, have fun at this "interview."
+
+536
+00:38:18,254 --> 00:38:21,048
+Hey, your husband
+is the European champ now.
+
+537
+00:38:21,132 --> 00:38:23,759
+I've got obligations...
+
+538
+00:38:40,484 --> 00:38:41,610
+What's the matter?
+
+539
+00:38:42,528 --> 00:38:44,530
+<i>Don't "what's the matter" me.</i>
+
+540
+00:38:44,613 --> 00:38:47,491
+<i>You took your pankration suit out
+without permission.</i>
+
+541
+00:38:47,575 --> 00:38:50,578
+It won't be a problem.
+I'll return it right away.
+
+542
+00:38:50,661 --> 00:38:52,872
+<i>That's not the point.</i>
+
+543
+00:38:52,955 --> 00:38:55,333
+<i>You even took the cargo truck
+without asking.</i>
+
+544
+00:38:55,416 --> 00:38:58,836
+<i>If anything happens,
+they won't let you fight in the match.</i>
+
+545
+00:38:58,919 --> 00:39:01,922
+<i>The match with Hercules
+is coming up next--</i>
+
+546
+00:39:02,006 --> 00:39:03,299
+That's exactly why.
+
+547
+00:39:03,382 --> 00:39:04,342
+<i>Huh?</i>
+
+548
+00:39:05,134 --> 00:39:08,763
+I'm borrowing it
+to get ready for the next match.
+
+549
+00:39:08,846 --> 00:39:10,723
+<i>That may be, but--</i>
+
+550
+00:39:17,772 --> 00:39:19,190
+Relax, pal.
+
+551
+00:39:35,414 --> 00:39:39,794
+Professor, do you think these incidents
+were caused by a human, or...
+
+552
+00:39:39,877 --> 00:39:41,629
+A robot?
+
+553
+00:39:42,421 --> 00:39:45,216
+Or a combination of the two?
+
+554
+00:39:46,008 --> 00:39:51,889
+The only precedent of a robot killing
+a human is the case of Brau1589.
+
+555
+00:39:53,599 --> 00:39:54,809
+Is that really true?
+
+556
+00:39:56,268 --> 00:39:57,269
+Why do you ask?
+
+557
+00:39:57,937 --> 00:40:04,777
+Never mind. So what kind of defects
+did the AI of Brau1589 have?
+
+558
+00:40:06,237 --> 00:40:07,655
+There weren't any.
+
+559
+00:40:08,239 --> 00:40:09,156
+What?
+
+560
+00:40:09,990 --> 00:40:12,660
+His AI was perfect.
+
+561
+00:40:13,327 --> 00:40:14,495
+Perfect...
+
+562
+00:40:15,287 --> 00:40:17,331
+A perfect AI killed a human...
+
+563
+00:40:17,998 --> 00:40:19,708
+What does that mean?
+
+564
+00:40:21,210 --> 00:40:22,169
+Could it be
+
+565
+00:40:23,462 --> 00:40:25,089
+that it was human?
+
+566
+00:40:35,933 --> 00:40:37,935
+This should be a good spot.
+
+567
+00:41:56,805 --> 00:41:57,890
+What's the matter?
+
+568
+00:41:57,973 --> 00:41:59,141
+Detective Gesicht?
+
+569
+00:42:00,184 --> 00:42:02,102
+Patch yourself in, Hercules!
+
+570
+00:42:04,522 --> 00:42:05,564
+No way!
+
+571
+00:42:07,066 --> 00:42:09,068
+Atom, you patch in too!
+
+572
+00:42:14,949 --> 00:42:16,283
+Atom, what's wrong?
+
+573
+00:42:17,201 --> 00:42:20,120
+I'm getting a signal from Istanbul...
+
+574
+00:42:32,925 --> 00:42:35,135
+Gesicht, what's going on here?
+
+575
+00:42:36,387 --> 00:42:38,305
+It's communication from Brando.
+
+576
+00:42:41,433 --> 00:42:45,062
+<i>Keep the channel... open!</i>
+
+577
+00:42:47,356 --> 00:42:48,274
+Brando!
+
+578
+00:42:48,357 --> 00:42:49,483
+Brando!
+
+579
+00:42:50,693 --> 00:42:54,363
+<i>I'll show you the fight I have in me!</i>
+
+580
+00:42:54,863 --> 00:42:56,949
+Stop! Stop it, Brando!
+
+581
+00:42:57,032 --> 00:42:59,201
+Brando, run!
+
+582
+00:42:59,285 --> 00:43:02,288
+I've identified his location.
+He's on the coast of the Black Sea.
+
+583
+00:43:02,371 --> 00:43:03,706
+Let's go, Gesicht!
+
+584
+00:43:07,668 --> 00:43:09,336
+<i>To avenge...</i>
+
+585
+00:43:11,046 --> 00:43:12,715
+<i>Mont Blanc!</i>
+
+586
+00:43:13,632 --> 00:43:17,261
+Brando, do not take it head-on!
+We're on our way!
+
+587
+00:43:35,237 --> 00:43:36,739
+The signal is disturbed.
+
+588
+00:43:38,949 --> 00:43:40,284
+What's happening, Atom?
+
+589
+00:43:41,827 --> 00:43:43,912
+Professor, I have to go!
+
+590
+00:43:43,996 --> 00:43:45,789
+But go where?
+
+591
+00:43:46,582 --> 00:43:48,876
+Someone is attacking Brando.
+
+592
+00:43:49,585 --> 00:43:50,628
+I have to hurry!
+
+593
+00:43:54,006 --> 00:43:55,341
+<i>So strong...</i>
+
+594
+00:43:55,424 --> 00:43:57,176
+<i>What the heck is this thing?</i>
+
+595
+00:44:17,488 --> 00:44:18,781
+What was that?
+
+596
+00:44:20,532 --> 00:44:22,743
+Brando, come in!
+
+597
+00:44:23,410 --> 00:44:24,453
+Brando!
+
+598
+00:44:25,371 --> 00:44:26,205
+Brando!
+
+599
+00:44:36,215 --> 00:44:37,132
+The sea...
+
+600
+00:44:50,312 --> 00:44:51,522
+<i>I did it.</i>
+
+601
+00:44:54,233 --> 00:44:55,192
+Brando!
+
+602
+00:44:55,901 --> 00:44:57,111
+<i>I beat it.</i>
+
+603
+00:44:58,737 --> 00:44:59,613
+Brando!
+
+604
+00:45:00,698 --> 00:45:02,950
+<i>I won.</i>
+
+605
+00:45:03,784 --> 00:45:07,705
+<i>But it got me too.</i>
+
+606
+00:45:08,956 --> 00:45:10,874
+We're coming! Hold on, Brando!
+
+607
+00:45:11,875 --> 00:45:13,043
+<i>Hercules.</i>
+
+608
+00:45:15,003 --> 00:45:16,422
+<i>Our next match,</i>
+
+609
+00:45:17,506 --> 00:45:19,550
+<i>I was looking forward to it.</i>
+
+610
+00:45:20,968 --> 00:45:21,927
+Me too.
+
+611
+00:45:22,428 --> 00:45:25,639
+<i>I would have beat you.</i>
+
+612
+00:45:25,723 --> 00:45:26,974
+Don't be silly!
+
+613
+00:45:27,933 --> 00:45:29,643
+You never know!
+
+614
+00:45:32,688 --> 00:45:34,273
+We're coming to get you!
+
+615
+00:45:35,232 --> 00:45:37,234
+Just stay there and wait for us!
+
+616
+00:45:38,736 --> 00:45:45,367
+<i>I'm sending you the data I analyzed
+on the guy I just fought.</i>
+
+617
+00:45:46,118 --> 00:45:48,287
+Brando, don't push yourself.
+
+618
+00:46:09,099 --> 00:46:10,100
+<i>Huh?</i>
+
+619
+00:46:10,893 --> 00:46:12,519
+<i>That's weird...</i>
+
+620
+00:46:13,187 --> 00:46:15,522
+That's Brando's family.
+
+621
+00:46:17,941 --> 00:46:18,859
+<i>Damn it...</i>
+
+622
+00:46:19,943 --> 00:46:20,986
+<i>My circuits are</i>
+
+623
+00:46:21,779 --> 00:46:23,322
+<i>all messed up.</i>
+
+624
+00:46:23,864 --> 00:46:25,824
+Brando, that's enough.
+
+625
+00:46:26,909 --> 00:46:28,076
+<i>Damn it.</i>
+
+626
+00:46:30,120 --> 00:46:31,830
+<i>I can't transmit</i>
+
+627
+00:46:33,207 --> 00:46:34,208
+<i>the correct data.</i>
+
+628
+00:46:35,167 --> 00:46:36,335
+You've done enough.
+
+629
+00:46:37,544 --> 00:46:39,087
+<i>That's odd.</i>
+
+630
+00:46:40,631 --> 00:46:41,757
+<i>Sorry, guys.</i>
+
+631
+00:46:43,050 --> 00:46:45,719
+<i>I can't control it.</i>
+
+632
+00:47:03,320 --> 00:47:04,822
+<i>Detective Gesicht.</i>
+
+633
+00:47:06,824 --> 00:47:08,158
+<i>Didn't I tell you?</i>
+
+634
+00:47:08,784 --> 00:47:11,203
+<i>I'm a lucky man.</i>
+
+635
+00:47:12,037 --> 00:47:12,871
+Yeah.
+
+636
+00:47:13,372 --> 00:47:14,540
+<i>I promised my kids</i>
+
+637
+00:47:15,249 --> 00:47:17,668
+<i>that I'd take them to the zoo.</i>
+
+638
+00:47:19,253 --> 00:47:22,381
+<i>I made the promise as a man.</i>
+
+639
+00:47:26,218 --> 00:47:27,886
+<i>Tell them</i>
+
+640
+00:47:29,388 --> 00:47:30,556
+<i>not to worry.</i>
+
+641
+00:47:32,140 --> 00:47:34,810
+<i>I'm a lucky man.</i>
+
+642
+00:47:40,232 --> 00:47:41,191
+Brando!
+
+643
+00:47:48,156 --> 00:47:50,784
+This is where Brando
+sent his last transmission from.
+
+644
+00:47:51,285 --> 00:47:54,705
+I've been sending him a signal,
+but there's no response.
+
+645
+00:47:55,455 --> 00:47:56,498
+All I can see is
+
+646
+00:47:57,165 --> 00:47:59,001
+spilled oil on the water's surface
+
+647
+00:48:00,085 --> 00:48:03,463
+and a huge amount of wreckage
+at the bottom of the ocean.
+
+648
+00:48:05,883 --> 00:48:06,967
+<i>Gesicht.</i>
+
+649
+00:48:07,050 --> 00:48:08,093
+<i>Hercules.</i>
+
+650
+00:48:11,763 --> 00:48:13,140
+For a brief moment,
+
+651
+00:48:13,223 --> 00:48:16,059
+did you notice something mixed in
+with the signals Brando sent?
+
+652
+00:48:16,143 --> 00:48:17,769
+No, I didn't.
+
+653
+00:48:18,562 --> 00:48:22,566
+Was it a signal from someone
+other than Brando?
+
+654
+00:48:22,649 --> 00:48:28,530
+Yes, a different AI
+that had gone out of control.
+
+655
+00:48:29,239 --> 00:48:30,365
+Something like noise.
+
+656
+00:48:31,366 --> 00:48:32,242
+Noise?
+
+657
+00:48:33,493 --> 00:48:35,078
+What could it be?
+
+658
+00:48:36,288 --> 00:48:39,207
+- Atom, can you bring it up on the monitor?
+- I can.
+
+659
+00:48:39,291 --> 00:48:41,960
+<i>Atom, send it to us as well.</i>
+
+660
+00:48:42,502 --> 00:48:43,378
+Understood.
+
+661
+00:48:44,504 --> 00:48:46,423
+Here, right after this.
+
+662
+00:48:48,383 --> 00:48:50,928
+What in the world is this?
+
+663
+00:49:01,104 --> 00:49:04,316
+What do humans call this?
+
+664
+00:49:06,026 --> 00:49:07,402
+Death incarnate.
+
+665
+00:49:08,278 --> 00:49:09,237
+Death incarnate?
+
+666
+00:49:11,114 --> 00:49:12,240
+Emotion.
+
+667
+00:49:17,245 --> 00:49:20,791
+Overwhelming... pain.
+
+668
+00:49:34,096 --> 00:49:37,099
+<i>This is the Blue Mosque Coliseum
+in Istanbul.</i>
+
+669
+00:49:38,892 --> 00:49:43,230
+<i>Scores of people are here
+to mourn the death of their hero, Brando.</i>
+
+670
+00:49:50,195 --> 00:49:51,697
+Daddy!
+
+671
+00:49:52,739 --> 00:49:56,910
+We'll go now to our reporter on the scene.
+
+672
+00:49:58,620 --> 00:50:00,080
+I'm here at the scene.
+
+673
+00:50:00,163 --> 00:50:03,834
+The ocean floor around here
+is covered with wreckage,
+
+674
+00:50:03,917 --> 00:50:07,129
+and it is assumed
+that most of it belongs to Brando.
+
+675
+00:50:08,505 --> 00:50:11,800
+The police and the military
+are continuing their search,
+
+676
+00:50:12,634 --> 00:50:15,137
+but sources say it would be impossible
+
+677
+00:50:15,220 --> 00:50:18,640
+to recover all the wreckage
+due to the muddy ocean floor.
+
+678
+00:50:30,777 --> 00:50:33,905
+How long are you going to let this go on?
+
+679
+00:50:33,989 --> 00:50:37,200
+The deadline for defending your title
+is coming soon!
+
+680
+00:50:38,285 --> 00:50:40,662
+Are you listening to me, Hercules?
+
+681
+00:50:43,707 --> 00:50:48,587
+If you're not going to fight,
+then I'll sue you for breach of contract!
+
+682
+00:50:48,670 --> 00:50:52,674
+I'm Al Haft, the biggest promoter
+there is! You hear me?
+
+683
+00:50:59,014 --> 00:51:00,932
+They haven't found a damn thing.
+
+684
+00:51:02,517 --> 00:51:04,895
+They haven't found
+a single piece of the killer.
+
+685
+00:51:06,063 --> 00:51:09,858
+All they've found so far
+are pulverized pieces of Brando.
+
+686
+00:51:10,776 --> 00:51:13,779
+Brando fought the killer here and won.
+
+687
+00:51:14,696 --> 00:51:17,824
+So, why can't we
+find pieces of the killer?
+
+688
+00:51:19,701 --> 00:51:20,619
+Hercules.
+
+689
+00:51:21,369 --> 00:51:24,664
+Even the military and the police have
+given up on recovering everything.
+
+690
+00:51:25,165 --> 00:51:29,294
+So, why should you be the one to do it,
+let alone out of your own pocket?
+
+691
+00:51:31,588 --> 00:51:33,715
+Is it your friendship with Brando?
+
+692
+00:51:34,633 --> 00:51:36,802
+Your fans are all waiting for you.
+
+693
+00:51:36,885 --> 00:51:39,513
+For Hercules, the god of battle,
+to come back to the ring.
+
+694
+00:51:40,013 --> 00:51:41,807
+I am too.
+
+695
+00:51:43,934 --> 00:51:45,519
+So please, Hercules.
+
+696
+00:51:45,602 --> 00:51:46,603
+Come back--
+
+697
+00:51:51,608 --> 00:51:55,278
+Hercules! We found Brando's arms!
+
+698
+00:51:55,946 --> 00:51:56,863
+Good work!
+
+699
+00:51:57,405 --> 00:51:59,241
+Take great care with the recovery!
+
+700
+00:51:59,324 --> 00:52:01,743
+Actually, it's a little complicated!
+
+701
+00:52:02,369 --> 00:52:05,163
+They were found on a rock reef
+about 100 km away from here,
+
+702
+00:52:05,247 --> 00:52:07,916
+not on the ocean floor!
+
+703
+00:52:07,999 --> 00:52:08,959
+We'll take you there!
+
+704
+00:52:10,293 --> 00:52:11,253
+Wait!
+
+705
+00:52:12,254 --> 00:52:13,213
+Hercules!
+
+706
+00:52:14,172 --> 00:52:17,509
+Come back!
+Come back and fight one more time!
+
+707
+00:52:20,679 --> 00:52:21,805
+Hercules.
+
+708
+00:52:33,525 --> 00:52:35,861
+Right over there, on that rock!
+
+709
+00:52:46,663 --> 00:52:48,039
+What the...
+
+710
+00:53:06,308 --> 00:53:08,143
+Brando's memory chip.
+
+711
+00:53:09,269 --> 00:53:10,103
+Horns.
+
+712
+00:53:12,480 --> 00:53:14,357
+I don't believe this...
+
+713
+00:53:15,483 --> 00:53:16,401
+The killer
+
+714
+00:53:17,444 --> 00:53:18,904
+isn't dead yet!
+
+715
+00:53:32,500 --> 00:53:37,005
+Brando!
+
+716
+00:56:10,700 --> 00:56:14,412
+Subtitle translation by: Astrid Oliver
+
