@@ -56,10 +56,10 @@ jobs:
             done
 
             # Add release links for folders one level below root
+            folder_name=$(basename "$dir")
             asset_name_1=${folder_name// /.}.-.condensed.audio.zip
             asset_name_2=${folder_name// /.}.zip
             if [ "$depth" -eq 2 ]; then
-                local folder_name=$(basename "$dir")
                 local tag=${folder_name// /_}
                 local owner=$(echo $GITHUB_REPOSITORY | cut -d/ -f1)
                 local repo=$(echo $GITHUB_REPOSITORY | cut -d/ -f2)
