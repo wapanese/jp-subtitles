@@ -1,0 +1,1369 @@
+1
+00:00:13,250 --> 00:00:16,950
+Blood pressure, 120 over 80;
+pulse, 92.
+
+2
+00:00:17,720 --> 00:00:19,250
+I will now remove the bullet.
+
+3
+00:00:30,700 --> 00:00:31,690
+I have removed the bullet.
+
+4
+00:00:34,740 --> 00:00:36,440
+The removal is complete.
+
+5
+00:00:38,510 --> 00:00:40,980
+It's a little early to be relieved;
+
+6
+00:00:41,050 --> 00:00:43,480
+we must still reinforce the walls
+of the damaged blood vessel.
+
+7
+00:00:43,920 --> 00:00:45,250
+Huh? Uh-huh...
+
+8
+00:00:46,020 --> 00:00:47,040
+Get the proline ready.
+
+9
+00:00:47,250 --> 00:00:48,220
+Yes, sir.
+
+10
+00:02:21,240 --> 00:02:24,200
+Downfall
+
+11
+00:02:28,560 --> 00:02:33,020
+Blood pressure, 128 over 72;
+pulse, 88.
+
+12
+00:02:33,660 --> 00:02:36,130
+Seems the anesthesia is still working.
+
+13
+00:02:45,840 --> 00:02:46,970
+Do your best...
+
+14
+00:02:47,870 --> 00:02:49,270
+Do your best to survive...
+
+15
+00:02:52,850 --> 00:02:54,750
+Oh... Dr. Boyer...
+
+16
+00:02:56,580 --> 00:02:59,050
+Looks like yours went well.
+
+17
+00:02:59,490 --> 00:03:01,320
+Yes. The surgery did...
+
+18
+00:03:01,920 --> 00:03:03,410
+The mayor died.
+
+19
+00:03:07,230 --> 00:03:11,250
+I-Is that so?
+That's a shame...
+
+20
+00:03:11,870 --> 00:03:14,990
+Humph! You act as though
+it's none of your concern.
+
+21
+00:03:15,400 --> 00:03:16,370
+Huh?!
+
+22
+00:03:16,440 --> 00:03:19,170
+You're the very one
+who abandoned our team
+
+23
+00:03:19,240 --> 00:03:20,730
+just before surgery.
+
+24
+00:03:21,070 --> 00:03:24,270
+Oh... but, that child
+was brought in before the mayor...
+
+25
+00:03:24,340 --> 00:03:26,370
+What does it matter, who was first?
+
+26
+00:03:26,950 --> 00:03:29,470
+The problem is, because you selfishly
+pulled out of our team,
+
+27
+00:03:29,550 --> 00:03:32,750
+we were forced to try to fill
+the vacuum you created!
+
+28
+00:03:33,520 --> 00:03:35,220
+B-But... Listen to me! I...
+
+29
+00:03:35,290 --> 00:03:37,310
+You upset the teamwork.
+
+30
+00:03:38,660 --> 00:03:40,820
+By order of the Director,
+
+31
+00:03:41,360 --> 00:03:43,230
+I instructed you
+to perform the surgery...
+
+32
+00:03:43,300 --> 00:03:44,460
+on the mayor.
+
+33
+00:03:45,130 --> 00:03:47,860
+But you... You ignored me!
+
+34
+00:03:48,330 --> 00:03:50,300
+B-but, Chief, at that time...
+
+35
+00:03:50,370 --> 00:03:53,400
+The success of a surgery
+depends upon trust
+
+36
+00:03:53,470 --> 00:03:55,300
+among the entire staff.
+
+37
+00:03:55,710 --> 00:03:57,870
+But you made a grand stand play!
+
+38
+00:03:58,910 --> 00:04:00,880
+I have already reported this
+to the Director.
+
+39
+00:04:01,350 --> 00:04:04,940
+He greatly regrets this incident,
+
+40
+00:04:05,020 --> 00:04:07,610
+which has lowered
+the prestige of this hospital.
+
+41
+00:04:08,390 --> 00:04:09,690
+Prepare yourself!
+
+42
+00:04:14,930 --> 00:04:15,900
+Uh, sir...
+
+43
+00:04:16,300 --> 00:04:17,260
+Please wait a minute!!
+
+44
+00:04:21,300 --> 00:04:22,330
+Dr. Tenma...
+
+45
+00:04:22,640 --> 00:04:28,160
+At present, that child's blood pressure
+is 114 over 82; pulse, 84.
+
+46
+00:04:28,540 --> 00:04:31,340
+His vitals are very stable.
+
+47
+00:04:32,080 --> 00:04:34,950
+I see...
+That's good...
+
+48
+00:04:35,480 --> 00:04:38,850
+Um... That operation...
+It was wonderful.
+
+49
+00:04:48,030 --> 00:04:50,550
+<i>Mayor Roddecker, who collapsed
+while on holiday,</i>
+
+50
+00:04:50,630 --> 00:04:52,830
+<i>has passed away at the hospital.</i>
+
+51
+00:04:54,230 --> 00:04:55,390
+<i>Upon hearing this unexpected news,</i>
+
+52
+00:04:55,470 --> 00:04:57,100
+<i>people have been arriving
+at the Mayor's office</i>
+
+53
+00:04:57,170 --> 00:04:59,160
+<i>with bouquets of flowers,</i>
+
+54
+00:04:59,240 --> 00:05:01,170
+<i>many reminiscing on
+the life of the Mayor.</i>
+
+55
+00:05:02,410 --> 00:05:05,940
+<i>A press conference has just been held
+at Eisler Memorial Hospital</i>
+
+56
+00:05:06,010 --> 00:05:07,100
+<i>where the Mayor was taken.</i>
+
+57
+00:05:08,620 --> 00:05:10,850
+<i>The cause of
+Mayor Roddecker's death</i>
+
+58
+00:05:10,920 --> 00:05:12,940
+<i>was due to a cerebral infarction
+stemming from</i>
+
+59
+00:05:13,020 --> 00:05:14,710
+<i>a severe emphraxis
+of the inner carotid artery.</i>
+
+60
+00:05:15,460 --> 00:05:20,590
+We did everything we could for him,
+but it caused severe brain swelling,
+
+61
+00:05:20,660 --> 00:05:22,790
+which resulted in
+this unfortunate outcome.
+
+62
+00:05:23,930 --> 00:05:26,990
+<i>As for naming a successor,
+a city official explained that</i>
+
+63
+00:05:27,070 --> 00:05:29,900
+<i>concrete steps will be taken</i>
+
+64
+00:05:29,970 --> 00:05:31,300
+<i>- as soon as possible.
+</i>- I've got to get some sleep.
+
+65
+00:05:31,900 --> 00:05:36,360
+<i>In the case of the murder of
+Mr. and Mrs. Liebert late last night...</i>
+
+66
+00:05:37,340 --> 00:05:39,830
+<i>Judging from the signs of
+a search in the rooms,</i>
+
+67
+00:05:39,910 --> 00:05:41,240
+<i>police believe
+this may have been a robbery...</i>
+
+68
+00:05:41,310 --> 00:05:44,220
+<i>or perhaps the act of
+a political terrorist</i>
+
+69
+00:05:44,280 --> 00:05:46,580
+<i>against this couple
+who had fled here from their country.</i>
+
+70
+00:05:46,650 --> 00:05:48,780
+<i>A two-pronged investigation
+is under way.</i>
+
+71
+00:05:50,390 --> 00:05:52,420
+<i>Of this couple's twin children, the son,</i>
+
+72
+00:05:52,490 --> 00:05:54,930
+<i>who received a gunshot wound
+to the head</i>
+
+73
+00:05:55,360 --> 00:05:56,990
+<i>underwent successful surgery, but...</i>
+
+74
+00:05:57,060 --> 00:06:00,120
+<i>has still to regain consciousness.
+He is listed in critical condition.</i>
+
+75
+00:06:02,100 --> 00:06:03,070
+<i>Now, for the weather...</i>
+
+76
+00:06:04,170 --> 00:06:05,300
+<i>The whole country is</i>
+
+77
+00:06:05,370 --> 00:06:06,340
+<i>- in for clear weather...
+</i>- That boy...
+
+78
+00:06:06,570 --> 00:06:08,060
+I wonder what will happen to him.
+
+79
+00:06:10,340 --> 00:06:12,140
+I'm just like him...
+
+80
+00:06:14,580 --> 00:06:16,950
+Mr. Reinhardt in ICU
+is complaining that
+
+81
+00:06:17,020 --> 00:06:18,810
+she just can't sleep...
+
+82
+00:06:19,420 --> 00:06:21,940
+Can't we give her something
+to help her sleep?
+
+83
+00:06:26,090 --> 00:06:28,750
+Dr. Tenma, are you listening to me?
+
+84
+00:06:28,900 --> 00:06:29,860
+Huh?
+
+85
+00:06:29,930 --> 00:06:35,560
+O-Oh... in that case,
+give her one Halcyon tablet.
+
+86
+00:06:40,340 --> 00:06:43,430
+That man! He's been unfocused
+all day long.
+
+87
+00:06:44,980 --> 00:06:45,940
+Yo!
+
+88
+00:06:46,880 --> 00:06:47,970
+Dr. Becker!
+
+89
+00:06:48,350 --> 00:06:50,440
+Seems you've had a trying time.
+
+90
+00:06:51,080 --> 00:06:52,950
+Has the Director
+handed down his judgment?
+
+91
+00:06:54,850 --> 00:06:55,820
+Huh?
+
+92
+00:06:56,920 --> 00:06:58,860
+I warned you, didn't I?
+
+93
+00:06:59,130 --> 00:07:01,090
+I told you the hospital
+is ruled by politics.
+
+94
+00:07:01,960 --> 00:07:03,830
+If you played your cards right,
+
+95
+00:07:03,900 --> 00:07:07,530
+your future would have been
+smooth sailing.
+
+96
+00:07:09,040 --> 00:07:13,230
+Well... I guess this means you and I
+are in the same boat now.
+
+97
+00:07:18,080 --> 00:07:19,740
+Now, don't be so depressed.
+
+98
+00:07:20,350 --> 00:07:22,780
+You'll get a chance
+to redeem your reputation.
+
+99
+00:07:23,480 --> 00:07:26,320
+Let's go have some drinks.
+It'll cheer you up.
+
+100
+00:07:32,290 --> 00:07:33,260
+Uh, excuse me!
+
+101
+00:07:33,930 --> 00:07:37,620
+I still need to get a statement
+from the girl twin...
+
+102
+00:07:38,000 --> 00:07:40,360
+I can't discuss that with you now,
+Detective!
+
+103
+00:07:40,430 --> 00:07:41,400
+Huh?!
+
+104
+00:07:41,470 --> 00:07:43,490
+That girl is gone from her room!
+
+105
+00:07:43,600 --> 00:07:44,660
+What?!
+
+106
+00:07:46,670 --> 00:07:49,070
+That girl is always
+slipping out of her room
+
+107
+00:07:49,140 --> 00:07:50,910
+and wandering through the hospital!
+
+108
+00:07:51,240 --> 00:07:52,210
+Huh?!
+
+109
+00:08:01,490 --> 00:08:02,820
+...me...
+
+110
+00:08:05,930 --> 00:08:07,480
+Kill...
+
+111
+00:08:13,770 --> 00:08:15,130
+Kill me...
+
+112
+00:08:18,240 --> 00:08:19,360
+And so...
+
+113
+00:08:19,770 --> 00:08:21,970
+Eisler Memorial Hospital has
+proven to be
+
+114
+00:08:22,040 --> 00:08:25,770
+the nation's leading medical facility.
+
+115
+00:08:26,350 --> 00:08:27,540
+That is first and foremost,
+
+116
+00:08:27,610 --> 00:08:30,210
+the result of our being blessed with
+
+117
+00:08:30,280 --> 00:08:32,050
+such excellent personnel
+such as you all.
+
+118
+00:08:32,120 --> 00:08:33,680
+I am sincerely grateful.
+
+119
+00:08:37,560 --> 00:08:38,520
+Yesterday...
+
+120
+00:08:38,590 --> 00:08:42,030
+unfortunately, the Mayor died
+here in this hospital.
+
+121
+00:08:42,200 --> 00:08:45,460
+But, as always,
+we had done our utmost to save him.
+
+122
+00:08:46,030 --> 00:08:50,200
+The public's evaluation of this hospital
+has not changed one bit.
+
+123
+00:08:51,240 --> 00:08:55,110
+Let's have a round of applause
+for Dr. Boyer and Dr. Eisen,
+
+124
+00:08:55,170 --> 00:08:58,470
+who strived to the end
+to save the Mayor's life.
+
+125
+00:09:15,560 --> 00:09:17,790
+I looked at your paper.
+
+126
+00:09:18,160 --> 00:09:20,360
+I hope you will continue to
+work on your research.
+
+127
+00:09:28,070 --> 00:09:29,040
+Director Heinemann!
+
+128
+00:09:30,840 --> 00:09:34,840
+Uh... I must apologize
+for my actions...
+
+129
+00:09:37,520 --> 00:09:41,250
+Now, now... What's done is done.
+Director?!
+
+130
+00:09:42,050 --> 00:09:46,420
+You did what you thought you should.
+Let's leave it at that.
+
+131
+00:09:47,930 --> 00:09:48,890
+Director...
+
+132
+00:09:49,460 --> 00:09:50,930
+And now...
+
+133
+00:09:51,000 --> 00:09:54,630
+let's have a word from
+the Head of Neurosurgery!
+
+134
+00:09:55,900 --> 00:09:58,800
+Pardon me... I'm being called up.
+
+135
+00:09:59,640 --> 00:10:00,730
+It's not you.
+
+136
+00:10:01,570 --> 00:10:02,540
+Huh?
+
+137
+00:10:02,610 --> 00:10:04,970
+Here's the newly appointed...
+
+138
+00:10:05,080 --> 00:10:09,240
+Dr. Boyer, please...
+Please come this way.
+
+139
+00:10:11,580 --> 00:10:13,210
+Sir, what is the meaning of this?
+
+140
+00:10:13,450 --> 00:10:15,750
+If you wish to remain at this hospital,
+you may do so,
+
+141
+00:10:15,820 --> 00:10:19,310
+but you'd better give up the idea of
+rising any further as a doctor.
+
+142
+00:10:19,930 --> 00:10:22,190
+That would be impossible for
+someone with a flawed character
+
+143
+00:10:22,260 --> 00:10:23,230
+such as yours.
+
+144
+00:10:24,900 --> 00:10:27,260
+I'll recognize your skill as a surgeon,
+but that is all.
+
+145
+00:10:27,530 --> 00:10:29,230
+You should also give up any ideas of
+
+146
+00:10:29,300 --> 00:10:31,170
+presenting any papers
+at future conferences.
+
+147
+00:10:34,440 --> 00:10:36,370
+B-But, sir... Please listen to me.
+
+148
+00:10:36,440 --> 00:10:38,410
+Even if you wish to move
+to another hospital,
+
+149
+00:10:38,480 --> 00:10:40,740
+I have no intention of
+writing you a recommendation.
+
+150
+00:10:41,450 --> 00:10:43,850
+This means it's no use for you
+to have any ambition.
+
+151
+00:10:44,180 --> 00:10:46,580
+You may consider your path
+to becoming
+
+152
+00:10:46,650 --> 00:10:48,180
+the doctor you envisioned closed.
+
+153
+00:11:00,030 --> 00:11:01,520
+Surgery requires teamwork.
+
+154
+00:11:01,970 --> 00:11:05,100
+Only with the help of each
+and every one of you
+
+155
+00:11:05,170 --> 00:11:06,760
+can a life be saved.
+
+156
+00:11:19,290 --> 00:11:20,250
+Eva...
+
+157
+00:11:24,420 --> 00:11:26,860
+Eva, won't you talk to your father
+for me?
+
+158
+00:11:27,460 --> 00:11:28,950
+I haven't done anything wrong!
+
+159
+00:11:29,530 --> 00:11:30,890
+I just operated on
+an emergency case
+
+160
+00:11:30,960 --> 00:11:33,490
+in the order in which
+he was brought in!
+
+161
+00:11:45,640 --> 00:11:48,370
+That's... your engagement ring.
+
+162
+00:11:49,420 --> 00:11:51,040
+You're such a fool...
+
+163
+00:11:51,480 --> 00:11:52,450
+Huh?
+
+164
+00:11:59,660 --> 00:12:00,630
+Eva!!
+
+165
+00:12:01,060 --> 00:12:03,460
+Why, Dr. Norden,
+don't you look elegant?
+
+166
+00:12:03,760 --> 00:12:07,530
+As do you! You're more beautiful
+than ever tonight, Eva.
+
+167
+00:12:40,270 --> 00:12:41,630
+What a laugh, isn't it?
+
+168
+00:12:43,170 --> 00:12:45,900
+After coming across
+Director Heinemann's paper,
+
+169
+00:12:45,970 --> 00:12:49,410
+I came here to Germany,
+and he made me what I am today...
+
+170
+00:12:50,680 --> 00:12:51,940
+Now that I think about it,
+
+171
+00:12:52,010 --> 00:12:55,710
+I suppose that paper
+that I was so impressed by
+
+172
+00:12:55,780 --> 00:12:59,680
+was probably written for him
+by someone somewhere...
+
+173
+00:13:02,320 --> 00:13:05,290
+I knew that he was using me...
+
+174
+00:13:05,360 --> 00:13:07,950
+but I believed,
+when I reached a certain position,
+
+175
+00:13:08,030 --> 00:13:11,050
+I would be able to work on research
+of my choice to my heart's content.
+
+176
+00:13:12,670 --> 00:13:17,760
+<i>We are scholars, first and foremost.
+Isn't that right?</i>
+
+177
+00:13:18,040 --> 00:13:21,530
+That's not right! Saving people's lives
+is what's most important to a doctor!!
+
+178
+00:13:23,140 --> 00:13:25,510
+<i>After all, people's lives
+aren't created equal.</i>
+
+179
+00:13:25,580 --> 00:13:26,550
+You're wrong!
+
+180
+00:13:26,610 --> 00:13:28,240
+There is no distinction
+between people's lives!
+
+181
+00:13:28,950 --> 00:13:30,510
+I am not wrong!
+
+182
+00:13:31,020 --> 00:13:32,950
+You say there's a flaw
+in my character?
+
+183
+00:13:33,220 --> 00:13:34,190
+What about you?!
+
+184
+00:13:34,550 --> 00:13:36,820
+You call yourself a doctor;
+but you're just money hungry!
+
+185
+00:13:37,290 --> 00:13:39,520
+That bastard... That bastard...
+
+186
+00:13:40,460 --> 00:13:41,890
+He's better off dead!
+
+187
+00:13:51,770 --> 00:13:53,000
+I have you to thank...
+
+188
+00:13:53,440 --> 00:13:56,740
+You opened my eyes, as a doctor...
+
+189
+00:13:57,840 --> 00:13:58,940
+You must do your best to live.
+
+190
+00:13:59,850 --> 00:14:02,370
+I threw everything away
+in order to operate on you...
+
+191
+00:14:05,280 --> 00:14:08,520
+That's how far I went
+in order to bring you back to life.
+
+192
+00:14:35,310 --> 00:14:37,610
+You know your name, don't you?
+
+193
+00:14:38,320 --> 00:14:41,650
+Your name is Anna Liebert,
+isn't that right?
+
+194
+00:14:48,290 --> 00:14:51,530
+I told you, didn't I, Detective?
+It's too soon.
+
+195
+00:14:52,030 --> 00:14:54,190
+Can't anything be done, Doctor?
+
+196
+00:14:55,230 --> 00:14:58,970
+After all, she saw her parents
+shot to death before her very eyes.
+
+197
+00:14:59,140 --> 00:15:01,130
+She has no physical wounds,
+
+198
+00:15:01,210 --> 00:15:04,040
+but extreme trauma seems to have
+brought on amnesia.
+
+199
+00:15:05,180 --> 00:15:06,700
+Could you please refrain from
+
+200
+00:15:06,780 --> 00:15:08,580
+trying to get a statement from her
+for a while?
+
+201
+00:15:09,320 --> 00:15:11,410
+This is a difficult case, you see...
+
+202
+00:15:12,120 --> 00:15:14,520
+The victim was
+an East German diplomat.
+
+203
+00:15:15,390 --> 00:15:19,020
+If we don't solve this quickly,
+the BKA will come.
+
+204
+00:15:19,560 --> 00:15:21,790
+Those guys always come
+
+205
+00:15:21,860 --> 00:15:23,920
+and steal the thunder from
+us state police!
+
+206
+00:15:24,460 --> 00:15:26,160
+I haven't got the time to take it slow.
+
+207
+00:15:26,630 --> 00:15:30,470
+Oh... What if we do this?
+We let her see her brother.
+
+208
+00:15:30,900 --> 00:15:33,930
+She'll be relieved to see him
+and her memory might return.
+
+209
+00:15:34,610 --> 00:15:38,340
+I cannot agree on such a gamble-
+one suggested by an amateur, at that!
+
+210
+00:15:38,710 --> 00:15:41,540
+Besides, Dr. Tenma
+will probably not permit it.
+
+211
+00:15:41,710 --> 00:15:42,680
+Tenma?
+
+212
+00:15:42,820 --> 00:15:44,680
+He's the doctor
+in charge of her brother Johan.
+
+213
+00:15:46,550 --> 00:15:49,280
+Tsk... What the heck
+am I supposed to do?!
+
+214
+00:15:55,160 --> 00:15:56,590
+Well, Dr. Tenma...
+
+215
+00:15:57,160 --> 00:16:00,600
+You seem to be in a daze.
+You look awfully tired.
+
+216
+00:16:01,470 --> 00:16:03,800
+I've been so busy
+with emergency surgeries.
+
+217
+00:16:04,500 --> 00:16:06,900
+They've been working you
+to the bone...
+
+218
+00:16:06,970 --> 00:16:08,570
+ever since you were
+demoted from Chief.
+
+219
+00:16:09,440 --> 00:16:12,540
+I don't mind.
+It actually makes me feel better.
+
+220
+00:16:13,850 --> 00:16:15,400
+Hey, now... Are you all right?
+
+221
+00:16:18,420 --> 00:16:20,980
+I'm sorry, I've just been paged.
+
+222
+00:16:22,990 --> 00:16:25,360
+You're so tired,
+but you still have work to do?
+
+223
+00:16:25,890 --> 00:16:28,120
+The more diligent you are,
+the worse it'll be for you!
+
+224
+00:16:30,230 --> 00:16:31,820
+Look at this, Director Heinemann...
+
+225
+00:16:32,330 --> 00:16:35,100
+See all the gifts
+and letters of encouragement.
+
+226
+00:16:35,600 --> 00:16:38,700
+There are mountains of them
+in his sister's room, too.
+
+227
+00:16:39,210 --> 00:16:42,500
+After losing their parents
+these two only have each other.
+
+228
+00:16:42,680 --> 00:16:45,580
+The mass media keeps reporting on
+their heartbreaking plight,
+
+229
+00:16:45,650 --> 00:16:46,810
+and this is the result.
+
+230
+00:16:47,550 --> 00:16:51,110
+As far as this hospital is concerned,
+they're nothing but an inconvenience;
+
+231
+00:16:51,180 --> 00:16:52,950
+what with no sign of anyone paying
+their medical expenses.
+
+232
+00:16:53,020 --> 00:16:54,040
+Now, now...
+
+233
+00:16:54,120 --> 00:16:56,680
+So their story is a pitiful one-
+that's just fine.
+
+234
+00:16:56,790 --> 00:16:57,760
+Huh?
+
+235
+00:16:57,820 --> 00:17:00,520
+That means this hospital is
+garnering attention.
+
+236
+00:17:01,060 --> 00:17:04,330
+For that reason alone,
+these kids are valuable...
+
+237
+00:17:05,100 --> 00:17:06,060
+Don't you see?
+
+238
+00:17:06,570 --> 00:17:07,790
+Uh, yes...
+
+239
+00:17:08,370 --> 00:17:09,930
+Why don't we do this?
+
+240
+00:17:10,470 --> 00:17:15,930
+We'll give the media
+a photo of the siblings together.
+
+241
+00:17:16,110 --> 00:17:20,370
+Yes, the media keeps asking
+for something like that.
+
+242
+00:17:20,650 --> 00:17:23,270
+Do it. It'll be a picture
+of the orphaned siblings
+
+243
+00:17:23,350 --> 00:17:26,380
+trying their best to live
+within the warmhearted care
+
+244
+00:17:26,450 --> 00:17:28,940
+of our hospital's staff.
+
+245
+00:17:29,320 --> 00:17:32,810
+But the boy's doctor says
+it is still too early
+
+246
+00:17:32,890 --> 00:17:34,330
+to allow them to see each other.
+
+247
+00:17:34,590 --> 00:17:36,150
+Who's on his case?
+
+248
+00:17:36,700 --> 00:17:37,920
+It's Dr. Tenma.
+
+249
+00:17:38,630 --> 00:17:39,600
+Dismiss him.
+
+250
+00:17:40,330 --> 00:17:41,300
+What?
+
+251
+00:17:42,370 --> 00:17:45,830
+There is no need to give that man
+a position that gets so much attention.
+
+252
+00:17:46,610 --> 00:17:49,340
+Take Dr. Tenma off the case.
+
+253
+00:17:49,540 --> 00:17:50,510
+Yes, sir!
+
+254
+00:17:54,380 --> 00:17:56,580
+This is a heartwarming gift
+from the citizens.
+
+255
+00:17:56,820 --> 00:17:58,040
+Why don't you have one?
+
+256
+00:17:58,780 --> 00:17:59,750
+Thank you.
+
+257
+00:18:08,960 --> 00:18:10,830
+How do you feel, Mrs. Hankel?
+
+258
+00:18:11,360 --> 00:18:15,630
+Thanks to you, I feel quite well.
+
+259
+00:18:16,100 --> 00:18:18,230
+Your stitches will be removed soon,
+
+260
+00:18:18,300 --> 00:18:19,570
+so it won't be long
+until you're released.
+
+261
+00:18:19,910 --> 00:18:22,000
+I'll be able to go home?
+
+262
+00:18:22,510 --> 00:18:26,340
+Yes, but as I said, you must rest.
+
+263
+00:18:26,680 --> 00:18:28,310
+Of course, I will.
+
+264
+00:18:29,950 --> 00:18:31,810
+Give Mrs. Hankel regular doses
+
+265
+00:18:31,880 --> 00:18:33,370
+of an anticonvulsant
+and a hypotensive.
+
+266
+00:18:39,030 --> 00:18:39,990
+Wake up, Anna!
+
+267
+00:18:42,460 --> 00:18:43,790
+W-What are you doing?
+
+268
+00:18:44,260 --> 00:18:45,290
+Dr. Tenma!
+
+269
+00:18:45,830 --> 00:18:50,600
+They let her see her brother.
+Then she gave a loud scream and...
+
+270
+00:18:50,870 --> 00:18:51,930
+Why did you bring them together?!
+
+271
+00:19:02,150 --> 00:19:03,210
+Dr. Tenma...
+
+272
+00:19:03,520 --> 00:19:04,480
+Take her back to her room, quickly!
+
+273
+00:19:04,750 --> 00:19:05,720
+Yes, sir!
+
+274
+00:19:06,320 --> 00:19:09,340
+Dr. Boyer, what is the meaning of this?
+Why the camera?
+
+275
+00:19:09,890 --> 00:19:13,920
+Oh... We're going to give the media
+
+276
+00:19:13,990 --> 00:19:15,690
+a picture of the emotional meeting
+of the two children.
+
+277
+00:19:16,600 --> 00:19:20,690
+Who allowed you to do such a thing?
+I am the boy's doctor.
+
+278
+00:19:21,070 --> 00:19:23,760
+You have been dismissed
+as Johan's doctor.
+
+279
+00:19:24,040 --> 00:19:25,000
+Wha?!
+
+280
+00:19:25,540 --> 00:19:27,030
+As of today, he is my patient.
+
+281
+00:19:27,670 --> 00:19:30,640
+I decided that it would be fine
+to let them see each other.
+
+282
+00:19:34,250 --> 00:19:35,210
+Those children...
+
+283
+00:19:36,620 --> 00:19:38,310
+Don't make those children fodder
+for the media!
+
+284
+00:19:38,780 --> 00:19:39,910
+We did it by order of the Director.
+
+285
+00:19:40,220 --> 00:19:43,050
+I think it would be best for you
+not to fight it.
+
+286
+00:19:43,390 --> 00:19:44,880
+I'm the one who saved this boy!
+
+287
+00:19:45,160 --> 00:19:47,520
+I have a duty to protect him
+until he is completely healed!
+
+288
+00:19:47,860 --> 00:19:49,850
+If that's the case,
+take a look at the boy's reaction!
+
+289
+00:19:58,170 --> 00:20:01,940
+As soon as he saw his sister,
+he extended his hand and cried tears.
+
+290
+00:20:02,580 --> 00:20:05,810
+He regained consciousness
+and showed a normal reaction.
+
+291
+00:20:06,680 --> 00:20:08,980
+That means the surgery
+was a great success.
+
+292
+00:20:10,320 --> 00:20:12,840
+Good job. Your work is done now.
+
+293
+00:20:13,690 --> 00:20:16,020
+Get back to where you belong.
+
+294
+00:20:28,230 --> 00:20:30,630
+Damn it...
+Don't make me laugh!
+
+295
+00:20:32,640 --> 00:20:35,110
+Who cares what the Director says?
+
+296
+00:20:35,740 --> 00:20:38,230
+Who cares what the Chief says?
+
+297
+00:20:39,210 --> 00:20:43,880
+They're all money and power hungry!
+
+298
+00:20:44,620 --> 00:20:46,050
+Damn them!
+
+299
+00:20:54,660 --> 00:20:58,760
+I... I am not wrong...
+
+300
+00:21:13,310 --> 00:21:15,140
+I'm home, Father...
+
+301
+00:21:18,080 --> 00:21:20,310
+Father? Are you in your room?
+
+302
+00:21:31,300 --> 00:21:34,700
+Chief?
+Are you still in a meeting at this hour?
+
+303
+00:21:52,550 --> 00:21:54,640
+Father, are you asleep?
+
+304
+00:21:57,990 --> 00:21:59,010
+I'm coming in.
+
+305
+00:22:21,310 --> 00:22:24,650
+That bastard... He's better off dead...
+
+306
+00:23:49,070 --> 00:23:53,490
+A Murder
+
