@@ -1,0 +1,1136 @@
+1
+00:00:00,000 --> 00:00:03,086
+NORTHERN LANDS, RUINS OF THE KING'S TOMB
+
+2
+00:00:06,048 --> 00:00:09,007
+All of you here are the 18 people
+who have passed the first exam.
+
+3
+00:00:09,007 --> 00:00:10,048
+PROCTOR OF THE SECOND EXAM
+SENSE, FIRST-CLASS MAGE
+
+4
+00:00:10,048 --> 00:00:13,002
+First of all, congratulations on passing.
+
+5
+00:00:14,015 --> 00:00:16,089
+Regarding the exams
+that I have been in charge of,
+
+6
+00:00:17,029 --> 00:00:21,096
+there have been many rumors
+of their results all over the place.
+
+7
+00:00:23,096 --> 00:00:27,047
+I'm sure some of you
+have heard about them.
+
+8
+00:00:27,088 --> 00:00:30,011
+That said,
+there is no need to be so wary.
+
+9
+00:00:30,097 --> 00:00:33,026
+The exam itself is simple.
+
+10
+00:00:33,097 --> 00:00:36,022
+Anyone aiming to become
+a first-class mage
+
+11
+00:00:36,022 --> 00:00:38,041
+should be able to clear it
+without difficulties.
+
+12
+00:00:40,001 --> 00:00:44,015
+Now then, I shall explain
+the details of the second exam.
+
+13
+00:01:08,097 --> 00:01:12,089
+FRIEREN: BEYOND JOURNEY'S END
+
+14
+00:02:14,099 --> 00:02:17,099
+EPISODE 23: CONQUERING THE LABYRINTH
+
+15
+00:02:19,021 --> 00:02:21,087
+The second exam is a dungeon raid.
+
+16
+00:02:22,046 --> 00:02:26,001
+You will all attempt to conquer
+the Ruin of the King's Tomb.
+
+17
+00:02:27,092 --> 00:02:30,009
+There is only one condition
+to pass the exam.
+
+18
+00:02:30,059 --> 00:02:34,001
+You must reach the innermost
+depths of the tomb.
+
+19
+00:02:35,047 --> 00:02:37,045
+You see, I'm a pacifist.
+
+20
+00:02:37,085 --> 00:02:39,076
+I do not enjoy bloodshed.
+
+21
+00:02:39,076 --> 00:02:43,052
+Therefore, anyone who reaches
+the goal will pass.
+
+22
+00:02:43,083 --> 00:02:44,069
+Wait.
+
+23
+00:02:45,081 --> 00:02:50,027
+This is an unmapped dungeon
+where many adventurers never returned alive.
+
+24
+00:02:50,069 --> 00:02:53,019
+Are you trying to make
+everyone fail again?
+
+25
+00:02:53,019 --> 00:02:54,053
+What are you talking about?
+
+26
+00:02:55,086 --> 00:02:59,041
+You're all aiming to become
+among the greatest of mages.
+
+27
+00:03:00,041 --> 00:03:03,075
+First-class mages make
+the impossible possible.
+
+28
+00:03:04,037 --> 00:03:09,013
+You must keep going forward, even if
+the path is unexplored or untrodden.
+
+29
+00:03:10,055 --> 00:03:15,034
+How should we prove that
+we've reached the innermost depth?
+
+30
+00:03:15,034 --> 00:03:18,001
+Do we need to bring back
+treasures or the like?
+
+31
+00:03:18,059 --> 00:03:20,049
+There is no need to prove it.
+
+32
+00:03:20,097 --> 00:03:23,064
+I will accompany you
+all the way down.
+
+33
+00:03:24,013 --> 00:03:27,011
+Of course, I won't lend a hand
+to any of the participants.
+
+34
+00:03:28,027 --> 00:03:32,023
+One more thing,
+I'm giving you these bottles.
+
+35
+00:03:34,032 --> 00:03:37,003
+This thing was designed
+by the first-class mage Lernen.
+
+36
+00:03:37,039 --> 00:03:39,031
+It's a golem that will help you escape.
+
+37
+00:03:40,041 --> 00:03:42,099
+By breaking the bottle,
+you will summon the golem,
+
+38
+00:03:42,099 --> 00:03:45,057
+and it will carry you
+out of the dungeon.
+
+39
+00:03:46,005 --> 00:03:49,013
+It's still a prototype,
+but it's safe enough.
+
+40
+00:03:49,096 --> 00:03:52,011
+If you use it, you will fail the exam,
+
+41
+00:03:52,011 --> 00:03:55,013
+but if you think you can no longer
+continue due to injury or the like,
+
+42
+00:03:55,013 --> 00:03:56,067
+do not hesitate to use it.
+
+43
+00:03:57,022 --> 00:04:00,067
+I can't let people
+with promising futures die.
+
+44
+00:04:02,001 --> 00:04:06,064
+Also, the bottles will break
+on their own at dawn tomorrow.
+
+45
+00:04:07,069 --> 00:04:10,007
+That is the time limit
+of the second exam.
+
+46
+00:04:12,057 --> 00:04:14,047
+Now then, let the second exam begin.
+
+47
+00:04:35,097 --> 00:04:38,038
+Looks like there are several entrances.
+
+48
+00:04:38,038 --> 00:04:41,051
+This seems to be a dungeon
+from the Unified Dynasty era.
+
+49
+00:04:42,005 --> 00:04:45,089
+The dungeons from that era
+tend to have multiple entrances,
+
+50
+00:04:45,089 --> 00:04:48,056
+but they all lead
+to the innermost depths.
+
+51
+00:04:48,056 --> 00:04:50,073
+If we take a look at each entrance,
+
+52
+00:04:50,073 --> 00:04:53,077
+we should be able to figure out
+the internal layout to a degree.
+
+53
+00:04:54,057 --> 00:04:56,028
+We should divide the work and...
+
+54
+00:04:56,028 --> 00:04:59,003
+Why do you think
+we would cooperate?
+
+55
+00:05:04,074 --> 00:05:08,004
+There's no element
+of competition in this exam.
+
+56
+00:05:08,037 --> 00:05:11,029
+We should all work together.
+
+57
+00:05:11,083 --> 00:05:13,054
+I'm not doing that.
+
+58
+00:05:15,067 --> 00:05:20,005
+Unlike the first exam, the survival of
+allies is not a prerequisite for passing.
+
+59
+00:05:20,047 --> 00:05:23,055
+Even if we form a team,
+we're not obligated to help each other.
+
+60
+00:05:24,009 --> 00:05:27,049
+There's also the risk that I might be
+used as a sacrificial pawn if needed.
+
+61
+00:05:29,006 --> 00:05:31,092
+Especially by you, who seem
+to know a lot about dungeons.
+
+62
+00:05:33,065 --> 00:05:35,001
+I'm going alone.
+
+63
+00:05:48,062 --> 00:05:52,025
+Well, we at least knew each other
+from the first exam.
+
+64
+00:05:52,025 --> 00:05:55,096
+At the very least, I'm not going to
+team up with someone I don't know.
+
+65
+00:05:59,025 --> 00:06:00,029
+Let's go.
+
+66
+00:06:01,092 --> 00:06:04,055
+Hey, wait for me.
+
+67
+00:06:08,018 --> 00:06:09,032
+Fools.
+
+68
+00:06:10,018 --> 00:06:13,069
+They can't even see
+the advantages of cooperating.
+
+69
+00:06:14,065 --> 00:06:16,002
+Let's go, Fern.
+
+70
+00:06:16,073 --> 00:06:18,057
+Are you sure, Mistress Frieren?
+
+71
+00:06:19,023 --> 00:06:21,004
+They won't be cooperating.
+
+72
+00:06:21,004 --> 00:06:23,002
+It's impossible at this point.
+
+73
+00:06:28,053 --> 00:06:29,095
+Hmm...
+
+74
+00:06:31,029 --> 00:06:33,098
+Then I shall follow you two.
+
+75
+00:06:35,012 --> 00:06:39,021
+It would seem to be
+the safest way to reach the depths.
+
+76
+00:06:40,003 --> 00:06:41,096
+Just don't get in the way, okay?
+
+77
+00:06:42,092 --> 00:06:46,001
+I won't.
+I will not bother nor help you.
+
+78
+00:06:53,068 --> 00:06:56,033
+This is the safest route.
+
+79
+00:06:58,077 --> 00:07:01,061
+Let's move forward carefully
+and make a map as we go.
+
+80
+00:07:14,016 --> 00:07:15,037
+That tile over there.
+
+81
+00:07:16,004 --> 00:07:17,054
+It's a trap, so be careful.
+
+82
+00:07:23,088 --> 00:07:26,065
+You're always so knowledgeable
+about dungeons.
+
+83
+00:07:27,043 --> 00:07:30,025
+I didn't use to be like this.
+
+84
+00:07:31,064 --> 00:07:33,099
+But Himmel liked dungeons.
+
+85
+00:07:34,085 --> 00:07:38,019
+We've raided lots of dungeons
+on quests to exterminate monsters.
+
+86
+00:07:39,004 --> 00:07:42,057
+What do you mean
+by liking dungeons?
+
+87
+00:07:43,028 --> 00:07:45,007
+It's literally what it means.
+
+88
+00:07:45,065 --> 00:07:47,041
+It makes him excited.
+
+89
+00:07:48,024 --> 00:07:50,011
+It's so weird, isn't it?
+
+90
+00:07:53,083 --> 00:07:56,079
+This stairway should
+lead to the next floor.
+
+91
+00:07:58,058 --> 00:08:01,071
+I see. So this is the wrong route.
+
+92
+00:08:02,038 --> 00:08:04,071
+Let's head back to the branching paths.
+
+93
+00:08:04,071 --> 00:08:06,022
+Right.
+
+94
+00:08:07,043 --> 00:08:08,063
+Why?
+
+95
+00:08:08,063 --> 00:08:12,001
+Our target is the monster
+down in the depths.
+
+96
+00:08:12,081 --> 00:08:15,022
+When will you learn, Eisen?
+
+97
+00:08:16,048 --> 00:08:21,077
+You only proceed to the next level
+of a dungeon after exploring every corner.
+
+98
+00:08:21,077 --> 00:08:23,073
+That's the basics of being an adventurer.
+
+99
+00:08:23,073 --> 00:08:25,032
+I've never heard that before.
+
+100
+00:08:27,007 --> 00:08:29,032
+You must think I'm being ridiculous.
+
+101
+00:08:31,057 --> 00:08:35,091
+But wouldn't it be best if we could help
+others while also enjoying ourselves?
+
+102
+00:08:35,091 --> 00:08:38,021
+This can't keep on forever.
+
+103
+00:08:38,021 --> 00:08:41,025
+As we continue our journey,
+the dungeons will become more dangerous.
+
+104
+00:08:41,025 --> 00:08:42,005
+That's right.
+
+105
+00:08:43,046 --> 00:08:45,017
+I intend to enjoy it to the end.
+
+106
+00:08:45,096 --> 00:08:48,076
+I'll enjoy the adventure,
+raiding dungeons,
+
+107
+00:08:49,001 --> 00:08:51,076
+defeating monsters,
+and finding treasures.
+
+108
+00:08:52,026 --> 00:08:54,076
+By the time I realized it,
+I already saved the world.
+
+109
+00:08:56,077 --> 00:08:58,049
+That's the journey I want.
+
+110
+00:09:00,023 --> 00:09:01,016
+Besides,
+
+111
+00:09:02,023 --> 00:09:06,053
+we might find a rare grimoire
+at the end of the other route.
+
+112
+00:09:07,007 --> 00:09:09,061
+What are you waiting for?
+Let's hurry back.
+
+113
+00:09:09,061 --> 00:09:10,069
+Huh...
+
+114
+00:09:11,086 --> 00:09:14,007
+It's so, so weird, isn't it?
+
+115
+00:09:28,026 --> 00:09:30,005
+Let's go, Kanne.
+
+116
+00:09:43,006 --> 00:09:46,018
+In the end,
+only the five of us stayed.
+
+117
+00:09:47,002 --> 00:09:50,069
+Had we cooperated
+and divided the tasks,
+
+118
+00:09:50,069 --> 00:09:53,049
+we would've had a good chance
+at beating the dungeon.
+
+119
+00:09:54,053 --> 00:09:58,024
+With all the talented people here,
+it would've been possible.
+
+120
+00:09:58,095 --> 00:10:03,008
+Denken, not everyone
+can be as rational as you.
+
+121
+00:10:03,053 --> 00:10:07,034
+You said so yourself
+at the end of the first exam.
+
+122
+00:10:11,001 --> 00:10:12,076
+They just don't like it.
+
+123
+00:10:13,047 --> 00:10:15,067
+At least the more clever ones stayed.
+
+124
+00:10:16,014 --> 00:10:17,064
+Just look at it that way.
+
+125
+00:10:18,001 --> 00:10:20,022
+At least, among these people,
+
+126
+00:10:20,022 --> 00:10:24,077
+there's nobody stupid enough to fall
+for simple traps like mimics.
+
+127
+00:10:25,052 --> 00:10:27,025
+Isn't that enough, Denken?
+
+128
+00:10:28,015 --> 00:10:31,078
+As if a fool like that would make it
+to this exam in the first place.
+
+129
+00:10:32,009 --> 00:10:34,017
+Let's go.
+
+130
+00:10:43,083 --> 00:10:45,035
+This mana...
+
+131
+00:10:46,063 --> 00:10:48,017
+There might be a grimoire inside.
+
+132
+00:10:48,054 --> 00:10:52,055
+Mistress Frieren, you saw the result
+of the Mikheit spell, didn't you?
+
+133
+00:10:53,092 --> 00:10:55,033
+It's a mimic.
+
+134
+00:10:56,055 --> 00:10:57,037
+Fern,
+
+135
+00:10:57,089 --> 00:11:01,043
+that spell is 99 percent accurate.
+
+136
+00:11:01,043 --> 00:11:03,043
+And your point is?
+
+137
+00:11:04,002 --> 00:11:09,002
+It's only because there are great mages
+that see through that one percent
+
+138
+00:11:09,002 --> 00:11:11,044
+that historic discoveries can happen.
+
+139
+00:11:16,074 --> 00:11:18,062
+Yes, I'm sure of it.
+
+140
+00:11:20,008 --> 00:11:23,008
+There is a rare grimoire inside.
+
+141
+00:11:24,000 --> 00:11:28,008
+That's what my experience
+as a mage tells me.
+
+142
+00:11:33,055 --> 00:11:36,088
+It's so dark in here! It's scary!
+
+143
+00:11:38,047 --> 00:11:39,085
+So dark! So scary!
+
+144
+00:11:41,039 --> 00:11:42,085
+It's dark! It's scary!
+
+145
+00:11:56,032 --> 00:11:59,055
+Did I choose the wrong people to follow?
+
+146
+00:12:09,017 --> 00:12:11,054
+Don't step on the middle floor.
+
+147
+00:12:11,054 --> 00:12:13,042
+The ceiling will fall on you.
+
+148
+00:12:17,013 --> 00:12:20,001
+Don't tell me,
+that person-shaped stain is...
+
+149
+00:12:20,072 --> 00:12:24,022
+How gruesome.
+Not even any bone was left.
+
+150
+00:12:45,002 --> 00:12:46,058
+Gargoyles!
+
+151
+00:13:44,085 --> 00:13:47,008
+Denken, someone got trapped.
+
+152
+00:13:47,008 --> 00:13:47,097
+I know.
+
+153
+00:13:48,047 --> 00:13:50,023
+She's behind that wall.
+
+154
+00:13:51,089 --> 00:13:53,031
+Stand back.
+
+155
+00:14:00,036 --> 00:14:01,082
+I knew it, it's not enough.
+
+156
+00:14:02,039 --> 00:14:03,057
+There's no other choice.
+
+157
+00:14:03,099 --> 00:14:05,057
+Break the bottle!
+
+158
+00:14:22,026 --> 00:14:23,068
+Wow...
+
+159
+00:14:23,068 --> 00:14:26,035
+So we already lost one person.
+
+160
+00:14:30,014 --> 00:14:32,085
+Even letting our guard down
+for a bit can be fatal.
+
+161
+00:14:34,006 --> 00:14:37,019
+So this is the Ruins of the King's Tomb...
+
+162
+00:14:47,095 --> 00:14:50,074
+Say, Fern, listen to me for a bit.
+
+163
+00:14:51,037 --> 00:14:54,025
+Can you stop pulling me for now?
+You'll tear me apart.
+
+164
+00:14:55,012 --> 00:14:55,065
+Sure.
+
+165
+00:14:57,054 --> 00:15:01,026
+In this situation, you should do
+the opposite and push me in.
+
+166
+00:15:01,026 --> 00:15:04,013
+The mimic will gag and stop biting.
+
+167
+00:15:05,088 --> 00:15:07,089
+Is it a dog or something?
+
+168
+00:15:11,077 --> 00:15:13,035
+I'm saved...
+
+169
+00:15:14,031 --> 00:15:15,052
+Goodness me.
+
+170
+00:15:16,015 --> 00:15:19,006
+How did you deal with these
+when you're alone?
+
+171
+00:15:19,006 --> 00:15:22,048
+I would blow them up from
+the inside with an offensive spell.
+
+172
+00:15:23,024 --> 00:15:27,003
+But I don't like doing that
+because it makes my hair frizzy.
+
+173
+00:15:27,003 --> 00:15:28,003
+I'm back...
+
+174
+00:15:28,073 --> 00:15:31,016
+I got ringlet curls...
+
+175
+00:15:31,045 --> 00:15:35,096
+So that's why you sometimes
+have different hairstyles.
+
+176
+00:15:35,096 --> 00:15:36,089
+But why?
+
+177
+00:15:37,092 --> 00:15:40,009
+All right, let's pull ourselves together
+
+178
+00:15:40,092 --> 00:15:42,053
+and continue raiding the dungeon.
+
+179
+00:15:50,093 --> 00:15:52,001
+It's gargoyles.
+
+180
+00:15:52,066 --> 00:15:54,072
+We'll defeat them
+before they start moving.
+
+181
+00:15:58,056 --> 00:16:01,099
+We've seen these medals
+in several places, didn't we?
+
+182
+00:16:01,099 --> 00:16:04,065
+Apparently, some people
+with unusual tastes collect these.
+
+183
+00:16:09,074 --> 00:16:12,074
+This seems like the right route,
+so let's head back.
+
+184
+00:16:12,074 --> 00:16:13,083
+But why?
+
+185
+00:16:18,029 --> 00:16:19,096
+It's going smoother than expected.
+
+186
+00:16:20,092 --> 00:16:24,013
+You're right. It's quite strange
+for an uncharted dungeon.
+
+187
+00:16:24,005 --> 00:16:27,084
+Structurally speaking, we should be
+close to the innermost depth, as well.
+
+188
+00:16:28,063 --> 00:16:31,026
+In any case,
+we shouldn't let our guard down.
+
+189
+00:16:31,072 --> 00:16:35,001
+How about we take a break
+when we find another burial chamber?
+
+190
+00:16:38,019 --> 00:16:40,081
+We got quite some good stuff here.
+
+191
+00:16:40,081 --> 00:16:42,086
+They all look like junk to me.
+
+192
+00:16:48,053 --> 00:16:50,036
+I don't get it.
+
+193
+00:16:50,036 --> 00:16:51,041
+Me neither.
+
+194
+00:16:52,057 --> 00:16:55,005
+How could she be
+so happy from just that?
+
+195
+00:16:56,007 --> 00:16:58,033
+She's even rubbing her cheeks on it.
+
+196
+00:17:00,021 --> 00:17:03,001
+What I don't get is you, Fern.
+
+197
+00:17:04,046 --> 00:17:08,061
+I've never seen a young mage
+as talented as you.
+
+198
+00:17:09,003 --> 00:17:11,055
+You must have gone
+through many trainings.
+
+199
+00:17:12,043 --> 00:17:15,089
+And yet I don't sense any passion
+or obsession from you.
+
+200
+00:17:15,089 --> 00:17:17,018
+You're a strange girl.
+
+201
+00:17:21,001 --> 00:17:26,044
+I became a full-fledged mage
+to repay my debt to a certain someone.
+
+202
+00:17:29,007 --> 00:17:32,045
+That was my goal in life at the time.
+
+203
+00:17:33,057 --> 00:17:35,028
+I kept pouring all my effort into it
+
+204
+00:17:35,028 --> 00:17:38,063
+without ever thinking
+about the future beyond.
+
+205
+00:17:41,000 --> 00:17:47,000
+I must have exhausted
+all of the passion I had back then.
+
+206
+00:17:48,059 --> 00:17:52,059
+Then why do you continue
+your pursuit of magic?
+
+207
+00:17:55,089 --> 00:17:58,072
+Doesn't Mistress Frieren
+look happy to you?
+
+208
+00:17:58,072 --> 00:17:59,067
+She does.
+
+209
+00:18:01,023 --> 00:18:04,019
+The first time I raided a dungeon,
+
+210
+00:18:04,098 --> 00:18:10,049
+I saw how much fun she had collecting
+magical tools that looked like junk.
+
+211
+00:18:15,078 --> 00:18:17,075
+That made me smile as well.
+
+212
+00:18:18,007 --> 00:18:22,091
+It must've been that I liked
+seeing Mistress Frieren happy
+
+213
+00:18:23,046 --> 00:18:26,021
+that I decided to pursue magic
+together with her.
+
+214
+00:18:30,013 --> 00:18:32,001
+We should start moving.
+
+215
+00:18:37,001 --> 00:18:40,056
+Seems like I was right
+to follow you two after all.
+
+216
+00:18:41,031 --> 00:18:46,019
+I'm sure you can have fun
+even in this cruel dungeon.
+
+217
+00:19:10,046 --> 00:19:12,026
+The atmosphere changed.
+
+218
+00:19:13,017 --> 00:19:15,055
+I guess we're close
+to the innermost depth.
+
+219
+00:19:18,043 --> 00:19:19,027
+Wirbel.
+
+220
+00:19:19,071 --> 00:19:21,081
+What is it?
+Are you too tired to walk...
+
+221
+00:19:21,081 --> 00:19:23,052
+I've been restrained.
+
+222
+00:19:23,087 --> 00:19:27,085
+There are three mages concealing
+their mana. It's an ambush.
+
+223
+00:19:33,069 --> 00:19:35,032
+Scharf, block their vision.
+
+224
+00:19:35,032 --> 00:19:38,007
+Ehre is restrained
+with a Sorganeel spell.
+
+225
+00:19:38,007 --> 00:19:38,099
+I know.
+
+226
+00:19:54,063 --> 00:19:58,055
+No wonder the Ruins of the King's Tomb
+has been impregnable.
+
+227
+00:20:00,035 --> 00:20:04,027
+I certainly didn't expect
+anything like this.
+
+228
+00:20:06,006 --> 00:20:09,056
+Scharf, you take care of me.
+Ehre, you go after Scharf.
+
+229
+00:20:09,098 --> 00:20:11,094
+I'll take down Ehre.
+
+230
+00:20:13,069 --> 00:20:14,099
+We'll break through them.
+
+231
+00:20:55,053 --> 00:20:58,099
+A clone made through magic.
+
+232
+00:20:59,091 --> 00:21:02,041
+It must be the work
+of a demon or a monster.
+
+233
+00:21:03,058 --> 00:21:08,079
+But I've never seen such
+a perfect copy of another person.
+
+234
+00:21:08,079 --> 00:21:12,029
+Its mana and skill were exactly
+the same as Laufen's.
+
+235
+00:21:13,029 --> 00:21:15,009
+It even behaves the same way.
+
+236
+00:21:15,009 --> 00:21:18,034
+There's a chance
+it copied her memories.
+
+237
+00:21:19,059 --> 00:21:21,008
+I can't say I feel happy about this.
+
+238
+00:21:22,043 --> 00:21:24,026
+If there's a silver lining about this,
+
+239
+00:21:24,085 --> 00:21:27,072
+is that we can tell it's an impostor
+from a single glance.
+
+240
+00:21:28,052 --> 00:21:31,009
+At least there's little
+to no chance of friendly fire.
+
+241
+00:21:32,048 --> 00:21:38,019
+If this caster can control
+multiple clones at the same time,
+
+242
+00:21:38,019 --> 00:21:40,069
+then it would be a terrifying threat.
+
+243
+00:21:43,024 --> 00:21:47,037
+In any case, teaming up
+was the right call.
+
+244
+00:21:50,091 --> 00:21:53,061
+With it, we have more options
+on how to deal with them.
+
+245
+00:22:18,086 --> 00:22:19,057
+Denken,
+
+246
+00:22:20,032 --> 00:22:22,007
+can you deal with that, too?
+
+247
+00:22:28,008 --> 00:22:30,029
+The only thing I can say is that...
+
+248
+00:22:31,000 --> 00:22:36,025
+if this weren't an exam,
+I would have already broken my bottle.
+
+249
+00:24:20,044 --> 00:24:23,082
+- Now then, what shall we do?
+- If our ability is equal...
+
+250
+00:24:23,082 --> 00:24:24,048
+- Can't even laugh at this.
+- ...then it's all up to luck.
+
+251
+00:24:24,048 --> 00:24:26,044
+- Look into my eyes.
+- ...then it's all up to luck.
+
+252
+00:24:26,044 --> 00:24:28,011
+- So it's not impossible.
+- How long do we need to hold it off?
+
+253
+00:24:28,011 --> 00:24:30,003
+EPISODE 24: A PERFECT REPLICA
+What it creates is a perfect replica.
+

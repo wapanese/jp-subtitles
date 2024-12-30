@@ -1,0 +1,1392 @@
+1
+00:00:00,520 --> 00:00:03,020
+<i>Like a fairy tale</i>
+
+2
+00:00:03,020 --> 00:00:05,440
+<i>It's a sign the story has reached its end</i>
+
+3
+00:00:05,440 --> 00:00:08,360
+<i>Like a single passage taken from</i>
+
+4
+00:00:08,360 --> 00:00:09,980
+<i>A journey that was too long</i>
+
+5
+00:00:09,980 --> 00:00:12,320
+<i>Of the evil that once cast a shadow</i>
+
+6
+00:00:12,320 --> 00:00:14,660
+<i>Across this land</i>
+
+7
+00:00:14,660 --> 00:00:16,990
+<i>And the memories of the short journey</i>
+
+8
+00:00:16,990 --> 00:00:19,450
+<i>With the hero who defeated it</i>
+
+9
+00:00:20,240 --> 00:00:29,210
+Beyond Journey's End
+
+10
+00:00:29,460 --> 00:00:31,760
+<i>The story ends</i>
+
+11
+00:00:31,760 --> 00:00:34,260
+<i>And the hero goes to sleep</i>
+
+12
+00:00:34,260 --> 00:00:37,090
+<i>Leaving this land with</i>
+
+13
+00:00:37,090 --> 00:00:38,760
+<i>Days of peace and quiet</i>
+
+14
+00:00:38,760 --> 00:00:41,270
+<i>The passage of time heartlessly</i>
+
+15
+00:00:41,270 --> 00:00:43,430
+<i>Makes people forget</i>
+
+16
+00:00:43,430 --> 00:00:46,230
+<i>Even the tracks left behind by his life</i>
+
+17
+00:00:46,230 --> 00:00:48,020
+<i>Begin to rust</i>
+
+18
+00:00:48,020 --> 00:00:49,860
+<i>Just the same</i>
+
+19
+00:00:49,860 --> 00:00:52,150
+<i>Your words and wishes and courage</i>
+
+20
+00:00:52,150 --> 00:00:55,490
+<i>Are still inside of me</i>
+
+21
+00:00:55,490 --> 00:00:57,360
+<i>And they live on</i>
+
+22
+00:00:58,160 --> 00:00:59,910
+<i>We chose the same path</i>
+
+23
+00:00:59,910 --> 00:01:02,040
+<i>That's all it was supposed to be</i>
+
+24
+00:01:02,040 --> 00:01:03,580
+<i>Why is it that at some point</i>
+
+25
+00:01:03,580 --> 00:01:07,830
+<i>I wanted to understand the reason for</i>
+
+26
+00:01:07,830 --> 00:01:09,210
+<i>The tears that fall down my cheeks</i>
+
+27
+00:01:09,210 --> 00:01:10,290
+<i>Even now</i>
+
+28
+00:01:10,290 --> 00:01:12,670
+<i>If I retrace the journey we walked together</i>
+
+29
+00:01:12,670 --> 00:01:16,220
+<i>Even though you're not there</i>
+
+30
+00:01:16,220 --> 00:01:17,890
+<i>I know I'll be able to find it</i>
+
+31
+00:01:31,850 --> 00:01:33,480
+I see.
+
+32
+00:01:35,160 --> 00:01:36,670
+I remember now.
+
+33
+00:01:37,880 --> 00:01:39,390
+It was Frieren.
+
+34
+00:01:41,110 --> 00:01:46,180
+The mage who contributed significantly 
+to humanity's analysis of Zoltraak
+
+35
+00:01:46,180 --> 00:01:51,080
+and slew more demons 
+than anyone else in history.
+
+36
+00:01:53,920 --> 00:01:56,040
+Frieren the Slayer.
+
+37
+00:01:58,400 --> 00:02:01,150
+One of the geniuses I despise.
+
+38
+00:02:01,010 --> 00:02:04,010
+Episode 9: Aura the Guillotine
+
+39
+00:02:12,600 --> 00:02:15,190
+You'll have to rest for a while.
+
+40
+00:02:15,190 --> 00:02:16,580
+Thank you.
+
+41
+00:02:24,380 --> 00:02:25,340
+Hey!
+
+42
+00:02:26,710 --> 00:02:28,050
+Are you okay?
+
+43
+00:02:29,470 --> 00:02:32,170
+Because of you, I'll survive.
+
+44
+00:02:32,400 --> 00:02:33,640
+You have my thanks.
+
+45
+00:02:38,800 --> 00:02:41,800
+I'll pardon your mage companion as well.
+
+46
+00:02:42,140 --> 00:02:44,600
+She was right.
+
+47
+00:02:46,020 --> 00:02:49,170
+Now Frieren can return to town.
+
+48
+00:02:49,170 --> 00:02:51,270
+Let's have her defeat Lügner 
+and the other demon.
+
+49
+00:02:51,950 --> 00:02:56,000
+Ms. Frieren didn't kill the guard.
+
+50
+00:02:56,580 --> 00:03:00,040
+I know. The demons did it.
+
+51
+00:03:00,500 --> 00:03:04,710
+More importantly, 
+that mage's name is Frieren?
+
+52
+00:03:04,710 --> 00:03:05,530
+Yes.
+
+53
+00:03:05,970 --> 00:03:09,840
+The elven mage who adventured with the Hero?
+
+54
+00:03:10,530 --> 00:03:13,670
+Then I've committed a grave discourtesy.
+
+55
+00:03:14,470 --> 00:03:17,550
+The Granat family owes the 
+party of heroes a debt.
+
+56
+00:03:18,010 --> 00:03:23,370
+When this town was attacked by demons 
+during my grandfather's rule,
+
+57
+00:03:23,370 --> 00:03:25,440
+they were the ones who drove them off.
+
+58
+00:03:26,250 --> 00:03:27,810
+They faced the same enemy as we do now.
+
+59
+00:03:27,810 --> 00:03:31,240
+It was Aura, one of the 
+Seven Sages of Destruction.
+
+60
+00:03:33,590 --> 00:03:36,190
+It's been a while, Aura.
+
+61
+00:03:36,500 --> 00:03:41,180
+Indeed, Frieren. About eighty years, I'd say.
+
+62
+00:03:44,520 --> 00:03:46,940
+You're heading to the town 
+up ahead, aren't you?
+
+63
+00:03:48,010 --> 00:03:50,440
+I'd appreciate it if you turned back.
+
+64
+00:03:51,430 --> 00:03:52,360
+No.
+
+65
+00:03:53,250 --> 00:03:54,110
+Why not?
+
+66
+00:04:14,540 --> 00:04:18,140
+Because I have an overwhelming advantage.
+
+67
+00:04:19,020 --> 00:04:20,030
+Oh?
+
+68
+00:04:23,720 --> 00:04:25,760
+You have more puppets than before.
+
+69
+00:04:26,300 --> 00:04:31,200
+Demon magic must be unbelievably 
+powerful to control this many.
+
+70
+00:04:31,910 --> 00:04:35,950
+Humanity's magic could never 
+dream of reaching such heights.
+
+71
+00:04:37,530 --> 00:04:40,720
+But your magic couldn't be more disgusting.
+
+72
+00:04:40,720 --> 00:04:41,790
+It makes me want to puke.
+
+73
+00:04:42,490 --> 00:04:44,720
+That's not a nice thing to say.
+
+74
+00:04:44,720 --> 00:04:47,250
+It took a lot of work to gather this many.
+
+75
+00:04:56,370 --> 00:04:58,890
+I recognize some of those suits of armor.
+
+76
+00:05:00,260 --> 00:05:04,310
+Aura, it seems I must 
+kill you here after all.
+
+77
+00:05:08,630 --> 00:05:10,540
+The Scales of Obedience.
+
+78
+00:05:11,940 --> 00:05:15,510
+It's the reason we haven't been able 
+to defeat Aura in all these years.
+
+79
+00:05:16,700 --> 00:05:22,470
+Her magic allows her to force 
+others to obey her will.
+
+80
+00:05:23,600 --> 00:05:25,540
+The magics of the Seven Sages of Destruction
+
+81
+00:05:25,540 --> 00:05:27,970
+are beyond human knowledge and reason.
+
+82
+00:05:29,130 --> 00:05:33,140
+Aura places her own soul 
+and that of her target on the scales
+
+83
+00:05:33,140 --> 00:05:35,640
+and weighs the magnitude of 
+their mana against each other.
+
+84
+00:05:36,360 --> 00:05:40,730
+The one with greater mana 
+gains control of the other,
+
+85
+00:05:40,730 --> 00:05:47,740
+turning them into a puppet for all eternity—
+until their body withers to dust.
+
+86
+00:05:49,650 --> 00:05:52,500
+It's a risky spell, but that's 
+what makes it powerful.
+
+87
+00:05:53,070 --> 00:05:57,650
+And in the hands of someone with mana 
+as tremendous as Aura, it's unbeatable.
+
+88
+00:05:58,450 --> 00:06:00,910
+Is there no way to counter it?
+
+89
+00:06:02,880 --> 00:06:06,990
+Though the weight of Aura's mana 
+is enough to fully tip the scales,
+
+90
+00:06:06,990 --> 00:06:08,970
+the scales themselves do judge fairly.
+
+91
+00:06:09,950 --> 00:06:13,880
+If a soul with greater mana than Aura's 
+were to be placed on the scales,
+
+92
+00:06:14,310 --> 00:06:16,520
+Aura could be defeated.
+
+93
+00:06:18,200 --> 00:06:24,330
+But they say that hasn't happened 
+once in the five hundred years
+
+94
+00:06:24,330 --> 00:06:27,520
+since Aura became a Sage of Destruction.
+
+95
+00:06:27,520 --> 00:06:31,020
+Then there's no way to fight it?
+
+96
+00:06:35,430 --> 00:06:37,830
+There was.
+
+97
+00:06:38,650 --> 00:06:43,530
+Those with powerful wills could 
+temporarily resist the spell.
+
+98
+00:06:46,010 --> 00:06:50,550
+The greater the individual, 
+the more iron their will.
+
+99
+00:06:51,300 --> 00:06:53,680
+And even then, it was only temporary?
+
+100
+00:06:54,030 --> 00:06:56,620
+But it was a fatal flaw.
+
+101
+00:06:56,620 --> 00:07:00,060
+The strong-willed must have been 
+an obstacle to her.
+
+102
+00:07:00,560 --> 00:07:01,550
+So...
+
+103
+00:07:03,580 --> 00:07:09,690
+Aura the Guillotine dealt with them in the 
+most logical way after gaining control.
+
+104
+00:07:10,750 --> 00:07:12,700
+It's a tragic tale.
+
+105
+00:07:19,260 --> 00:07:23,410
+Well? My immortal army 
+is powerful, isn't it?
+
+106
+00:07:38,030 --> 00:07:39,300
+I'm surprised.
+
+107
+00:07:40,120 --> 00:07:43,300
+You dispelled the magic I'd cast on them.
+
+108
+00:07:44,090 --> 00:07:46,310
+No one's ever done that before.
+
+109
+00:07:47,000 --> 00:07:53,090
+Such powerful dispelling magic must expend 
+a considerable amount of mana.
+
+110
+00:07:53,530 --> 00:07:56,330
+Why would you use such a roundabout method?
+
+111
+00:07:58,380 --> 00:08:02,210
+The last time we fought, you blew them away 
+with flashy spells left and right.
+
+112
+00:08:04,740 --> 00:08:07,400
+Himmel scolded me afterward.
+
+113
+00:08:08,760 --> 00:08:12,710
+Then that's all the more reason 
+not to do this.
+
+114
+00:08:13,900 --> 00:08:15,090
+Why?
+
+115
+00:08:15,650 --> 00:08:17,850
+Himmel is long gone, isn't he?
+
+116
+00:08:20,250 --> 00:08:22,340
+I see. Good.
+
+117
+00:08:23,960 --> 00:08:27,300
+You demons are monsters after all.
+
+118
+00:08:27,300 --> 00:08:29,120
+I can kill you without mercy.
+
+119
+00:08:30,080 --> 00:08:30,820
+Okay.
+
+120
+00:08:31,680 --> 00:08:34,150
+I've regained most of my mobility.
+
+121
+00:08:35,480 --> 00:08:38,730
+Father, this place is safe, right?
+
+122
+00:08:38,730 --> 00:08:42,460
+Yes. It's not as strong as the 
+town's defensive barrier,
+
+123
+00:08:42,460 --> 00:08:45,450
+but there is a barrier around this church.
+
+124
+00:08:45,890 --> 00:08:48,160
+Then wait here, Graf.
+
+125
+00:08:49,100 --> 00:08:52,720
+Brat, what do you plan to do?
+
+126
+00:08:52,720 --> 00:08:56,890
+Do you think the demons will just leave 
+if we all hole up in here?
+
+127
+00:08:57,500 --> 00:09:00,000
+Mr. Stark, are you serious?
+
+128
+00:09:01,090 --> 00:09:04,220
+We only landed that hit before 
+because we caught him off guard.
+
+129
+00:09:04,610 --> 00:09:07,770
+We couldn't find enough of an 
+opening to finish him off.
+
+130
+00:09:09,360 --> 00:09:14,050
+If we'd kept fighting, we would 
+have been the ones killed.
+
+131
+00:09:15,290 --> 00:09:18,000
+Someone's gotta do this, right?
+
+132
+00:09:23,020 --> 00:09:26,580
+You're right. Then let's 
+do our best together.
+
+133
+00:09:28,610 --> 00:09:31,870
+No, you go to the guard station.
+
+134
+00:09:32,350 --> 00:09:34,350
+You need to evacuate the townsfolk.
+
+135
+00:09:35,150 --> 00:09:36,840
+Then you're going to...
+
+136
+00:09:39,500 --> 00:09:40,350
+Yeah.
+
+137
+00:09:41,400 --> 00:09:42,990
+I'm going to...
+
+138
+00:09:42,990 --> 00:09:46,350
+get on my hands and knees 
+and beg Frieren to return.
+
+139
+00:09:47,100 --> 00:09:47,940
+What?
+
+140
+00:09:50,900 --> 00:09:54,340
+Come on! Having her defeat him 
+is our only option!
+
+141
+00:09:55,330 --> 00:09:58,510
+I suppose that's more realistic.
+
+142
+00:10:03,000 --> 00:10:06,460
+The guards will listen to you 
+if you show them this.
+
+143
+00:10:07,840 --> 00:10:09,260
+Very well.
+
+144
+00:10:10,470 --> 00:10:12,130
+I'm heading straight out of town.
+
+145
+00:10:14,180 --> 00:10:15,380
+What is it?
+
+146
+00:10:15,380 --> 00:10:18,270
+Your arm is in a terrible state.
+
+147
+00:10:19,000 --> 00:10:21,760
+Can you pass through the castle gate 
+looking like that?
+
+148
+00:10:22,950 --> 00:10:26,800
+I'll be fine. This is normal for a warrior.
+
+149
+00:10:26,800 --> 00:10:28,220
+Is there something weird about it?
+
+150
+00:10:28,700 --> 00:10:33,600
+I've never seen a warrior walk 
+around town with two bloody hands.
+
+151
+00:10:33,930 --> 00:10:37,600
+You're one to talk. You're 
+covered in blood, too.
+
+152
+00:10:38,810 --> 00:10:41,520
+Huh? Whose blood is this?
+
+153
+00:10:41,520 --> 00:10:43,110
+It's not mine.
+
+154
+00:10:46,480 --> 00:10:49,160
+Hey! What's the matter with—
+
+155
+00:10:52,970 --> 00:10:55,500
+Mr. Stark, there's mana in this blood.
+
+156
+00:10:57,200 --> 00:10:58,140
+Fern!
+
+157
+00:11:07,070 --> 00:11:07,820
+<i>An axe?</i>
+
+158
+00:11:12,540 --> 00:11:16,830
+I don't believe it. Am I dreaming?
+
+159
+00:11:17,610 --> 00:11:20,000
+That was my master's technique.
+
+160
+00:11:23,380 --> 00:11:27,250
+I'd meant to hit your vitals, 
+but then you went and moved.
+
+161
+00:11:28,020 --> 00:11:30,950
+It wasn't my intention to make you suffer.
+
+162
+00:11:35,540 --> 00:11:37,580
+Why are you surprised?
+
+163
+00:11:38,080 --> 00:11:42,130
+Is it because I'm standing here when 
+I supposedly suffered a fatal blow?
+
+164
+00:11:42,430 --> 00:11:46,130
+Or because you didn't detect our approach?
+
+165
+00:11:48,280 --> 00:11:54,550
+You aren't the only one who knows how to 
+conceal her presence by controlling her mana.
+
+166
+00:11:54,910 --> 00:11:57,640
+Any demon can do it.
+
+167
+00:11:58,610 --> 00:12:05,660
+That said, it's hardly fitting 
+for a battle between mages.
+
+168
+00:12:06,550 --> 00:12:08,200
+You sure like to talk.
+
+169
+00:12:08,680 --> 00:12:10,410
+Aren't you going to finish me off?
+
+170
+00:12:12,220 --> 00:12:15,960
+Since I failed to kill you instantly, 
+I thought I'd ask you some questions.
+
+171
+00:12:18,470 --> 00:12:20,700
+Or would you rather die right now?
+
+172
+00:12:22,540 --> 00:12:23,720
+Go ahead.
+
+173
+00:12:26,500 --> 00:12:28,660
+Is that boy strong?
+
+174
+00:12:29,650 --> 00:12:32,150
+He's Eisen the Warrior's best student.
+
+175
+00:12:32,770 --> 00:12:35,440
+I see. How unfortunate.
+
+176
+00:12:36,090 --> 00:12:37,800
+Poor boy.
+
+177
+00:12:37,800 --> 00:12:41,230
+He won't die a decent death 
+at Linie's hands.
+
+178
+00:12:43,250 --> 00:12:44,700
+One more question.
+
+179
+00:12:45,430 --> 00:12:47,210
+Where is Frieren?
+
+180
+00:12:50,090 --> 00:12:51,990
+She fled the town
+
+181
+00:12:53,120 --> 00:12:56,290
+because you killed the dungeon guard.
+
+182
+00:12:56,750 --> 00:12:59,550
+Graf Granat said something similar.
+
+183
+00:12:59,550 --> 00:13:02,260
+Killing a guard is a serious crime, it seems.
+
+184
+00:13:02,940 --> 00:13:04,220
+The punishment is execution.
+
+185
+00:13:04,220 --> 00:13:05,550
+Execution?
+
+186
+00:13:06,210 --> 00:13:09,640
+That wouldn't be enough 
+to make that woman flee.
+
+187
+00:13:10,190 --> 00:13:13,530
+She holds a powerful grudge against demons,
+
+188
+00:13:14,050 --> 00:13:18,580
+enough to teach her own student 
+a spell purely for demon-killing.
+
+189
+00:13:20,170 --> 00:13:22,650
+Someone like that wouldn't run.
+
+190
+00:13:23,300 --> 00:13:25,450
+She must be after something.
+
+191
+00:13:28,290 --> 00:13:29,570
+It must be Lady Aura.
+
+192
+00:13:33,650 --> 00:13:35,460
+Don't move.
+
+193
+00:13:36,380 --> 00:13:40,280
+You know where Ms. Frieren 
+is headed, don't you?
+
+194
+00:13:40,960 --> 00:13:42,680
+You're wasting your time.
+
+195
+00:13:43,700 --> 00:13:46,880
+You lied about failing to kill me.
+
+196
+00:13:47,700 --> 00:13:51,970
+You wanted revenge for my surprising you.
+
+197
+00:13:53,180 --> 00:13:55,370
+You're proud and arrogant.
+
+198
+00:13:55,830 --> 00:14:01,060
+You still don't see us—see anyone 
+besides Ms. Frieren as a threat.
+
+199
+00:14:02,090 --> 00:14:05,160
+That's why you granted me an opportunity.
+
+200
+00:14:07,510 --> 00:14:11,150
+From this distance, I can blast 
+a hole clean through your heart.
+
+201
+00:14:12,670 --> 00:14:13,900
+Try it.
+
+202
+00:14:14,320 --> 00:14:16,830
+Your head will fly before 
+you get the chance.
+
+203
+00:14:25,120 --> 00:14:29,750
+Ms. Frieren, am I useful?
+
+204
+00:14:29,750 --> 00:14:31,860
+Why would you ask that?
+
+205
+00:14:33,450 --> 00:14:37,530
+I'm not as good at magic as you are.
+
+206
+00:14:38,610 --> 00:14:41,820
+I've lived for much longer than you.
+
+207
+00:14:42,170 --> 00:14:44,690
+In that regard, you'll never catch up to me.
+
+208
+00:14:46,880 --> 00:14:48,070
+I see.
+
+209
+00:14:48,960 --> 00:14:52,840
+But that only applies to mana and technique.
+
+210
+00:14:53,650 --> 00:14:57,490
+I often let you handle 
+battles against monsters.
+
+211
+00:14:57,490 --> 00:15:00,350
+Yes, you've forced those on me many times.
+
+212
+00:15:00,350 --> 00:15:01,410
+I'm sorry, okay?
+
+213
+00:15:02,570 --> 00:15:05,700
+But battles end quicker when you fight
+
+214
+00:15:06,160 --> 00:15:09,200
+because you fire off spells 
+faster than I do.
+
+215
+00:15:11,300 --> 00:15:16,980
+Girl, I have dedicated the majority 
+of my life to the pursuit of magic.
+
+216
+00:15:18,040 --> 00:15:19,290
+So have I.
+
+217
+00:15:33,830 --> 00:15:36,450
+<i>How is she responding so quickly?</i>
+
+218
+00:15:37,260 --> 00:15:41,670
+<i>If I hadn't reflexively defended myself, 
+that would've pierced my heart.</i>
+
+219
+00:15:42,070 --> 00:15:43,900
+You blocked it.
+
+220
+00:15:43,900 --> 00:15:46,200
+So your heart is your weak point.
+
+221
+00:15:47,400 --> 00:15:48,710
+<i>This girl...</i>
+
+222
+00:15:49,960 --> 00:15:51,210
+I see.
+
+223
+00:15:51,720 --> 00:15:55,460
+You weren't lying about 
+dedicating your life to magic.
+
+224
+00:15:56,390 --> 00:15:59,530
+Then I shall crush you with all my might.
+
+225
+00:16:00,160 --> 00:16:01,230
+Balterie.
+
+226
+00:16:04,640 --> 00:16:06,800
+Sounds like they've begun as well.
+
+227
+00:16:08,310 --> 00:16:10,230
+It's a shame, though.
+
+228
+00:16:10,690 --> 00:16:12,730
+We're nearly finished here.
+
+229
+00:16:14,090 --> 00:16:16,020
+Perhaps I'll observe their battle.
+
+230
+00:16:16,620 --> 00:16:20,070
+Lord Lügner gets cross when I interfere.
+
+231
+00:16:25,660 --> 00:16:26,500
+Oh?
+
+232
+00:16:26,880 --> 00:16:30,510
+We're not finished yet.
+
+233
+00:16:30,820 --> 00:16:34,260
+You're tough. Perhaps I'll be 
+able to enjoy this a little.
+
+234
+00:16:37,990 --> 00:16:42,760
+<i>My mana, technique, and control 
+are all far greater than hers.</i>
+
+235
+00:17:03,700 --> 00:17:08,520
+<i>This girl cannot compare to me.</i>
+
+236
+00:17:09,200 --> 00:17:11,510
+<i>However, she's fast.</i>
+
+237
+00:17:12,820 --> 00:17:16,090
+<i>I'm being overwhelmed by the sheer 
+number of attacks, pure and simple.</i>
+
+238
+00:17:22,600 --> 00:17:27,290
+<i>Damn you, Frieren. 
+How did you train this girl?</i>
+
+239
+00:17:31,410 --> 00:17:34,610
+<i>I'll engage her in a battle of attrition 
+and wait for her to exhaust her mana.</i>
+
+240
+00:17:48,030 --> 00:17:49,130
+<i>No, I can't.</i>
+
+241
+00:17:50,190 --> 00:17:52,580
+<i>The battle will be over before then.</i>
+
+242
+00:17:53,510 --> 00:17:56,190
+<i>If I could just create an opening...</i>
+
+243
+00:17:57,160 --> 00:17:59,410
+Linie, what are you doing?
+
+244
+00:17:59,410 --> 00:18:01,150
+Hurry up and defeat him!
+
+245
+00:18:08,020 --> 00:18:10,310
+Honestly, how selfish.
+
+246
+00:18:10,310 --> 00:18:13,070
+He's refusing to do anything 
+but fight defensively.
+
+247
+00:18:31,790 --> 00:18:35,210
+How are you wielding your axe like that?
+
+248
+00:18:35,210 --> 00:18:37,240
+Those are my master's techniques.
+
+249
+00:18:37,960 --> 00:18:40,880
+I'm skilled at reading mana.
+
+250
+00:18:41,520 --> 00:18:46,360
+I memorize the flow of mana 
+inside a person when they move
+
+251
+00:18:46,360 --> 00:18:48,450
+and imitate their movements.
+
+252
+00:18:48,760 --> 00:18:50,140
+Just like this.
+
+253
+00:19:13,910 --> 00:19:17,720
+I knew it from the first time I saw 
+your movements at the mansion.
+
+254
+00:19:18,350 --> 00:19:23,090
+They're the same as those of the 
+powerful warrior I once memorized.
+
+255
+00:19:26,890 --> 00:19:29,040
+Coincidences really do happen.
+
+256
+00:19:29,040 --> 00:19:30,550
+Fate is an interesting thing.
+
+257
+00:19:34,920 --> 00:19:36,310
+You don't mean...
+
+258
+00:19:36,690 --> 00:19:40,070
+I am imitating the movements 
+of Eisen the Warrior.
+
+259
+00:19:41,390 --> 00:19:44,050
+<i>Seriously? This is crazy.</i>
+
+260
+00:19:47,150 --> 00:19:49,360
+<i>I can't win this fight.</i>
+
+261
+00:19:58,140 --> 00:20:00,320
+He finally fell.
+
+262
+00:20:00,320 --> 00:20:02,030
+I must hurry.
+
+263
+00:20:02,030 --> 00:20:04,230
+Lord Lügner will be upset with me again.
+
+264
+00:20:07,480 --> 00:20:11,910
+<i>"Fell"? Have I fallen?</i>
+
+265
+00:20:15,980 --> 00:20:17,560
+Stand up, Stark.
+
+266
+00:20:18,200 --> 00:20:22,540
+No matter how battered you get, 
+you cannot fall.
+
+267
+00:20:23,350 --> 00:20:29,890
+Yeah, but there's no way I can beat you.
+
+268
+00:20:30,360 --> 00:20:31,810
+Of course you can't.
+
+269
+00:20:32,540 --> 00:20:34,580
+I'm stronger than you.
+
+270
+00:20:35,420 --> 00:20:36,630
+Then...
+
+271
+00:20:36,630 --> 00:20:40,270
+But you got back up.
+
+272
+00:20:40,920 --> 00:20:43,350
+That means you haven't lost yet.
+
+273
+00:20:43,350 --> 00:20:44,960
+What kind of logic is that?
+
+274
+00:20:45,800 --> 00:20:50,770
+Stark, I'll teach you the secret 
+to defeating powerful opponents.
+
+275
+00:20:51,520 --> 00:20:53,080
+It's simple.
+
+276
+00:20:53,080 --> 00:20:56,890
+Keep getting back up and hitting them.
+
+277
+00:20:56,890 --> 00:21:01,740
+For warriors, whoever's still standing 
+at the end is the winner.
+
+278
+00:21:05,880 --> 00:21:08,560
+Damn it, Master.
+
+279
+00:21:09,040 --> 00:21:11,690
+You and your weird logic.
+
+280
+00:21:12,110 --> 00:21:14,670
+I guess your brain's made of muscles,
+ like the rest of you.
+
+281
+00:21:16,750 --> 00:21:19,680
+You should've just stayed down.
+
+282
+00:21:19,680 --> 00:21:21,410
+You already lost.
+
+283
+00:21:22,270 --> 00:21:24,050
+I'm still standing.
+
+284
+00:21:26,190 --> 00:21:28,400
+Besides, I remember now.
+
+285
+00:21:28,400 --> 00:21:30,970
+My master's blows were heavier.
+
+286
+00:21:32,600 --> 00:21:35,270
+Yours are just imitations after all.
+
+287
+00:21:40,350 --> 00:21:44,440
+Then I will use those imitations 
+to send you to your end.
+
+288
+00:21:45,300 --> 00:21:46,650
+Erfassen.
+
+289
+00:21:47,170 --> 00:21:48,560
+Balterie!
+
+290
+00:22:00,750 --> 00:22:03,360
+<i>A wide swing, with no regard for defense.</i>
+
+291
+00:22:03,360 --> 00:22:04,770
+<i>He's lost his mind.</i>
+
+292
+00:22:12,610 --> 00:22:16,370
+I was prepared for us to kill each other, 
+but I shouldn't have been so scared.
+
+293
+00:22:16,370 --> 00:22:19,080
+Your attacks don't have any 
+weight behind them at all.
+
+294
+00:22:21,140 --> 00:22:22,810
+Lightning Strike!
+
+295
+00:22:34,960 --> 00:22:35,950
+Linie!
+
+296
+00:22:36,540 --> 00:22:37,160
+Shi—
+
+297
+00:22:37,160 --> 00:22:38,610
+Zoltraak.
+
+298
+00:22:43,340 --> 00:22:46,500
+<i>Demon-killing magic...</i>
+
+299
+00:22:50,010 --> 00:22:52,550
+<i>And you alright</i>
+
+300
+00:22:53,060 --> 00:22:55,060
+<i>Can you hear me</i>
+
+301
+00:22:55,850 --> 00:23:01,940
+<i>Trailing along deserted train tracks</i>
+
+302
+00:23:01,940 --> 00:23:04,270
+<i>Crying excessively</i>
+
+303
+00:23:04,860 --> 00:23:07,440
+<i>Wanting you to smile</i>
+
+304
+00:23:07,440 --> 00:23:13,490
+<i>I hold on to memories I'd like to keep fresh</i>
+
+305
+00:23:13,490 --> 00:23:17,200
+<i>There's something I'd like to tell you</i>
+
+306
+00:23:17,200 --> 00:23:19,960
+<i>With words more precious than a goodbye</i>
+
+307
+00:23:19,960 --> 00:23:25,630
+<i>Unremarkable yet special</i>
+
+308
+00:23:25,630 --> 00:23:29,170
+<i>See, things that couldn't have been</i>
+
+309
+00:23:29,170 --> 00:23:32,220
+<i>Seen if it weren't for these eyes</i>
+
+310
+00:23:32,220 --> 00:23:36,970
+<i>Why? They begin to overflow</i>
+
+311
+00:23:36,970 --> 00:23:43,060
+<i>So, if I were to be born again</i>
+
+312
+00:23:43,060 --> 00:23:48,900
+<i>I would surely choose this place once more</i>
+
+313
+00:23:48,900 --> 00:23:54,910
+<i>So, if we were to meet again</i>
+
+314
+00:23:54,910 --> 00:24:00,660
+<i>I'd never let you go, I'd choose the present</i>
+
+315
+00:24:00,660 --> 00:24:03,630
+<i>Even if no promises were made</i>
+
+316
+00:24:03,630 --> 00:24:06,550
+<i>Even if I'm lost in days of loneliness</i>
+
+317
+00:24:06,550 --> 00:24:12,720
+<i>Those tears will be alright, 
+dawn will surely break</i>
+
+318
+00:24:12,720 --> 00:24:15,390
+<i>I'm whispering our lullaby</i>
+
+319
+00:24:15,390 --> 00:24:19,310
+<i>for you to come back home</i>
+
+320
+00:24:20,130 --> 00:24:21,730
+She has roughly one-fifth of my mana.
+
+321
+00:24:20,240 --> 00:24:23,130
+I've heard there's a long-lived 
+mage in these woods.
+
+322
+00:24:21,750 --> 00:24:23,700
+If she engages her directly, 
+Frieren will lose.
+
+323
+00:24:23,590 --> 00:24:25,760
+You are no match for me.
+
+324
+00:24:23,590 --> 00:24:26,230
+What do you think, Heiter?
+
+325
+00:24:24,440 --> 00:24:25,640
+It's an elf village.
+
+326
+00:24:25,640 --> 00:24:27,680
+Kill all the elves.
+
+327
+00:24:25,760 --> 00:24:29,990
+Because you're a far more powerful mage.
+
+328
+00:24:27,520 --> 00:24:29,980
+Episode 10
+A Powerful Mage
+
