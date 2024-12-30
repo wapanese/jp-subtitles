@@ -1,0 +1,1410 @@
+1
+00:00:00,560 --> 00:00:03,480
+0300 Hours                   Operation Room
+
+2
+00:00:05,980 --> 00:00:08,440
+Okonogi, status report.
+
+3
+00:00:08,440 --> 00:00:09,400
+Yes, ma'am.
+
+4
+00:00:09,400 --> 00:00:13,030
+Evacuation of the surrounding 
+area began at 0245.
+
+5
+00:00:13,240 --> 00:00:18,780
+0301 Hours      Sagamihara
+
+6
+00:00:14,480 --> 00:00:18,180
+<i>Emergency Kaiju alert. 
+Emergency Kaiju alert.</i>
+
+7
+00:00:18,180 --> 00:00:20,480
+<i>The epicenter is located in Sagamihara.</i>
+
+8
+00:00:20,480 --> 00:00:24,810
+<i>Citizens in the surrounding area are asked 
+to follow JSDF orders and evacuate.</i>
+
+9
+00:00:24,810 --> 00:00:25,700
+<i>I repeat...</i>
+
+10
+00:00:25,700 --> 00:00:27,740
+Why Sagamihara?
+
+11
+00:00:27,740 --> 00:00:29,600
+Is the Defense Force here yet?
+
+12
+00:00:29,600 --> 00:00:31,630
+Mommy, I gotta go to the bathroom!
+
+13
+00:00:31,630 --> 00:00:33,200
+Stay calm, everyone!
+
+14
+00:00:33,200 --> 00:00:35,530
+The next buses will arrive soon!
+
+15
+00:00:35,530 --> 00:00:37,530
+Stay calm and evacuate!
+
+16
+00:00:36,640 --> 00:00:39,350
+Kaiju Evacuation
+
+17
+00:00:37,530 --> 00:00:39,340
+There's room on the buses for everyone!
+
+18
+00:00:39,520 --> 00:00:41,340
+Are we working with the JSDF?
+
+19
+00:00:41,340 --> 00:00:43,210
+A JSDF artillery regiment command post
+
+20
+00:00:41,470 --> 00:00:46,230
+0305 Hours   JSDF Artillery Regiment Command Post
+
+21
+00:00:43,210 --> 00:00:46,230
+is being constructed 
+at the Leon Mall parking lot.
+
+22
+00:00:46,470 --> 00:00:47,550
+Deploying FO.
+
+23
+00:00:47,550 --> 00:00:49,030
+Observation post constructed.
+
+24
+00:00:49,030 --> 00:00:50,810
+Sitrep on the evacuation progress.
+
+25
+00:00:51,070 --> 00:00:52,690
+And the Honju?
+
+26
+00:00:52,920 --> 00:00:54,710
+It first appeared at Kannawa Fault
+
+27
+00:00:54,710 --> 00:00:57,030
+and moved underground 
+while growing larger.
+
+28
+00:00:57,030 --> 00:01:01,280
+It's believed to have surfaced 
+because it's entered its breeding phase.
+
+29
+00:01:01,280 --> 00:01:05,450
+The appearance of the Honju has been followed
+by the appearance of a large number of Yoju.
+
+30
+00:01:05,450 --> 00:01:08,550
+Come on, how many of these things are there?
+
+31
+00:01:08,550 --> 00:01:11,420
+Fortunately, the neutralization area
+ isn't that far away.
+
+32
+00:01:11,420 --> 00:01:13,770
+If we want to minimize damage 
+to the surrounding area,
+
+33
+00:01:13,770 --> 00:01:19,130
+our best option is to defeat the Honju 
+in the central Sector Bravo.
+
+34
+00:01:19,670 --> 00:01:21,750
+I'll handle the Honju.
+
+35
+00:01:22,220 --> 00:01:24,640
+Sector Echo will serve as the sniper point.
+
+36
+00:01:24,960 --> 00:01:28,320
+We'll be able to target the enemies 
+from alongside Highway 16.
+
+37
+00:01:29,110 --> 00:01:33,300
+This operation will be designated 
+as the Sagamihara Neutralization Operation.
+
+38
+00:01:33,640 --> 00:01:35,570
+Best of luck to all of you.
+
+39
+00:01:38,870 --> 00:01:45,580
+Kaiju
+Exclusive
+Lane
+
+40
+00:01:50,890 --> 00:01:52,560
+Y'all feeling ready?
+
+41
+00:01:53,690 --> 00:01:55,700
+It's time to go Kaiju hunting.
+
+42
+00:01:57,920 --> 00:01:59,420
+<i>Our first mission.</i>
+
+43
+00:02:02,750 --> 00:02:07,520
+<i>Kaiju No. 8. I still can't believe it...</i>
+
+44
+00:02:07,840 --> 00:02:12,520
+<i>But don't disappoint me, Kafka Hibino.</i>
+
+45
+00:02:21,000 --> 00:02:23,240
+Vice-Captain, Senpai's about to throw up!
+
+46
+00:02:23,240 --> 00:02:26,250
+Sorry! I was so nervous, I ate too much food!
+
+47
+00:02:26,250 --> 00:02:28,060
+Normally, you get too nervous to eat!
+
+48
+00:02:28,060 --> 00:02:29,600
+Open a window! Now!
+
+49
+00:02:29,600 --> 00:02:31,000
+If you throw up, I'll kill you!
+
+50
+00:02:31,000 --> 00:02:32,520
+What's wrong with you, old dude?
+
+51
+00:02:32,520 --> 00:02:34,000
+Please don't kill me!
+
+52
+00:04:04,050 --> 00:04:07,640
+0400 Hours JSDF Command Post 304
+ Leon Mall Sagamihara Parking Lot
+
+53
+00:04:07,720 --> 00:04:10,770
+0400 Hours       Leon Mall Sagamihara Evacuation Area
+
+54
+00:04:16,270 --> 00:04:19,530
+0400 Hours Japanese Ground Self-Defense Forces
+ Anti-Kaiju Artillery Battalion
+
+55
+00:04:19,780 --> 00:04:23,530
+0400 Hours   Sector E
+
+56
+00:04:23,860 --> 00:04:27,030
+Hoshina Platoon
+
+57
+00:04:27,770 --> 00:04:29,850
+<i>So this is the neutralization area.</i>
+
+58
+00:04:30,610 --> 00:04:34,870
+<i>And that's the Honju for this mission!</i>
+
+59
+00:04:32,620 --> 00:04:37,670
+Episode 6
+
+60
+00:04:32,620 --> 00:04:37,670
+Sagamihara Neutralization 
+Operation at Daybreak
+
+61
+00:04:48,440 --> 00:04:50,090
+I'll brief you on the operation.
+
+62
+00:04:50,690 --> 00:04:53,690
+Captain Ashiro's unit will handle the Honju.
+
+63
+00:04:54,040 --> 00:04:57,480
+The problem is that
+ it's creating a ton of Yoju.
+
+64
+00:04:58,440 --> 00:05:00,170
+This neutralization area is kept
+
+65
+00:05:00,170 --> 00:05:03,680
+deliberately clear of important infrastructure
+and critical transportation routes.
+
+66
+00:05:03,740 --> 00:05:06,530
+Sector F    Ikaruga Platoon
+
+67
+00:05:04,110 --> 00:05:09,080
+Your job will be to make sure 
+no Yoju escape from this area.
+
+68
+00:05:06,610 --> 00:05:09,070
+Sector J    Nakanoshima Platoon
+
+69
+00:05:09,320 --> 00:05:13,210
+It's an important job that determines 
+how much damage is dealt,
+
+70
+00:05:13,210 --> 00:05:16,490
+how much it costs to rebuild from 
+that damage, and how long it'll take.
+
+71
+00:05:16,940 --> 00:05:20,750
+Of course, any platoon with new 
+recruits will be placed at the very rear.
+
+72
+00:05:20,750 --> 00:05:22,220
+But that also means...
+
+73
+00:05:23,220 --> 00:05:26,510
+You're our last line of defense.
+
+74
+00:05:29,500 --> 00:05:31,300
+Anybody got questions?
+
+75
+00:05:38,920 --> 00:05:39,870
+Good.
+
+76
+00:05:41,680 --> 00:05:44,700
+No matter how good your scores 
+are during training,
+
+77
+00:05:44,700 --> 00:05:46,940
+that won't save a single life.
+
+78
+00:05:47,690 --> 00:05:51,920
+It's time, recruits. Show me 
+what you can do on the battlefield.
+
+79
+00:05:55,620 --> 00:05:58,410
+All right, let's go!
+
+80
+00:06:06,200 --> 00:06:08,100
+Have fun out there, guys.
+
+81
+00:06:08,360 --> 00:06:11,080
+This is the JSDF Artillery 
+Regiment Command Post.
+
+82
+00:06:11,080 --> 00:06:14,360
+Civilian evacuation and
+ command post construction complete.
+
+83
+00:06:14,360 --> 00:06:17,280
+Message received. 
+Thank you for your cooperation.
+
+84
+00:06:17,280 --> 00:06:21,270
+All platoons and all JSDF 
+forces are ready to go.
+
+85
+00:06:21,270 --> 00:06:24,200
+Eight minutes until
+ Captain Ashiro reaches her position.
+
+86
+00:06:24,600 --> 00:06:27,110
+<i>It's time, right, Senpai?</i>
+
+87
+00:06:27,460 --> 00:06:28,600
+Yeah.
+
+88
+00:06:28,600 --> 00:06:31,330
+During this mission, 
+I have to prove I can do the job.
+
+89
+00:06:31,330 --> 00:06:34,430
+You're never gonna be 
+a full officer at this rate.
+
+90
+00:06:34,740 --> 00:06:36,860
+You'll be fired in three months.
+
+91
+00:06:37,310 --> 00:06:38,850
+I won't get another shot.
+
+92
+00:06:39,580 --> 00:06:42,050
+<i>Nervousness. Panic.</i>
+
+93
+00:06:42,050 --> 00:06:45,120
+I'm feeling all kinds of pressure.
+
+94
+00:06:45,840 --> 00:06:48,530
+But for some reason...
+
+95
+00:06:49,750 --> 00:06:52,340
+I'm also incredibly excited!
+
+96
+00:06:53,940 --> 00:06:55,670
+<i>Yeah, that's right.</i>
+
+97
+00:06:55,670 --> 00:06:58,480
+<i>This is the job you've always wanted.</i>
+
+98
+00:06:59,660 --> 00:07:00,720
+<i>Senpai.</i>
+
+99
+00:07:02,440 --> 00:07:05,610
+Let's make sure our first mission
+ is a big success!
+
+100
+00:07:06,860 --> 00:07:07,660
+Right!
+
+101
+00:07:07,660 --> 00:07:10,570
+<i>Yoju sighted in Sector Echo!</i>
+
+102
+00:07:10,840 --> 00:07:11,870
+They're here.
+
+103
+00:07:15,860 --> 00:07:17,280
+Time to go, Kikoru.
+
+104
+00:07:18,790 --> 00:07:21,720
+Why are you telling me what to do?
+
+105
+00:07:22,070 --> 00:07:23,410
+Don't die out there, Ichikawa!
+
+106
+00:07:23,410 --> 00:07:24,840
+<i>You too, Senpai!</i>
+
+107
+00:07:27,720 --> 00:07:29,160
+Okay!
+
+108
+00:07:29,160 --> 00:07:32,080
+Time to make my first mission a big success!
+
+109
+00:07:51,600 --> 00:07:55,030
+Captain Ashiro has reached the sniper point.
+
+110
+00:07:55,030 --> 00:07:59,730
+Please lure the Honju to Sector Bravo 
+and provide fire support.
+
+111
+00:07:59,730 --> 00:08:00,650
+<i>Roger that.</i>
+
+112
+00:08:00,840 --> 00:08:03,380
+<i>JSDF Artillery Regiment Command Post,</i>
+
+113
+00:08:03,380 --> 00:08:06,040
+<i>now initiating fire support 
+for the Defense Force.</i>
+
+114
+00:08:32,440 --> 00:08:35,240
+Time for your big debut.
+
+115
+00:08:35,630 --> 00:08:39,870
+Start by showing your superiors
+ just how damn good you really are.
+
+116
+00:08:42,870 --> 00:08:44,500
+<i>It's begun.</i>
+
+117
+00:08:45,110 --> 00:08:47,760
+<i>But it's not like the exam.</i>
+
+118
+00:08:48,710 --> 00:08:51,040
+<i>I feel strangely calm...</i>
+
+119
+00:08:52,030 --> 00:08:56,120
+<i>I can tell the suit is helping me.</i>
+
+120
+00:09:00,460 --> 00:09:02,800
+<i>Unleashing combat power!</i>
+
+121
+00:09:07,300 --> 00:09:08,790
+You're too far out in front!
+
+122
+00:09:08,790 --> 00:09:11,520
+Your combat power is 1%, 
+so stay in the rear!
+
+123
+00:09:11,850 --> 00:09:12,750
+Sheesh.
+
+124
+00:09:13,250 --> 00:09:16,240
+Why do we have to babysit the new kids?
+
+125
+00:09:16,870 --> 00:09:20,090
+Can't you guys just go someplace
+ you won't get in our way and watch?
+
+126
+00:09:21,480 --> 00:09:22,330
+Listen up!
+
+127
+00:09:22,330 --> 00:09:24,360
+We don't know the enemy's vulnerable points.
+
+128
+00:09:24,660 --> 00:09:28,210
+Play it safe until we get info 
+from the guys on the front line.
+
+129
+00:09:30,200 --> 00:09:31,220
+Roger that.
+
+130
+00:09:31,220 --> 00:09:35,000
+I'll play it safe and blast anything 
+that could be a weak point.
+
+131
+00:09:46,800 --> 00:09:48,360
+<i>What the hell?</i>
+
+132
+00:09:48,360 --> 00:09:51,060
+<i>That's not the kind of firepower
+you see from a rookie!</i>
+
+133
+00:09:53,020 --> 00:09:55,340
+<i>So that's the power of Kikoru Shinomiya.</i>
+
+134
+00:09:55,950 --> 00:09:57,120
+Kikoru...
+
+135
+00:09:57,990 --> 00:09:59,740
+Nice!
+
+136
+00:10:00,740 --> 00:10:03,720
+What else would you expect from me?
+
+137
+00:10:04,550 --> 00:10:05,920
+<i>Abnormal vital signs detected.</i>
+
+138
+00:10:05,920 --> 00:10:07,920
+<i>Rapid increase in heart rate.</i>
+
+139
+00:10:07,920 --> 00:10:10,750
+You don't need to tell me that!
+
+140
+00:10:10,790 --> 00:10:14,630
+Sector F
+
+141
+00:10:18,800 --> 00:10:19,700
+There we go!
+
+142
+00:10:19,700 --> 00:10:21,230
+Two legs down. Finish it!
+
+143
+00:10:31,560 --> 00:10:33,560
+Well done, Furuhashi!
+
+144
+00:10:33,560 --> 00:10:34,750
+There we go!
+
+145
+00:10:34,750 --> 00:10:36,080
+You see that, Reno?
+
+146
+00:10:43,070 --> 00:10:46,120
+Did you do that by yourself?
+
+147
+00:10:47,820 --> 00:10:48,830
+Yes.
+
+148
+00:10:49,790 --> 00:10:54,050
+I swapped out the burst rounds 
+in my gun for freeze rounds.
+
+149
+00:10:54,050 --> 00:10:55,840
+I think it's a better fit for my style.
+
+150
+00:10:55,840 --> 00:10:58,760
+I can slow down the enemy while I fight.
+
+151
+00:10:58,760 --> 00:11:02,850
+I think, once I get the hang of this, 
+I'll be even better at hunting Kaiju.
+
+152
+00:11:06,280 --> 00:11:07,510
+<i>I'm not there yet.</i>
+
+153
+00:11:07,510 --> 00:11:09,510
+<i>I need to get stronger.</i>
+
+154
+00:11:09,510 --> 00:11:12,120
+<i>So Senpai won't have to transform!</i>
+
+155
+00:11:12,850 --> 00:11:14,270
+Sector J
+
+156
+00:11:28,350 --> 00:11:29,800
+They're so damn speedy!
+
+157
+00:11:36,440 --> 00:11:40,050
+Wh-What's the deal with this year's recruits?
+
+158
+00:11:40,050 --> 00:11:41,870
+Platoon Leader Nakanoshima!
+
+159
+00:11:41,870 --> 00:11:45,460
+What's going on with those guys? 
+I'm losing my self-confidence here!
+
+160
+00:11:45,460 --> 00:11:49,290
+Hmm, I knew it was 
+a good batch this year,
+
+161
+00:11:49,290 --> 00:11:50,800
+but not <i>this</i> good.
+
+162
+00:11:50,810 --> 00:11:53,050
+I've taken down six already.
+
+163
+00:11:53,050 --> 00:11:55,610
+You're going a little slow, 
+aren't you, Haruichi?
+
+164
+00:11:55,610 --> 00:11:56,910
+Right, right.
+
+165
+00:11:56,910 --> 00:12:01,110
+Don't forget that you only got four 
+of those six 'cause I backed you up.
+
+166
+00:12:01,420 --> 00:12:05,200
+One's a wild child. 
+One's the clean-cut type.
+
+167
+00:12:05,870 --> 00:12:08,370
+<i>Cougar Mode</i>
+
+168
+00:12:06,410 --> 00:12:08,370
+Yeah, it's a good year.
+
+169
+00:12:08,370 --> 00:12:10,000
+You're talking about their looks?
+
+170
+00:12:10,190 --> 00:12:14,670
+Vice-Captain Hoshina told me 
+there are a few really good ones.
+
+171
+00:12:14,670 --> 00:12:16,620
+But that's not all.
+
+172
+00:12:16,960 --> 00:12:21,160
+The average unleashed combat power of
+the new recruits is higher than in most years.
+
+173
+00:12:21,160 --> 00:12:25,120
+The guys at the top are motivating 
+the others to do better.
+
+174
+00:12:25,590 --> 00:12:26,680
+<i>Number eight!</i>
+
+175
+00:12:26,680 --> 00:12:28,090
+<i>That was totally my kill!</i>
+
+176
+00:12:28,090 --> 00:12:31,730
+Our observation teams have verified 
+that Sector Juliet is clear of Yoju.
+
+177
+00:12:31,730 --> 00:12:33,010
+All Yoju have been defeated.
+
+178
+00:12:33,180 --> 00:12:36,170
+<i>The kill reports keep coming.</i>
+
+179
+00:12:36,170 --> 00:12:37,520
+<i>They're all amazing!</i>
+
+180
+00:12:37,830 --> 00:12:42,030
+<i>Ikaruga Platoon will advance, 
+with Ichikawa and Furuhashi at the forefront.</i>
+
+181
+00:12:42,030 --> 00:12:44,130
+Ichikawa and Iharu, too?
+
+182
+00:12:45,110 --> 00:12:46,310
+<i>This is no good.</i>
+
+183
+00:12:46,310 --> 00:12:49,530
+<i>Everyone's working so hard, 
+and I'm just slowing them down.</i>
+
+184
+00:12:49,530 --> 00:12:52,000
+<i>Isn't there anything I can do?</i>
+
+185
+00:12:53,260 --> 00:12:54,960
+<i>Wait, didn't he just say...</i>
+
+186
+00:12:55,240 --> 00:12:56,280
+Listen up!
+
+187
+00:12:56,280 --> 00:12:58,630
+We don't know the enemy's vulnerable points.
+
+188
+00:12:58,630 --> 00:13:02,340
+Play it safe until we get info 
+from the guys on the front line.
+
+189
+00:13:07,790 --> 00:13:11,260
+<i>I'll fight with my own weapons!</i>
+
+190
+00:13:11,850 --> 00:13:13,690
+Senpai, look!
+
+191
+00:13:15,650 --> 00:13:17,600
+What the hell's he doing?
+
+192
+00:13:18,000 --> 00:13:20,850
+<i>Wow, even with just 1%,</i>
+
+193
+00:13:20,850 --> 00:13:23,510
+<i>the suit makes it easy 
+to dismantle their bodies.</i>
+
+194
+00:13:24,660 --> 00:13:26,990
+<i>If they could mass-produce these things,</i>
+
+195
+00:13:26,990 --> 00:13:30,400
+<i>it'd be nice if they gave some 
+to the cleanup industry.</i>
+
+196
+00:13:32,800 --> 00:13:36,300
+<i>This is a pretty standard structure 
+for fungal-type Kaiju,</i>
+
+197
+00:13:36,830 --> 00:13:39,510
+<i>but the core's not where it usually is.</i>
+
+198
+00:13:40,050 --> 00:13:41,420
+<i>Where is it?</i>
+
+199
+00:13:41,420 --> 00:13:43,420
+<i>If it's not here, then maybe over there?</i>
+
+200
+00:13:46,090 --> 00:13:47,540
+<i>Wait a second...</i>
+
+201
+00:13:49,080 --> 00:13:52,210
+<i>Vice-Captain Hoshina, 
+I've located the Yoju core.</i>
+
+202
+00:13:52,210 --> 00:13:52,930
+What?
+
+203
+00:13:52,930 --> 00:13:54,930
+It's at the base of the neck,
+
+204
+00:13:54,930 --> 00:13:59,260
+but there are hard, fibrous muscles on top 
+of it that serve as its backbone.
+
+205
+00:13:59,260 --> 00:14:03,770
+Officers with weaker attack power
+might need to hit them from the sides.
+
+206
+00:14:04,880 --> 00:14:07,960
+<i>And there's one more thing. 
+This one's important.</i>
+
+207
+00:14:08,440 --> 00:14:11,280
+The Yoju have reproductive organs too.
+
+208
+00:14:12,160 --> 00:14:15,930
+The white, bumpy organs near their rears.
+
+209
+00:14:15,930 --> 00:14:21,220
+If we don't destroy those organs, 
+their corpses might spawn new Yoju.
+
+210
+00:14:21,550 --> 00:14:22,800
+<i>Kafka.</i>
+
+211
+00:14:23,320 --> 00:14:24,630
+That's some damn fine work.
+
+212
+00:14:26,130 --> 00:14:29,910
+<i>Okonogi-chan, share that news 
+with the rest of the team.</i>
+
+213
+00:14:29,910 --> 00:14:30,770
+Roger that.
+
+214
+00:14:30,770 --> 00:14:34,200
+Sharing information on Yoju core 
+and reproductive organs with all officers.
+
+215
+00:14:35,010 --> 00:14:37,610
+<i>I'm sure you picked up some 
+of that at your last job,</i>
+
+216
+00:14:37,610 --> 00:14:40,170
+<i>but I guess your studying really paid off.</i>
+
+217
+00:14:40,640 --> 00:14:42,010
+<i>Well done.</i>
+
+218
+00:14:43,850 --> 00:14:46,590
+<i>I helped the Defense Force!</i>
+
+219
+00:14:48,380 --> 00:14:52,480
+I'll go neutralize all the corpses
+ of the defeated Yoju!
+
+220
+00:14:52,480 --> 00:14:59,960
+<i>I'll do everything I can, no matter 
+what it is, until I reach Mina's side!</i>
+
+221
+00:15:03,680 --> 00:15:04,890
+What?
+
+222
+00:15:04,890 --> 00:15:06,880
+<i>Looks like they've started for the day too.</i>
+
+223
+00:15:06,880 --> 00:15:10,010
+Honju has reached the designated 
+combat initiation point.
+
+224
+00:15:10,380 --> 00:15:13,260
+JSDF ground and air forces 
+are requested to withdraw.
+
+225
+00:15:13,260 --> 00:15:17,320
+The Defense Force will initiate 
+an attack on the Honju's legs.
+
+226
+00:15:18,720 --> 00:15:21,720
+Please keep it pinned 
+down as long as you can.
+
+227
+00:15:30,010 --> 00:15:31,540
+Target sighted.
+
+228
+00:15:31,540 --> 00:15:34,600
+Compensation for Coriolis force, 
+gravitational force complete.
+
+229
+00:15:34,600 --> 00:15:37,360
+No additional targets in area.
+
+230
+00:15:37,360 --> 00:15:39,490
+One round loaded and ready to fire.
+
+231
+00:15:39,490 --> 00:15:40,550
+<i>Roger.</i>
+
+232
+00:15:40,550 --> 00:15:42,800
+<i>All conditions met for firing to commence.</i>
+
+233
+00:15:42,800 --> 00:15:44,230
+<i>You are cleared to fire.</i>
+
+234
+00:15:44,710 --> 00:15:48,210
+Let's see who can be 
+a cooler Defense Force officer!
+
+235
+00:15:50,050 --> 00:15:51,200
+Kafka-kun...
+
+236
+00:15:51,920 --> 00:15:55,130
+This is who I am right now.
+
+237
+00:16:09,520 --> 00:16:12,950
+<i>Unleashed combat power, 96%.</i>
+
+238
+00:16:13,120 --> 00:16:16,450
+Watch this one closely, Kafka.
+
+239
+00:16:17,000 --> 00:16:17,990
+Fire.
+
+240
+00:16:31,110 --> 00:16:36,540
+<i>That's the power of the person 
+you're trying to stand beside.</i>
+
+241
+00:16:39,600 --> 00:16:41,260
+Second round loaded and ready to fire.
+
+242
+00:16:41,260 --> 00:16:42,040
+<i>Roger.</i>
+
+243
+00:16:42,040 --> 00:16:43,310
+<i>You are cleared to fire.</i>
+
+244
+00:16:51,740 --> 00:16:54,000
+<i>Honju vital signs have disappeared.</i>
+
+245
+00:16:54,380 --> 00:16:55,480
+<i>It's collapsing!</i>
+
+246
+00:17:06,180 --> 00:17:07,980
+Third round loaded and ready to fire.
+
+247
+00:17:07,980 --> 00:17:09,250
+<i>R-Roger.</i>
+
+248
+00:17:09,250 --> 00:17:10,630
+<i>You are cleared to fire.</i>
+
+249
+00:17:17,820 --> 00:17:20,790
+Honju has taken critical damage 
+and has stopped moving entirely.
+
+250
+00:17:22,610 --> 00:17:24,390
+That's the captain for you.
+
+251
+00:17:25,650 --> 00:17:27,630
+<i>Fourth round loaded and ready to fire.</i>
+
+252
+00:17:29,120 --> 00:17:32,150
+<i>B-But the Honju is already down...</i>
+
+253
+00:17:32,150 --> 00:17:33,140
+Give the order.
+
+254
+00:17:33,620 --> 00:17:35,070
+<i>R-Roger.</i>
+
+255
+00:17:37,320 --> 00:17:38,950
+<i>Damn it!</i>
+
+256
+00:17:38,950 --> 00:17:42,540
+<i>It's totally different from when you look 
+at it on TV or through binoculars!</i>
+
+257
+00:17:42,540 --> 00:17:45,300
+<i>She's incredible!</i>
+
+258
+00:17:45,300 --> 00:17:47,330
+Feel like giving up?
+
+259
+00:17:51,480 --> 00:17:56,840
+Standing by her side means matching 
+that kind of strength.
+
+260
+00:17:57,090 --> 00:18:01,870
+And can you do that, Vice-Captain Hoshina?
+
+261
+00:18:02,970 --> 00:18:03,850
+Not a chance!
+
+262
+00:18:03,850 --> 00:18:05,400
+Not a chance?!
+
+263
+00:18:05,750 --> 00:18:09,030
+My unleashed combat power isn't as good 
+when it comes to the long-range guns,
+
+264
+00:18:09,030 --> 00:18:11,780
+so I'm not as capable of
+ taking down the big boys as she is.
+
+265
+00:18:12,330 --> 00:18:15,600
+But when it comes to the smaller 
+and mid-sized enemies...
+
+266
+00:18:17,070 --> 00:18:18,450
+Vice-Captain! Behind you!
+
+267
+00:18:23,990 --> 00:18:26,250
+I think I'm a bit better than she is.
+
+268
+00:18:28,400 --> 00:18:29,920
+<i>A katana?</i>
+
+269
+00:18:30,170 --> 00:18:32,680
+<i>It was so fast I couldn't see it at all!</i>
+
+270
+00:18:33,440 --> 00:18:37,820
+My family's been a clan of Kaiju-hunters 
+since the days of the Muromachi period.
+
+271
+00:18:37,820 --> 00:18:39,780
+I'm much better at this stuff.
+
+272
+00:18:41,840 --> 00:18:46,110
+A captain and vice-captain are 
+the force's most powerful members.
+
+273
+00:18:46,580 --> 00:18:50,110
+We each get special equipment 
+tailored to our fighting styles.
+
+274
+00:18:54,000 --> 00:18:56,190
+<i>Hoshina, the Honju's down.</i>
+
+275
+00:18:56,190 --> 00:18:57,000
+Roger.
+
+276
+00:18:57,360 --> 00:19:00,700
+That's enough chatting. 
+The real show's about to start.
+
+277
+00:19:01,280 --> 00:19:03,940
+But she just said she took down the Honju...
+
+278
+00:19:03,940 --> 00:19:05,450
+I told you during the briefing.
+
+279
+00:19:05,450 --> 00:19:09,230
+The problem is the countless Yoju it creates.
+
+280
+00:19:09,550 --> 00:19:13,620
+We killed the Honju, but the Yoju 
+are still alive inside its corpse...
+
+281
+00:19:14,960 --> 00:19:16,960
+Just like I thought.
+
+282
+00:19:17,500 --> 00:19:18,470
+Here they come.
+
+283
+00:19:20,460 --> 00:19:23,320
+...and are going to come swarming out.
+
+284
+00:19:35,280 --> 00:19:38,280
+All right, guys! We're wrapping up here.
+
+285
+00:19:38,800 --> 00:19:40,670
+Once we're done cleaning up the riff-raff,
+
+286
+00:19:40,670 --> 00:19:42,860
+we can all go home 
+and have a yummy breakfast.
+
+287
+00:19:42,860 --> 00:19:46,780
+Cleaning up the riff-raff? 
+He makes it sound so easy.
+
+288
+00:19:48,250 --> 00:19:50,280
+Wimpin' out already, recruits?
+
+289
+00:19:50,280 --> 00:19:52,540
+Looks like you need to work on your stamina!
+
+290
+00:19:52,920 --> 00:19:54,360
+All right, guys!
+
+291
+00:19:54,360 --> 00:19:58,540
+Let's show them that there's more to 
+fighting than your unleashed combat power!
+
+292
+00:19:58,540 --> 00:19:59,630
+Right!
+
+293
+00:19:59,920 --> 00:20:01,630
+Hey, you two.
+
+294
+00:20:01,630 --> 00:20:03,510
+Platoon Leader Nakanoshima.
+
+295
+00:20:03,510 --> 00:20:07,780
+You're free to rest and let 
+the veterans do the work, you know.
+
+296
+00:20:07,780 --> 00:20:08,990
+What'll it be?
+
+297
+00:20:11,730 --> 00:20:13,710
+We'll fight, obviously!
+
+298
+00:20:14,600 --> 00:20:17,570
+Deployed Officers Status
+
+299
+00:20:17,570 --> 00:20:20,210
+The new recruits are tired.
+
+300
+00:20:20,210 --> 00:20:23,570
+Their unleashed combat power 
+and endurance are both falling.
+
+301
+00:20:23,750 --> 00:20:27,450
+It's a big neutralization to have 
+for their first mission.
+
+302
+00:20:27,450 --> 00:20:31,960
+But if they can make it through this, 
+it'll take them to the next level.
+
+303
+00:20:32,550 --> 00:20:35,070
+Most officers end their careers with
+
+304
+00:20:35,080 --> 00:20:40,760
+unleashed combat power
+topping out at around 20% to 30%,
+
+305
+00:20:40,760 --> 00:20:46,760
+but a very small number of them will 
+overcome that wall and become captains.
+
+306
+00:20:47,200 --> 00:20:51,260
+Right now, the only one of the new recruits 
+to reach that level is Kikoru Shinomiya.
+
+307
+00:20:51,720 --> 00:20:53,270
+But there might be one more...
+
+308
+00:20:56,810 --> 00:21:00,460
+I think Reno Ichikawa
+ might be up for it as well.
+
+309
+00:21:03,040 --> 00:21:04,240
+<i>Damn it.</i>
+
+310
+00:21:04,240 --> 00:21:08,290
+<i>I spent five years in technical 
+college training every day!</i>
+
+311
+00:21:08,630 --> 00:21:11,800
+<i>Why can't I keep up with him?</i>
+
+312
+00:21:12,720 --> 00:21:14,100
+Iharu-kun.
+
+313
+00:21:14,100 --> 00:21:16,720
+I don't think there are any more Yoju here.
+
+314
+00:21:16,720 --> 00:21:19,030
+Yeah, looks like you're right.
+
+315
+00:21:19,030 --> 00:21:22,550
+<i>New Yoju entering Sector Foxtrot.</i>
+
+316
+00:21:22,550 --> 00:21:24,920
+They're here. Let's return 
+to the front lines.
+
+317
+00:21:25,200 --> 00:21:26,170
+Right.
+
+318
+00:21:38,330 --> 00:21:40,290
+<i>Monster Sweeper</i>
+
+319
+00:21:38,480 --> 00:21:40,320
+<i>Monster Sweeper, Inc.?</i>
+
+320
+00:21:40,320 --> 00:21:42,760
+<i>What's one of the cleaners doing out here?</i>
+
+321
+00:21:43,310 --> 00:21:46,030
+Hey, you didn't hear the alarm?
+
+322
+00:21:46,030 --> 00:21:48,320
+The cleanup crew 
+won't be needed until later.
+
+323
+00:21:48,320 --> 00:21:52,150
+Aww, this one's no good either.
+
+324
+00:21:52,460 --> 00:21:55,830
+The reproductive organs I loaded 
+them with have been destroyed.
+
+325
+00:21:56,220 --> 00:21:58,690
+How did they find out?
+
+326
+00:21:59,240 --> 00:22:03,520
+Maybe there's somebody on the force
+ who knows all about Kaiju?
+
+327
+00:22:06,610 --> 00:22:08,710
+You guys know anything?
+
