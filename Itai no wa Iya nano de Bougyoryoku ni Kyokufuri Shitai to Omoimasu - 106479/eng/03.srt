@@ -1,0 +1,1433 @@
+1
+00:00:12,330 --> 00:00:13,000
+"• Changed some explanation texts
+and categories of the main menu's tutorial
+• [Graphics Settings] now can be tuned between
+five levels from the previous three"
+
+2
+00:00:13,000 --> 00:00:14,660
+"• Skill Revisions
+Skill [Devour] has been revised as follows:
+Implemented a usage limit.
+Can be used a maximum of 10 times per day."
+
+3
+00:00:17,750 --> 00:00:21,750
+The only things that affects us
+are some of the skill fixes.
+
+4
+00:00:21,750 --> 00:00:25,200
+They limited the number
+of times you can use Devour.
+
+5
+00:00:25,200 --> 00:00:27,950
+Yeah, it's just ten times a day!
+
+6
+00:00:27,950 --> 00:00:30,040
+Well, I saw it coming.
+
+7
+00:00:30,040 --> 00:00:34,290
+A shield that eats everything
+and gives you MP is way too strong.
+
+8
+00:00:34,290 --> 00:00:39,040
+Ugh, and then there's the whole thing
+about defense-piercing stuff.
+
+9
+00:00:39,040 --> 00:00:42,410
+They just fixed it so even you take damage now.
+
+10
+00:00:42,410 --> 00:00:47,410
+I guarantee the developers did it
+as a countermeasure to Maple.
+
+11
+00:00:47,410 --> 00:00:52,950
+And the AI improvements are to make sure
+there're no more Maples to come.
+
+12
+00:00:52,950 --> 00:00:58,330
+It would destroy the game's balance
+if everyone got Total Defense.
+
+13
+00:00:59,580 --> 00:01:03,950
+But, hey. While on one hand
+you can take damage now,
+
+14
+00:01:03,950 --> 00:01:06,330
+doesn't that make it cooler?
+
+15
+00:01:06,330 --> 00:01:11,540
+All the damage effects coming out
+will make you feel even more invincible!
+
+16
+00:01:17,750 --> 00:01:20,120
+Take this!
+
+17
+00:01:23,370 --> 00:01:27,410
+Gah! She's not falling no matter what we do!
+
+18
+00:01:27,410 --> 00:01:28,830
+She's a monster!
+
+19
+00:01:29,910 --> 00:01:32,160
+It's my turn now.
+
+20
+00:01:32,160 --> 00:01:33,450
+Hydra!
+
+21
+00:01:42,870 --> 00:01:44,160
+Well?
+
+22
+00:01:44,160 --> 00:01:46,160
+That sounds awesome!
+
+23
+00:03:19,330 --> 00:03:22,160
+"Defense and Reaching Second Level"
+Aw, they limited me.
+
+24
+00:03:22,160 --> 00:03:26,080
+"Defense and Reaching Second Level"
+What should we do?
+Beat the dungeon to reach Level 2?
+
+25
+00:03:26,080 --> 00:03:27,910
+That's fine, but...
+
+26
+00:03:27,910 --> 00:03:32,870
+Since I've always just gone to the lake,
+I still haven't seen much of Level 1.
+
+27
+00:03:32,870 --> 00:03:36,200
+I'd like to check out
+some places I haven't seen.
+
+28
+00:03:36,200 --> 00:03:40,700
+Now that you mention it,
+there's quite a few places I haven't been.
+
+29
+00:03:40,700 --> 00:03:43,450
+Then let's take a look around today!
+
+30
+00:03:43,450 --> 00:03:46,290
+We might come across something cool in a shop!
+
+31
+00:03:46,290 --> 00:03:47,330
+Right!
+
+32
+00:04:01,830 --> 00:04:04,660
+Oh! I think I'll buy this skill!
+
+33
+00:04:04,660 --> 00:04:06,120
+"Cover Move"?
+
+34
+00:04:06,120 --> 00:04:11,620
+Yup! If you're ever in a pinch,
+I'll be able to shield you right away!
+
+35
+00:04:11,620 --> 00:04:13,620
+Come again!
+
+36
+00:04:13,620 --> 00:04:14,830
+Thanks for waiting!
+
+37
+00:04:14,830 --> 00:04:16,410
+Ooh, a weapon store!
+
+38
+00:04:16,410 --> 00:04:17,330
+Huh?
+
+39
+00:04:17,330 --> 00:04:21,750
+Hey, Big Sis! Shouldn't we buy
+good weapons to start out with?
+
+40
+00:04:21,750 --> 00:04:28,450
+Hmm. But if we spend too much,
+we won't be able to afford potions later.
+
+41
+00:04:28,450 --> 00:04:32,660
+They're so cute! They remind me
+of back when I was a newbie!
+
+42
+00:04:32,660 --> 00:04:36,370
+You know, we're still only newbies ourselves.
+
+43
+00:04:36,370 --> 00:04:37,750
+Oh, right!
+
+44
+00:04:37,750 --> 00:04:39,870
+Let's buy weapons! Weapons!
+
+45
+00:04:39,870 --> 00:04:43,040
+Um, well... But...
+
+46
+00:04:44,290 --> 00:04:47,540
+C'mon, Big Sis! Decide already!
+
+47
+00:04:48,500 --> 00:04:50,870
+Maple! Still have some money?
+
+48
+00:04:50,870 --> 00:04:55,620
+Yup! Just what's left over after
+paying Iz to make a new shield.
+
+49
+00:04:55,620 --> 00:04:58,450
+Then, do you wanna see what that's all about?
+
+50
+00:04:59,580 --> 00:05:03,080
+Welcome! Please have a seat!
+
+51
+00:05:06,540 --> 00:05:08,660
+You're quite the celebrity now.
+
+52
+00:05:08,660 --> 00:05:10,290
+Huh? What was that?
+
+53
+00:05:10,290 --> 00:05:12,450
+It's nothing. Pop!
+
+54
+00:05:12,450 --> 00:05:14,910
+Whoa, there's so many choices!
+
+55
+00:05:14,910 --> 00:05:15,700
+Got that right!
+
+56
+00:05:15,700 --> 00:05:18,870
+"Strawberry Tart" "The sweetness and
+texture of shortbread and almonds topped
+with strawberries and delicious cream."
+Oh! It says this one's seasonal!
+
+57
+00:05:18,870 --> 00:05:20,290
+"Strawberry Tart" "The sweetness and
+texture of shortbread and almonds topped
+with strawberries and delicious cream."
+I'm picking that!
+
+58
+00:05:20,290 --> 00:05:22,700
+"Strawberry Tart" "The sweetness and
+texture of shortbread and almonds topped
+with strawberries and delicious cream."
+Then I'll go with this.
+
+59
+00:05:26,040 --> 00:05:28,120
+I've brought your order!
+
+60
+00:05:28,120 --> 00:05:30,790
+Ooh! It's just like the real thing!
+
+61
+00:05:30,790 --> 00:05:32,450
+Please enjoy!
+
+62
+00:05:32,450 --> 00:05:34,120
+Thank you!
+
+63
+00:05:34,120 --> 00:05:36,160
+It's chow time!
+
+64
+00:05:37,870 --> 00:05:39,790
+Delicious!
+
+65
+00:05:39,790 --> 00:05:43,160
+I bet this would be so pricey in the real world!
+
+66
+00:05:43,160 --> 00:05:46,120
+And no need to worry about the calories either!
+
+67
+00:05:46,120 --> 00:05:47,410
+So true!
+
+68
+00:05:48,620 --> 00:05:51,330
+I wonder when the next event will be?
+
+69
+00:05:52,410 --> 00:05:55,870
+Wouldn't it be great
+if we could pair up together?
+
+70
+00:05:55,870 --> 00:05:59,080
+Wasn't the first event a battle royal though?
+
+71
+00:05:59,080 --> 00:06:02,450
+Yeah. And I don't really want
+to fight you, either.
+
+72
+00:06:02,450 --> 00:06:04,870
+They announced a new event not long ago.
+
+73
+00:06:04,870 --> 00:06:05,750
+Huh?
+
+74
+00:06:05,750 --> 00:06:08,450
+You're Maple, aren't you?
+
+75
+00:06:08,450 --> 00:06:10,620
+You got third place last event.
+
+76
+00:06:10,620 --> 00:06:13,200
+I am, but who are you?
+
+77
+00:06:13,200 --> 00:06:15,870
+Come on, at least remember my name!
+
+78
+00:06:15,870 --> 00:06:18,370
+I was second place. Dread.
+
+79
+00:06:18,370 --> 00:06:20,870
+And I was fifth place. Drag.
+
+80
+00:06:20,870 --> 00:06:24,370
+I saw you talking with Frederica.
+Nice to meet you.
+
+81
+00:06:24,370 --> 00:06:27,200
+Uh, nice to meet you.
+
+82
+00:06:27,200 --> 00:06:29,250
+Who's this Frederica?
+
+83
+00:06:29,250 --> 00:06:33,620
+Remember asking someone where
+to fight monsters at? That's her.
+
+84
+00:06:33,620 --> 00:06:35,790
+Ahh!
+
+85
+00:06:35,790 --> 00:06:37,950
+You really surprised her good.
+
+86
+00:06:37,950 --> 00:06:43,080
+She never thought the newbie she
+gave advice to would land third place.
+
+87
+00:06:43,080 --> 00:06:46,790
+Well, I mean... I was just
+really lucky, that's all.
+
+88
+00:06:46,790 --> 00:06:51,500
+Oh, you're right! It says the second event
+will start next weekend!
+
+89
+00:06:51,500 --> 00:06:52,580
+"2nd event begins!!"
+Oh, you're right! It says the second event
+will start next weekend!
+
+90
+00:06:52,580 --> 00:06:54,660
+We can party, too!
+
+91
+00:06:54,660 --> 00:06:57,910
+Thank goodness! We can do it together, Sally!
+
+92
+00:06:57,910 --> 00:07:01,160
+If we ever cross paths, go easy on us, 'kay?
+
+93
+00:07:01,160 --> 00:07:04,660
+But Dread placed second
+and Drag got fifth, right?
+
+94
+00:07:04,660 --> 00:07:06,950
+You two must be pretty good!
+
+95
+00:07:06,950 --> 00:07:08,290
+You know it.
+
+96
+00:07:08,290 --> 00:07:12,660
+But even with the both of us,
+we're really no match for Payne.
+
+97
+00:07:12,660 --> 00:07:13,790
+Payne?
+
+98
+00:07:13,790 --> 00:07:15,660
+You don't know Payne?!
+
+99
+00:07:15,660 --> 00:07:18,700
+He's the one who placed first by a huge margin.
+
+100
+00:07:18,700 --> 00:07:23,620
+And he reached Level 2 faster
+than anyone else. The guy's incredible.
+
+101
+00:07:23,620 --> 00:07:29,040
+Whoa! To think there's people that awesome!
+It sure is a wide world!
+
+102
+00:07:29,040 --> 00:07:32,500
+Now then, we're off to build up some levels.
+
+103
+00:07:32,500 --> 00:07:33,870
+And you guys?
+
+104
+00:07:33,870 --> 00:07:38,450
+There's still places we haven't seen on Level 1,
+so we're looking around.
+
+105
+00:07:38,450 --> 00:07:43,500
+Since we don't really have anywhere in mind,
+do you have any suggestions?
+
+106
+00:07:43,500 --> 00:07:47,120
+Suggestions? Let's see...
+
+107
+00:07:47,120 --> 00:07:50,370
+If you have time for it,
+how about the north forest?
+
+108
+00:07:50,370 --> 00:07:55,500
+After nightfall, I hear there's a quest
+to get the Super Speed skill.
+
+109
+00:07:55,500 --> 00:08:01,540
+However, it might be high difficulty
+for girls like you. What do you say?
+
+110
+00:08:01,540 --> 00:08:02,910
+We'll do it!
+
+111
+00:08:06,410 --> 00:08:10,540
+I wonder what he meant by
+"it's high difficulty for girls?"
+
+112
+00:08:10,540 --> 00:08:16,080
+No idea! But when he puts it like that,
+it fires me up!
+
+113
+00:08:23,410 --> 00:08:25,290
+You okay, Sally?
+
+114
+00:08:25,290 --> 00:08:29,500
+This is a game! This is a game! This is a game!
+
+115
+00:08:29,500 --> 00:08:31,540
+No worries! I'm good!
+
+116
+00:08:31,540 --> 00:08:34,620
+You don't seem good to me at all.
+
+117
+00:08:34,620 --> 00:08:38,120
+Wanna run? Let's run! Let's do it!
+
+118
+00:08:39,250 --> 00:08:40,950
+Hmm? Oh!
+
+119
+00:08:40,950 --> 00:08:44,620
+Ooh, what pretty flames!
+There's even a green one!
+
+120
+00:08:44,620 --> 00:08:46,660
+What?!
+
+121
+00:08:46,660 --> 00:08:49,080
+Over there! Let's go inside!
+
+122
+00:08:52,910 --> 00:08:56,660
+Is this what he meant by it
+being difficult for girls?
+
+123
+00:08:56,660 --> 00:09:00,660
+I happen to be a girl, too, by the way.
+
+124
+00:09:00,660 --> 00:09:04,410
+This place is falling apart. Want me to explore?
+
+125
+00:09:04,410 --> 00:09:05,750
+It's all you.
+
+126
+00:09:05,750 --> 00:09:08,500
+You've been scared of ghosts since forever.
+
+127
+00:09:09,540 --> 00:09:12,250
+I'll never complete the quest like this!
+
+128
+00:09:12,250 --> 00:09:16,450
+Good grief. I wonder if I should just log out?
+
+129
+00:09:17,450 --> 00:09:20,540
+I don't think they'll bother us
+if we stay inside.
+
+130
+00:09:21,620 --> 00:09:23,750
+Eep! No!
+
+131
+00:09:23,750 --> 00:09:27,000
+S-Something's there! B-By the table!
+
+132
+00:09:27,000 --> 00:09:28,620
+The table?
+
+133
+00:09:33,080 --> 00:09:36,370
+This is...? Looks like there's a basement.
+
+134
+00:09:45,500 --> 00:09:48,370
+It hurts! It hurts!
+
+135
+00:09:49,700 --> 00:09:52,500
+He doesn't seem like he's hostile.
+
+136
+00:09:52,500 --> 00:09:54,540
+Maybe he's the quest giver?
+
+137
+00:09:54,540 --> 00:09:56,830
+What now?
+
+138
+00:09:56,830 --> 00:10:00,500
+Since he's saying he's in pain,
+maybe I'll fix that.
+
+139
+00:10:00,500 --> 00:10:01,790
+Potion!
+
+140
+00:10:03,660 --> 00:10:05,040
+It hurts! It hurts!
+
+141
+00:10:05,040 --> 00:10:07,160
+Huh? That didn't work.
+
+142
+00:10:07,160 --> 00:10:09,620
+I could... try healing.
+
+143
+00:10:09,620 --> 00:10:12,080
+Okay! Go for it!
+
+144
+00:10:12,080 --> 00:10:13,620
+It hurts!
+
+145
+00:10:13,620 --> 00:10:14,910
+Heal!
+
+146
+00:10:17,450 --> 00:10:18,910
+It worked!
+
+147
+00:10:20,160 --> 00:10:23,830
+But I guess it's not enough
+unless you keep at it.
+
+148
+00:10:24,910 --> 00:10:31,040
+Heal!
+
+149
+00:10:31,040 --> 00:10:33,200
+This is the last I've got!
+
+150
+00:10:33,200 --> 00:10:34,950
+Heal!
+
+151
+00:10:38,450 --> 00:10:40,830
+Thank you...
+
+152
+00:10:40,830 --> 00:10:43,790
+Do you think this means he's resting in peace?
+
+153
+00:10:43,790 --> 00:10:48,250
+Seems that way. Hmm? Oh! Look!
+
+154
+00:10:51,500 --> 00:10:56,450
+It's the Super Speed skill!
+I think we did the quest just now!
+
+155
+00:11:01,910 --> 00:11:06,160
+It's getting late. I think I'll
+log out for today after this.
+
+156
+00:11:06,160 --> 00:11:10,500
+To be honest, there's somewhere else
+I wanted to go though.
+
+157
+00:11:10,500 --> 00:11:13,080
+What's this place?
+
+158
+00:11:13,080 --> 00:11:15,450
+Fireball!
+
+159
+00:11:30,410 --> 00:11:32,950
+A never-ending sunset area.
+
+160
+00:11:32,950 --> 00:11:36,790
+I hear you can come here anytime
+and see this scenery.
+
+161
+00:11:36,790 --> 00:11:41,830
+Seeing the sunset after nightfall
+sure is a strange feeling.
+
+162
+00:11:46,540 --> 00:11:48,700
+What's that?
+
+163
+00:11:48,700 --> 00:11:54,160
+It says [Matter Red Mother of Pearl].
+Oh, there's another!
+
+164
+00:11:54,160 --> 00:11:58,620
+A souvenir, maybe? I don't know
+if they're used as materials, but...
+
+165
+00:11:58,620 --> 00:12:00,830
+...maybe they're just to sell?
+
+166
+00:12:00,830 --> 00:12:03,580
+I think I'll keep it and treasure it!
+
+167
+00:12:03,580 --> 00:12:06,870
+Yeah. Seems like a waste to sell it.
+
+168
+00:12:06,870 --> 00:12:09,200
+Today was so much fun!
+
+169
+00:12:09,200 --> 00:12:13,160
+Tomorrow, it's back to leveling up
+and gathering skills.
+
+170
+00:12:13,160 --> 00:12:16,700
+Let's at least get to Level 2 before the event.
+
+171
+00:12:16,700 --> 00:12:21,080
+Oh, yeah. What's the other place
+that you wanted to go?
+
+172
+00:12:21,080 --> 00:12:22,870
+Well...
+
+173
+00:12:22,870 --> 00:12:25,370
+You'll have to look forward to it.
+
+174
+00:12:25,370 --> 00:12:27,830
+Hey, what gives?! Tell me!
+
+175
+00:12:27,830 --> 00:12:30,620
+Not happening. Not till Level 2.
+
+176
+00:12:30,620 --> 00:12:32,200
+Sheesh!
+
+177
+00:12:34,370 --> 00:12:36,660
+You've done it now!
+
+178
+00:12:36,660 --> 00:12:37,620
+Take this!
+
+179
+00:12:37,620 --> 00:12:39,250
+You little...!
+
+180
+00:12:40,870 --> 00:12:43,500
+This entrance leads to the second level.
+
+181
+00:12:43,500 --> 00:12:46,410
+All right! Let's head on inside!
+
+182
+00:12:47,040 --> 00:12:48,750
+Should I go this way?
+
+183
+00:12:48,750 --> 00:12:50,370
+That's fine!
+
+184
+00:12:52,040 --> 00:12:53,000
+It's coming!
+
+185
+00:12:53,000 --> 00:12:54,500
+Leave it to me!
+
+186
+00:12:57,200 --> 00:12:58,950
+Devour!
+
+187
+00:13:00,120 --> 00:13:02,000
+Yippie!
+
+188
+00:13:02,000 --> 00:13:03,450
+There's more coming!
+
+189
+00:13:08,540 --> 00:13:11,160
+Devour is just way too good!
+
+190
+00:13:11,160 --> 00:13:14,250
+But I used it four times just now.
+
+191
+00:13:14,250 --> 00:13:17,080
+I've only got six more uses today!
+
+192
+00:13:18,080 --> 00:13:20,250
+Whoa! That surprised me!
+
+193
+00:13:20,250 --> 00:13:22,080
+It's a bear this time?
+
+194
+00:13:22,080 --> 00:13:24,200
+Maple, defend us!
+
+195
+00:13:24,200 --> 00:13:25,410
+Right!
+
+196
+00:13:25,410 --> 00:13:26,950
+Mirage.
+
+197
+00:13:28,830 --> 00:13:31,410
+Huh? Wha--? What?!
+
+198
+00:13:31,410 --> 00:13:32,830
+--Where did...?! But I was holding my shield!
+
+199
+00:13:32,830 --> 00:13:34,370
+--Good luck!
+--Where did...?! But I was holding my shield!
+
+200
+00:13:43,160 --> 00:13:45,200
+Huh? What was that?
+
+201
+00:13:45,200 --> 00:13:49,370
+A skill called Mirage. I wanted to
+test it out before the event.
+
+202
+00:13:49,370 --> 00:13:50,410
+Oh?
+
+203
+00:13:50,410 --> 00:13:53,410
+Let's keep pushing ahead! Let's go!
+
+204
+00:13:57,290 --> 00:13:58,950
+This is...?
+
+205
+00:13:58,950 --> 00:14:01,000
+The boss room, probably.
+
+206
+00:14:29,330 --> 00:14:30,370
+Here it comes!
+
+207
+00:14:30,370 --> 00:14:31,620
+Okay!
+
+208
+00:14:35,580 --> 00:14:37,120
+Hydra!
+
+209
+00:14:45,250 --> 00:14:46,080
+Huh?!
+
+210
+00:14:46,080 --> 00:14:50,250
+My bet's on the magic circle!
+There's gotta be something to it!
+
+211
+00:14:53,410 --> 00:14:57,120
+I'm gonna go investigate!
+Can you keep it off of me?
+
+212
+00:14:57,120 --> 00:14:59,040
+All right!
+
+213
+00:14:59,040 --> 00:15:00,450
+Provocation!
+
+214
+00:15:03,290 --> 00:15:04,870
+Wind Cutter!
+
+215
+00:15:07,370 --> 00:15:10,620
+That's it! Attack those apples!
+
+216
+00:15:10,620 --> 00:15:11,830
+Hydra!
+
+217
+00:15:18,450 --> 00:15:20,160
+All the apples fell off!
+
+218
+00:15:20,160 --> 00:15:23,000
+Wind Cutter!
+
+219
+00:15:23,000 --> 00:15:24,700
+Nice! Got him!
+
+220
+00:15:25,700 --> 00:15:29,370
+Time to pull out the big guns!
+
+221
+00:15:47,040 --> 00:15:48,540
+Maple!
+
+222
+00:15:55,790 --> 00:15:57,200
+Maple!
+
+223
+00:16:01,330 --> 00:16:04,910
+Looks like she'll be out for a while.
+
+224
+00:16:04,910 --> 00:16:07,750
+Oh, well! Guess I'll do it alone!
+
+225
+00:16:14,250 --> 00:16:15,830
+Double Slash!
+
+226
+00:16:18,540 --> 00:16:20,540
+Fireball!
+
+227
+00:16:22,410 --> 00:16:24,040
+Is this a bad spot?!
+
+228
+00:16:25,580 --> 00:16:27,200
+Wind Cutter!
+
+229
+00:16:30,370 --> 00:16:32,620
+Now you're finished!
+
+230
+00:16:32,620 --> 00:16:35,410
+Power Attack!
+
+231
+00:16:52,870 --> 00:16:55,370
+Sh-Shoot! I've gotta attack!
+
+232
+00:16:56,370 --> 00:16:58,200
+Huh?
+
+233
+00:16:58,200 --> 00:17:00,950
+I wrapped things up while you slept.
+
+234
+00:17:05,450 --> 00:17:07,620
+Talk about a total letdown.
+
+235
+00:17:07,620 --> 00:17:13,870
+Now, now. You'll have a chance
+to redeem yourself here on Level 2.
+
+236
+00:17:13,870 --> 00:17:15,250
+Maple!
+
+237
+00:17:15,250 --> 00:17:16,080
+Huh?
+
+238
+00:17:16,080 --> 00:17:18,410
+Oh! Iz!
+
+239
+00:17:18,410 --> 00:17:20,700
+You came to the second level, too?
+
+240
+00:17:20,700 --> 00:17:25,120
+Yes, and I already have a shop here.
+Is this a friend of yours?
+
+241
+00:17:25,120 --> 00:17:26,950
+Yeah, this is Sally!
+
+242
+00:17:26,950 --> 00:17:31,330
+Hello! Maple has told me
+all sorts of things about you!
+
+243
+00:17:31,330 --> 00:17:34,580
+I'm the crafter, Iz. Nice to meet you!
+
+244
+00:17:34,580 --> 00:17:38,410
+Oh, right! I completed the item
+you asked me to make!
+
+245
+00:17:38,410 --> 00:17:40,330
+Really?!
+
+246
+00:17:42,120 --> 00:17:44,370
+Thank you so much!
+
+247
+00:17:44,370 --> 00:17:46,620
+Incredible! So pretty!
+
+248
+00:17:46,620 --> 00:17:49,370
+I'm rather proud of it myself!
+
+249
+00:17:49,370 --> 00:17:51,120
+What will you name it?
+
+250
+00:17:51,120 --> 00:17:54,000
+Snow White! I'll call it Snow White!
+
+251
+00:17:54,000 --> 00:17:56,290
+"Equipment/Armor" "Skill"
+"[Body]" "Armor of the Black Rose".
+"[Right Hand]" "Crescent Moon" "Hydra"
+That's such a lovely name.
+
+252
+00:17:56,290 --> 00:17:59,250
+"[Left Hand]" "Snow White"
+"[Legs]" "Armor of the Black Rose"
+"[Accessories]" "Forest Queen Bee's Ring" "Toughness Ring"
+I maxed out its vitality as much as I could.
+
+253
+00:17:59,250 --> 00:18:02,410
+All so it would better match your playstyle.
+
+254
+00:18:02,410 --> 00:18:05,500
+Lucky you to get it in time
+for the second event.
+
+255
+00:18:05,500 --> 00:18:06,540
+Yeah!
+
+256
+00:18:06,540 --> 00:18:09,410
+Now, to celebrate the occasion...
+
+257
+00:18:09,410 --> 00:18:10,580
+Hmm?
+
+258
+00:18:18,580 --> 00:18:22,080
+This must be the place you were talking about!
+
+259
+00:18:27,370 --> 00:18:30,500
+I'm guessing something happens once we sit.
+
+260
+00:18:30,500 --> 00:18:33,160
+Let's both sit down at the same time then!
+
+261
+00:18:33,160 --> 00:18:35,160
+Okay!
+
+262
+00:18:35,160 --> 00:18:37,200
+Ready, go!
+
+263
+00:18:53,750 --> 00:18:55,620
+What's this?
+
+264
+00:18:55,620 --> 00:18:58,160
+Whoa! Huh?
+
+265
+00:19:04,080 --> 00:19:06,080
+"Today's Special
+Small Piece of Sky
+Please enjoy your meal."
+A Small Piece of Sky...
+
+266
+00:19:06,290 --> 00:19:09,040
+It says, "Please enjoy your meal."
+
+267
+00:19:16,370 --> 00:19:17,830
+How is it, Maple?
+
+268
+00:19:17,830 --> 00:19:22,450
+Mmm! It's like eating strawberries,
+oranges, and apples all at once!
+
+269
+00:19:22,450 --> 00:19:24,830
+Hmm. As for this...
+
+270
+00:19:27,450 --> 00:19:29,580
+Sally! Your hair is glowing!
+
+271
+00:19:29,580 --> 00:19:32,540
+What?! Your eye color's all weird, too!
+
+272
+00:19:32,540 --> 00:19:33,500
+Huh?
+
+273
+00:19:34,700 --> 00:19:37,040
+You think it'll go back to normal?
+
+274
+00:19:37,040 --> 00:19:39,750
+Probably. Just give it some time.
+
+275
+00:19:41,290 --> 00:19:46,250
+It's only been one month,
+yet it feels like I've come so far.
+
+276
+00:19:46,250 --> 00:19:48,870
+To think you were so reluctant at first.
+
+277
+00:19:49,870 --> 00:19:52,200
+Those days are way in the past!
+
+278
+00:19:52,200 --> 00:19:56,450
+I hope we end up doing well in the second event.
+
+279
+00:19:56,450 --> 00:19:57,660
+Yeah!
+
+280
+00:20:03,410 --> 00:20:06,950
+I'm a little nervous,
+this being my first event and all.
+
+281
+00:20:06,950 --> 00:20:09,660
+There're just as many people as last time!
+
+282
+00:20:09,660 --> 00:20:13,000
+I guess nearly everyone participates in events.
+
+283
+00:20:13,000 --> 00:20:14,370
+Oh, Kuromu!
+
+284
+00:20:14,370 --> 00:20:17,000
+Hmm? Ah, it's been a while!
+
+285
+00:20:17,000 --> 00:20:19,080
+You've got a new shield, huh?
+
+286
+00:20:19,080 --> 00:20:23,250
+Yeah! I'm planning to save Devour
+for when I really need it!
+
+287
+00:20:23,250 --> 00:20:25,540
+Is this the rumored friend of yours?
+
+288
+00:20:25,540 --> 00:20:27,000
+Yeah, this is Sally!
+
+289
+00:20:27,000 --> 00:20:28,700
+Huh? Rumored friend?
+
+290
+00:20:28,700 --> 00:20:31,330
+Uh, forget it! It's nothing!
+
+291
+00:20:32,830 --> 00:20:38,500
+Listen! With this event, we'll bolster
+the reputation of the Flame Emperors!
+
+292
+00:20:38,500 --> 00:20:44,080
+I promise you. As long as you're with me,
+you will taste only victory!
+
+293
+00:20:44,080 --> 00:20:48,040
+As members of the Flame Emperors,
+hold pride in your heart!
+
+294
+00:20:48,040 --> 00:20:51,750
+Follow me to the ends of
+the Earth and beyond the skies!
+
+295
+00:20:51,750 --> 00:20:56,910
+Will not our fierce flames scorch
+whatever stands in our path?!
+
+296
+00:20:56,910 --> 00:20:59,000
+Yeah!
+
+297
+00:20:59,000 --> 00:21:01,080
+Ooh, they're pumped up!
+
+298
+00:21:01,080 --> 00:21:03,950
+That's a group called the Flame Emperors.
+
+299
+00:21:03,950 --> 00:21:05,120
+Emperors?
+
+300
+00:21:05,120 --> 00:21:08,830
+--Kingdom of the Flame Emperors.
+Their leader's a powerful Fire Wizard.
+
+301
+00:21:08,830 --> 00:21:10,290
+--Take heart! We are comrades of the flame!
+--Kingdom of the Flame Emperors.
+Their leader's a powerful Fire Wizard.
+
+302
+00:21:10,290 --> 00:21:12,580
+--Take heart! We are comrades of the flame!
+--Her name's Mii. She came in fourth,
+but she's a force to be reckoned with.
+
+303
+00:21:12,580 --> 00:21:15,790
+--Harness the flame in your heart!
+This event is no one's but ours to conquer!
+--Her name's Mii. She came in fourth,
+but she's a force to be reckoned with.
+
+304
+00:21:15,790 --> 00:21:18,000
+--Harness the flame in your heart!
+This event is no one's but ours to conquer!
+--Oh, Mii? That's a cute name,
+but she sounds awesome!
+
+305
+00:21:18,000 --> 00:21:19,950
+--Oh, Mii? That's a cute name,
+but she sounds awesome!
+
+306
+00:21:19,950 --> 00:21:21,580
+Rawr!
+
+307
+00:21:21,580 --> 00:21:25,870
+The countdown for the second event
+will begin momentarily!
+
+308
+00:21:25,870 --> 00:21:28,290
+This time, the event is a treasure hunt!
+
+309
+00:21:28,290 --> 00:21:33,120
+The items to be found are 300 silver medals
+scattered around the map!
+
+310
+00:21:33,120 --> 00:21:36,540
+"2nd Event Explanation Rawr!"
+Collect ten of these
+for a gold medal!
+
+311
+00:21:36,540 --> 00:21:41,660
+"2nd Event Explanation Rawr!"
+Gold medals can be exchanged for skills
+and gear after the event is over!
+
+312
+00:21:41,660 --> 00:21:44,450
+Oh. It's just like the one I got last time.
+
+313
+00:21:44,450 --> 00:21:50,120
+The top ten players from last event
+already have one gold medal each.
+
+314
+00:21:50,120 --> 00:21:52,660
+Killing players for medals is A-OK!
+
+315
+00:21:52,660 --> 00:21:56,160
+You can always search for medals
+if that's not for you!
+
+316
+00:21:56,160 --> 00:21:59,120
+Huh? It wasn't a commemorative medal after all!
+
+317
+00:21:59,120 --> 00:22:03,700
+I was ninth place, so I got a medal too.
+Be careful it's not taken from you.
+
+318
+00:22:03,700 --> 00:22:04,580
+Right!
+
+319
+00:22:04,580 --> 00:22:06,660
+Let's start the countdown!
+
+320
+00:22:06,660 --> 00:22:09,700
+--Five! Four! Three! Two! One!
+
+321
+00:22:09,700 --> 00:22:10,910
+--Let's do our best!
+--Five! Four! Three! Two! One!
+
+322
+00:22:10,910 --> 00:22:11,910
+--Yeah!
+--Five! Four! Three! Two! One!
+
+323
+00:22:11,950 --> 00:22:12,580
+"The 2nd event begins!"
+
+324
+00:22:12,580 --> 00:22:14,410
+"1. The 2nd event begins!"
+
+325
+00:22:14,410 --> 00:22:16,040
+"1. The 2nd event begins!"
+"2. Woo!"
+
+326
+00:22:16,040 --> 00:22:17,540
+"1. The 2nd event begins!"
+"2. Woo!"
+"3. Can't wait!"
+
+327
+00:22:17,540 --> 00:22:19,950
+"1. The 2nd event begins!"
+"2. Woo!"
+"3. Can't wait!"
+"4. Good luck, Maple!"
+
