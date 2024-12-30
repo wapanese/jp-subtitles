@@ -1,0 +1,1398 @@
+1
+00:00:01,251 --> 00:00:04,254
+<i>Alchemy is the science
+</i><i>of understanding, decomposing,</i>
+
+2
+00:00:04,338 --> 00:00:06,256
+<i>and reconstructing matter.</i>
+
+3
+00:00:06,340 --> 00:00:09,343
+<i>However, it is not an all-powerful art.</i>
+
+4
+00:00:09,426 --> 00:00:11,803
+<i>It is impossible to create something
+</i><i>out of nothing.</i>
+
+5
+00:00:12,721 --> 00:00:14,765
+<i>If one wishes to obtain something,</i>
+
+6
+00:00:14,848 --> 00:00:17,893
+<i>something of equal value must be paid.</i>
+
+7
+00:00:18,143 --> 00:00:20,812
+<i>This is the concept
+</i><i>of equivalent exchange,</i>
+
+8
+00:00:20,896 --> 00:00:22,356
+<i>the fundamental basis of alchemy.</i>
+
+9
+00:00:23,148 --> 00:00:27,152
+<i>Alchemists have a taboo,
+</i><i>and it is human transmutation.</i>
+
+10
+00:00:27,236 --> 00:00:30,280
+<i>It is that which no one must commit.</i>
+
+11
+00:02:01,997 --> 00:02:04,583
+<i>Maes Hughes is dead.</i>
+
+12
+00:02:04,666 --> 00:02:09,713
+<i>He was murdered by mysterious people
+</i><i>with Uroboros tattoos.</i>
+
+13
+00:02:09,796 --> 00:02:11,798
+<i>Harboring suspicions about his death,</i>
+
+14
+00:02:11,882 --> 00:02:15,093
+<i>Mustang learns of the
+</i><i>military senior staff's involvement,</i>
+
+15
+00:02:15,177 --> 00:02:18,972
+<i>and reaffirms his determination
+</i><i>to make his foray into Central.</i>
+
+16
+00:02:19,348 --> 00:02:21,183
+<i>Meanwhile, unaware of what had happened,</i>
+
+17
+00:02:21,266 --> 00:02:23,852
+<i>Ed and Al, along with Winry,
+</i><i>had departed southward,</i>
+
+18
+00:02:23,935 --> 00:02:28,857
+<i>toward the town of Dublith,
+</i><i>where their teacher lived.</i>
+
+19
+00:02:28,982 --> 00:02:29,983
+<i>However...</i>
+
+20
+00:02:35,572 --> 00:02:37,991
+Rush Valley!
+
+21
+00:02:38,075 --> 00:02:39,493
+Automail!
+
+22
+00:02:39,576 --> 00:02:40,994
+Automail!
+
+23
+00:02:41,078 --> 00:02:42,496
+Automail!
+
+24
+00:02:44,247 --> 00:02:46,375
+I'm so happy!
+
+25
+00:02:48,585 --> 00:02:51,380
+It's the Gods '11 model!
+
+26
+00:02:51,463 --> 00:02:52,464
+GASP
+
+27
+00:02:52,547 --> 00:02:55,967
+I never thought the day would come
+where I'd behold it with my own eyes!
+
+28
+00:02:58,804 --> 00:03:00,931
+That's the Holy Land of Automail for you.
+
+29
+00:03:01,014 --> 00:03:02,974
+This place is bustling.
+
+30
+00:03:03,058 --> 00:03:06,353
+Why do we have to come out
+in all this freaking heat,
+
+31
+00:03:06,436 --> 00:03:08,730
+and look at automail?
+
+32
+00:03:08,814 --> 00:03:12,734
+We should have left Winry behind,
+and gone straight to Dublith!
+
+33
+00:03:13,443 --> 00:03:15,737
+You there, you have a second?
+
+34
+00:03:16,446 --> 00:03:18,990
+What an unusual model of automail.
+
+35
+00:03:19,074 --> 00:03:21,493
+It really is. Everyone, come look at this.
+
+36
+00:03:23,537 --> 00:03:26,248
+Hey, hold on! Stop, stop that!
+
+37
+00:03:26,331 --> 00:03:27,332
+SWARM
+JOSTLE
+
+38
+00:03:27,416 --> 00:03:30,335
+No, don't undo that! That's--!
+
+39
+00:03:31,294 --> 00:03:33,588
+Everyone's eager to study them.
+
+40
+00:03:33,672 --> 00:03:34,840
+Stop screwing around!
+
+41
+00:03:36,425 --> 00:03:37,676
+Geez.
+
+42
+00:03:37,759 --> 00:03:38,760
+BADGER
+AWESOME, HE'S HUGE
+
+43
+00:03:38,844 --> 00:03:40,220
+This is why I can't stand
+automail engineers.
+
+44
+00:03:40,303 --> 00:03:43,265
+Huh?
+
+45
+00:03:43,348 --> 00:03:44,558
+What is it?
+
+46
+00:03:46,101 --> 00:03:47,102
+It's gone...
+
+47
+00:03:48,061 --> 00:03:49,354
+What is?
+
+48
+00:03:49,730 --> 00:03:51,773
+The thing that proves
+I'm a State Alchemist.
+
+49
+00:03:51,857 --> 00:03:54,693
+My silver watch is gone!
+
+50
+00:03:56,236 --> 00:03:59,281
+That must be the work of Paninya.
+
+51
+00:03:59,364 --> 00:04:00,449
+Paninya?
+
+52
+00:04:00,532 --> 00:04:03,076
+A pickpocket that targets tourists
+as her marks.
+
+53
+00:04:04,286 --> 00:04:08,248
+Do you know where she might be?
+That thing is important!
+
+54
+00:04:09,374 --> 00:04:11,001
+We'll tell you...
+
+55
+00:04:11,084 --> 00:04:13,587
+But in return...
+
+56
+00:04:13,670 --> 00:04:16,590
+Show us your automail once again.
+
+57
+00:04:18,467 --> 00:04:21,344
+The shop of an automail engineer
+named Dominic.
+
+58
+00:04:25,932 --> 00:04:28,977
+They say he lives deep in the mountains
+
+59
+00:04:29,060 --> 00:04:31,021
+because he can get
+high-quality ores out here.
+
+60
+00:04:31,772 --> 00:04:36,818
+Is this really the right way?
+They didn't trick us, did they?
+
+61
+00:04:37,569 --> 00:04:42,574
+This is all because you said you wanted
+to go see that town, you know!
+
+62
+00:04:42,657 --> 00:04:45,660
+It's your own inattentiveness
+that allowed your watch to be stolen!
+
+63
+00:04:45,744 --> 00:04:47,370
+Shut up!
+
+64
+00:04:47,454 --> 00:04:49,039
+- Hey, both of you!
+- What?
+
+65
+00:04:49,706 --> 00:04:51,208
+Isn't that her?
+
+66
+00:05:01,802 --> 00:05:02,886
+I've found you!
+
+67
+00:05:20,946 --> 00:05:22,030
+Give it back!
+
+68
+00:05:22,113 --> 00:05:25,033
+Amazing. Who are you, mister?
+
+69
+00:05:26,076 --> 00:05:28,036
+I'm an alchemist!
+
+70
+00:05:32,374 --> 00:05:34,125
+Amazing, amazing!
+
+71
+00:05:35,961 --> 00:05:37,420
+Stop moving around!
+
+72
+00:05:37,504 --> 00:05:40,382
+Come on, come on,
+you're starting to breathe hard.
+
+73
+00:05:42,717 --> 00:05:44,135
+I've been waiting for you.
+
+74
+00:05:53,520 --> 00:05:54,771
+Nicely done.
+
+75
+00:05:55,188 --> 00:05:58,149
+Now, why don't you give me back my watch?
+
+76
+00:06:01,903 --> 00:06:05,323
+It's not all that unusual, is it?
+Not in this town.
+
+77
+00:06:05,407 --> 00:06:06,533
+By the way...
+
+78
+00:06:07,909 --> 00:06:11,830
+I have a 1.5-inch culverin in my left leg.
+
+79
+00:06:12,330 --> 00:06:16,126
+- Wait!
+- Just try to catch me!
+
+80
+00:06:18,878 --> 00:06:21,923
+I'm not gonna let you get away.
+
+81
+00:06:22,132 --> 00:06:25,635
+Nice work, Winry! Don't let go of her!
+
+82
+00:06:25,719 --> 00:06:26,553
+SQUEEZE
+
+83
+00:06:26,636 --> 00:06:27,762
+Yeah, as if I'd let go!
+
+84
+00:06:28,680 --> 00:06:32,434
+Not until you let me have
+a closer look at your automail!
+
+85
+00:06:36,813 --> 00:06:38,690
+Oh, Paninya,
+
+86
+00:06:39,524 --> 00:06:40,525
+friends of yours?
+
+87
+00:06:40,609 --> 00:06:43,278
+- I'm so gonna study those!
+- Not exactly.
+
+88
+00:06:48,450 --> 00:06:50,910
+I've never seen automail like this.
+
+89
+00:06:50,994 --> 00:06:52,537
+It has an advanced suspension,
+
+90
+00:06:52,621 --> 00:06:57,667
+but more than anything, it's the balance!
+
+91
+00:06:57,751 --> 00:07:00,211
+- This streamlined design is true art--
+- About my silver watch...
+
+92
+00:07:00,295 --> 00:07:01,296
+RUB
+EEP
+
+93
+00:07:01,379 --> 00:07:02,505
+It's no use, brother.
+
+94
+00:07:02,589 --> 00:07:07,218
+I really respect you for being able
+to make automail like this.
+
+95
+00:07:07,302 --> 00:07:10,597
+Oh, I'm not the one who made this.
+
+96
+00:07:10,680 --> 00:07:12,265
+I am.
+
+97
+00:07:19,397 --> 00:07:21,524
+Isn't that a bit heavy?
+
+98
+00:07:21,608 --> 00:07:23,652
+Yes, it is.
+
+99
+00:07:23,735 --> 00:07:26,279
+It's no good to place a strain
+on your wearer.
+
+100
+00:07:26,363 --> 00:07:28,657
+That's why this guy's so small, ain't it?
+
+101
+00:07:28,740 --> 00:07:29,824
+Don't call me small!
+
+102
+00:07:29,908 --> 00:07:30,825
+AH!
+
+103
+00:07:31,534 --> 00:07:35,455
+So you're saying that if these
+were made lighter, I would grow taller?
+
+104
+00:07:35,538 --> 00:07:36,831
+It's possible.
+
+105
+00:07:36,915 --> 00:07:39,918
+Brother, you're so big!
+
+106
+00:07:40,001 --> 00:07:41,711
+So tall!
+
+107
+00:07:41,795 --> 00:07:42,629
+HA HA HA HA
+
+108
+00:07:42,712 --> 00:07:44,172
+You guys sure are small.
+
+109
+00:07:45,674 --> 00:07:48,009
+Hmm, that settles it, all right.
+
+110
+00:07:48,093 --> 00:07:49,970
+Mr. Dominic...
+
+111
+00:07:50,845 --> 00:07:52,764
+Please take me on as an apprentice!
+
+112
+00:07:53,723 --> 00:07:54,766
+Not a chance.
+
+113
+00:07:56,518 --> 00:07:58,561
+If you would take some time to consider...
+
+114
+00:07:58,645 --> 00:08:00,772
+Cork it. I don't take apprentices.
+
+115
+00:08:00,855 --> 00:08:05,068
+Could you at least see your way
+to teaching her how to make automail
+
+116
+00:08:05,151 --> 00:08:07,529
+so that I can grow taller?
+
+117
+00:08:07,612 --> 00:08:08,780
+Shut up, water flea.
+
+118
+00:08:16,705 --> 00:08:20,041
+Sorry about that.
+My old man is pretty stubborn.
+
+119
+00:08:24,004 --> 00:08:26,923
+Water flea... Water flea...
+
+120
+00:08:27,632 --> 00:08:29,009
+Water flea...
+
+121
+00:08:33,596 --> 00:08:36,766
+You're having a baby, right?
+
+122
+00:08:36,850 --> 00:08:38,768
+That's right.
+
+123
+00:08:38,852 --> 00:08:42,147
+Would it be okay if I touched your tummy?
+
+124
+00:08:42,856 --> 00:08:44,107
+Go ahead.
+
+125
+00:09:04,753 --> 00:09:06,921
+It seems so miraculous somehow.
+
+126
+00:09:07,005 --> 00:09:12,552
+Yeah. To think that we were once
+inside Mom's tummy like this too.
+
+127
+00:09:14,888 --> 00:09:16,181
+Are you okay?
+
+128
+00:09:16,556 --> 00:09:18,016
+Yes.
+
+129
+00:09:23,104 --> 00:09:26,733
+My stumps always ache
+when the weather turns bad.
+
+130
+00:09:26,816 --> 00:09:28,860
+How did you end up with automail?
+
+131
+00:09:31,905 --> 00:09:35,533
+I was in a train accident,
+and my parents were killed.
+
+132
+00:09:36,534 --> 00:09:38,912
+I lost both my legs.
+
+133
+00:09:40,163 --> 00:09:43,333
+Not only could I not walk anymore,
+I didn't have anyone to turn to,
+
+134
+00:09:43,416 --> 00:09:46,419
+so it felt like my world had ended.
+
+135
+00:09:48,004 --> 00:09:51,341
+That's when I met Mr. Dominic.
+
+136
+00:10:04,062 --> 00:10:07,482
+You look like you're the most miserable
+person in the world.
+
+137
+00:10:07,565 --> 00:10:10,068
+Nothing grates on me
+more than people like you!
+
+138
+00:10:10,151 --> 00:10:12,737
+Let me go! Let me go!
+
+139
+00:10:12,821 --> 00:10:15,281
+"Eyes of a dead person..."
+
+140
+00:10:15,365 --> 00:10:19,244
+At the time,
+I'm sure I really did look miserable.
+
+141
+00:10:20,954 --> 00:10:23,248
+So without ever really understanding why,
+
+142
+00:10:23,331 --> 00:10:25,834
+I was outfitted with automail.
+
+143
+00:10:25,917 --> 00:10:28,253
+The surgery was painful,
+
+144
+00:10:28,336 --> 00:10:31,673
+the rehabilitation was hard,
+it was as bad as anything could be.
+
+145
+00:10:31,756 --> 00:10:33,133
+But...
+
+146
+00:10:35,635 --> 00:10:40,265
+<i>When I was able to stand
+</i><i>on two legs again, I was so happy.</i>
+
+147
+00:10:42,809 --> 00:10:46,062
+I really am grateful to Mr. Dominic.
+
+148
+00:10:46,938 --> 00:10:50,525
+I plan to pay him back,
+even if it takes my whole life.
+
+149
+00:10:50,608 --> 00:10:54,988
+He's never once accepted
+any money from me, though.
+
+150
+00:10:55,572 --> 00:10:57,073
+Which is why you're a pickpocket.
+
+151
+00:10:58,074 --> 00:11:01,828
+If you're really grateful to him,
+stop picking pockets!
+
+152
+00:11:02,620 --> 00:11:06,166
+Mr. Dominic gave you these legs
+out of his good will.
+
+153
+00:11:06,249 --> 00:11:10,420
+So you have to live up
+to that with good will too.
+
+154
+00:11:10,503 --> 00:11:12,797
+If you're ready to spend your whole life,
+
+155
+00:11:12,881 --> 00:11:17,677
+then don't pick pockets,
+stand up tall on those legs, and work!
+
+156
+00:11:20,847 --> 00:11:24,183
+I'm sure that by doing that,
+you'll please Mr. Dominic too.
+
+157
+00:11:25,810 --> 00:11:30,106
+Yeah. You're right.
+
+158
+00:11:30,940 --> 00:11:32,817
+Yeah, I'm giving up picking pockets.
+
+159
+00:11:32,901 --> 00:11:34,903
+I'll work honestly, and pay him back!
+
+160
+00:11:35,278 --> 00:11:38,406
+Oh, that's right.
+I have to give this back.
+
+161
+00:11:38,489 --> 00:11:39,449
+Right!
+
+162
+00:11:41,117 --> 00:11:45,038
+Huh? Oh, I may have broken it.
+
+163
+00:11:45,121 --> 00:11:46,623
+It won't open.
+
+164
+00:11:46,706 --> 00:11:48,041
+Let me see.
+
+165
+00:11:49,167 --> 00:11:52,420
+No, you didn't.
+It's been closed up with alchemy.
+
+166
+00:11:53,171 --> 00:11:54,422
+Why?
+
+167
+00:11:54,505 --> 00:11:55,965
+Isn't that obvious?
+
+168
+00:11:57,592 --> 00:12:00,845
+It's because there's something in here
+he'd be embarrassed to have anyone see!
+
+169
+00:12:00,929 --> 00:12:03,097
+HM, HM, HM, HM
+
+170
+00:12:03,181 --> 00:12:04,557
+It's open!
+
+171
+00:12:04,641 --> 00:12:07,977
+Now, let's have a look at Ed's treasure.
+
+172
+00:12:11,022 --> 00:12:15,443
+"Don't forget, October 3rd, '11."
+
+173
+00:12:15,526 --> 00:12:16,736
+What's that?
+
+174
+00:12:20,156 --> 00:12:22,659
+Give this back to Ed.
+
+175
+00:12:22,742 --> 00:12:24,452
+Winry?
+
+176
+00:12:24,535 --> 00:12:25,828
+I...
+
+177
+00:12:26,621 --> 00:12:29,040
+I'm going to go ask Mr. Dominic
+if I can be his apprentice again.
+
+178
+00:12:38,466 --> 00:12:39,717
+What's the matter?
+
+179
+00:12:39,801 --> 00:12:41,469
+The ba...
+
+180
+00:12:41,552 --> 00:12:43,054
+The bay?
+
+181
+00:12:43,137 --> 00:12:44,889
+The ba... the ba...
+
+182
+00:12:44,973 --> 00:12:46,891
+What about the bay?
+
+183
+00:12:46,975 --> 00:12:48,559
+The... the...
+
+184
+00:12:48,643 --> 00:12:50,478
+The baby's coming! Mrs. Satera said so!
+
+185
+00:12:57,568 --> 00:13:01,030
+In this rain, we can't take her
+to a hospital in town.
+
+186
+00:13:01,114 --> 00:13:03,241
+I'll dash over there,
+and call for a doctor.
+
+187
+00:13:06,619 --> 00:13:09,789
+Pop will be right back with a doctor.
+
+188
+00:13:09,872 --> 00:13:11,958
+Just hang on a little while longer, okay?
+
+189
+00:13:12,041 --> 00:13:13,626
+Hang on?
+
+190
+00:13:13,710 --> 00:13:15,920
+It'll come whenever it comes--
+
+191
+00:13:16,629 --> 00:13:17,839
+What's the matter?
+
+192
+00:13:20,550 --> 00:13:21,551
+Huh?
+
+193
+00:13:23,386 --> 00:13:26,931
+Hmm? What was that? I didn't hear.
+
+194
+00:13:28,266 --> 00:13:31,686
+It's coming!
+
+195
+00:13:31,769 --> 00:13:33,938
+It's coming?
+
+196
+00:13:34,022 --> 00:13:36,524
+What do we do? The doctor isn't here!
+
+197
+00:13:40,236 --> 00:13:43,656
+- We'll just have to do it.
+- Do what?
+
+198
+00:13:43,823 --> 00:13:44,949
+Deliver it.
+
+199
+00:13:47,744 --> 00:13:50,788
+Have you ever been there
+when a baby was born?
+
+200
+00:13:51,789 --> 00:13:55,585
+No, but we don't have
+any time to dither around.
+
+201
+00:13:56,836 --> 00:13:58,171
+Everyone, help me out here.
+
+202
+00:13:58,755 --> 00:14:00,631
+We're going to deliver this baby!
+
+203
+00:14:02,258 --> 00:14:04,719
+- Ed and Al, go boil some water.
+- You got it!
+
+204
+00:14:04,802 --> 00:14:07,096
+Paninya, gather up
+as many towels as you can.
+
+205
+00:14:07,180 --> 00:14:08,598
+Roger!
+
+206
+00:14:08,681 --> 00:14:11,976
+Mr. Ridel,
+do you have any disinfectant alcohol?
+
+207
+00:14:12,060 --> 00:14:14,020
+I think there were some in the storeroom.
+
+208
+00:14:14,979 --> 00:14:18,024
+Ah, and some drinking water
+for Mrs. Satera, at her bedside!
+
+209
+00:14:22,153 --> 00:14:24,447
+Say, is she okay in there?
+
+210
+00:14:26,366 --> 00:14:28,409
+She comes from a family of doctors.
+
+211
+00:14:28,493 --> 00:14:32,163
+She grew up reading medical-related
+books instead of picture books.
+
+212
+00:14:34,123 --> 00:14:36,793
+But it's not as though she
+actually learned anything, did she?
+
+213
+00:14:36,876 --> 00:14:40,463
+I'd guess whatever she knows,
+she just vaguely remembers.
+
+214
+00:14:40,546 --> 00:14:41,464
+Ah, jeez...
+
+215
+00:14:41,547 --> 00:14:43,007
+But right now,
+
+216
+00:14:43,091 --> 00:14:45,885
+all we can do is defer
+to her knowledge and nerve!
+
+217
+00:14:52,558 --> 00:14:55,812
+Boil water, disinfect...
+What else was there?
+
+218
+00:14:55,895 --> 00:15:00,066
+Remember... remember...
+
+219
+00:15:00,149 --> 00:15:01,275
+Winry.
+
+220
+00:15:02,276 --> 00:15:03,820
+Good luck!
+
+221
+00:15:06,447 --> 00:15:07,782
+Yeah.
+
+222
+00:15:08,408 --> 00:15:12,829
+- Paninya, give me a hand in here.
+- Okay.
+
+223
+00:15:21,712 --> 00:15:22,839
+Brother...
+
+224
+00:15:24,590 --> 00:15:28,469
+Right now, when it really counts,
+I can't do anything.
+
+225
+00:15:31,889 --> 00:15:33,724
+It hurts!
+
+226
+00:15:34,851 --> 00:15:36,227
+I'm gonna die here!
+
+227
+00:15:36,310 --> 00:15:37,728
+COWER
+
+228
+00:15:37,812 --> 00:15:41,732
+It hurts! I can't take any more!
+
+229
+00:15:45,278 --> 00:15:47,989
+I know we don't believe in God...
+
+230
+00:15:48,072 --> 00:15:49,657
+Yeah.
+
+231
+00:15:49,740 --> 00:15:52,994
+But just this once,
+for God's sake, please...
+
+232
+00:16:07,884 --> 00:16:09,469
+Brother!
+
+233
+00:16:10,094 --> 00:16:11,304
+Hey...
+
+234
+00:16:11,929 --> 00:16:14,098
+The blood...
+
+235
+00:16:14,182 --> 00:16:16,434
+I can't go on anymore.
+
+236
+00:16:20,438 --> 00:16:22,648
+Hey, what's going on?
+
+237
+00:16:37,288 --> 00:16:38,331
+The baby's been born!
+
+238
+00:16:38,414 --> 00:16:41,334
+Hooray!
+
+239
+00:16:41,417 --> 00:16:44,086
+Awesome! The baby really has been born.
+
+240
+00:16:44,170 --> 00:16:48,132
+- Awesome! Awesome! Awesome!
+- "Awesome, awesome!"
+
+241
+00:16:48,216 --> 00:16:50,635
+What a childish sentiment.
+
+242
+00:16:50,718 --> 00:16:53,346
+But this is the birth of a new life.
+
+243
+00:16:53,429 --> 00:16:57,266
+Alchemists have been working for centuries
+and we still haven't accomplished that,
+
+244
+00:16:57,350 --> 00:16:59,352
+a person creating another person.
+
+245
+00:17:00,144 --> 00:17:03,481
+Don't go lumping alchemy in
+with the mysteries of life!
+
+246
+00:17:03,564 --> 00:17:05,983
+I can't help it.
+It's the line of work I'm in.
+
+247
+00:17:07,818 --> 00:17:13,074
+Still, it really is awesome.
+People are awesome.
+
+248
+00:17:14,659 --> 00:17:17,995
+Now then, the baby has been safely born,
+
+249
+00:17:18,079 --> 00:17:20,373
+is there anything else I can do now?
+
+250
+00:17:20,873 --> 00:17:22,166
+Yes, there is.
+
+251
+00:17:22,792 --> 00:17:24,961
+You can start by picking me up.
+
+252
+00:17:25,044 --> 00:17:26,045
+UNABLE TO STAND UP
+
+253
+00:17:27,880 --> 00:17:31,425
+It's humiliating, being carried
+by a man smaller than me.
+
+254
+00:17:31,509 --> 00:17:32,885
+I'll drop you.
+
+255
+00:17:34,762 --> 00:17:36,097
+Ed...
+
+256
+00:17:38,099 --> 00:17:41,352
+I saw what was inside your silver watch.
+
+257
+00:17:43,646 --> 00:17:45,398
+It hurts.
+
+258
+00:17:47,275 --> 00:17:49,068
+You forced it open?
+
+259
+00:17:53,864 --> 00:17:54,907
+I'm sorry.
+
+260
+00:18:01,455 --> 00:18:03,040
+You dumbass.
+
+261
+00:18:11,591 --> 00:18:14,010
+I haven't even shown it to Al.
+
+262
+00:18:14,802 --> 00:18:16,012
+Why?
+
+263
+00:18:17,388 --> 00:18:20,975
+It's my resolve, and admonition to myself.
+
+264
+00:18:22,268 --> 00:18:24,186
+I hate to admit what a pansy I am,
+
+265
+00:18:24,270 --> 00:18:26,689
+having to put what happened
+that day in this form
+
+266
+00:18:26,772 --> 00:18:28,733
+so I can carry it around with me.
+
+267
+00:18:34,572 --> 00:18:38,075
+What are you crying for?
+
+268
+00:18:47,168 --> 00:18:51,589
+- There's no turning back for us now, huh?
+- Yeah.
+
+269
+00:19:07,855 --> 00:19:10,316
+<i>What are you crying for?</i>
+
+270
+00:19:11,442 --> 00:19:15,488
+You two brothers won't cry,
+so I'm doing it for you.
+
+271
+00:19:16,614 --> 00:19:18,157
+Dumbass.
+
+272
+00:19:20,284 --> 00:19:23,329
+You should go back to the countryside.
+
+273
+00:19:23,412 --> 00:19:25,748
+Granny must be lonesome all by herself.
+
+274
+00:19:25,831 --> 00:19:27,708
+No. I'm not leaving.
+
+275
+00:19:27,792 --> 00:19:29,335
+Hey, now...
+
+276
+00:19:30,086 --> 00:19:32,421
+Not after I saw your resolve, Ed.
+
+277
+00:19:33,631 --> 00:19:36,676
+I can't live with myself being
+only half-committed either.
+
+278
+00:19:37,677 --> 00:19:40,429
+There's no reason for you
+to be involved too.
+
+279
+00:19:41,305 --> 00:19:47,311
+I want to hone my skills,
+and make you some better automail,
+
+280
+00:19:47,395 --> 00:19:50,690
+so that you can continue your journey
+with peace of mind, Ed.
+
+281
+00:19:52,108 --> 00:19:55,861
+That's why I'm going to ask Mr. Dominic
+to accept me as his apprentice again.
+
+282
+00:19:58,406 --> 00:19:59,824
+Okay.
+
+283
+00:20:00,199 --> 00:20:01,283
+Good luck.
+
+284
+00:20:01,784 --> 00:20:02,785
+Yeah.
+
+285
+00:20:03,244 --> 00:20:06,706
+Winry, Mr. Ridel said he'd like you
+to come over for a minute.
+
+286
+00:20:06,789 --> 00:20:08,958
+Huh? What's the matter?
+
+287
+00:20:09,041 --> 00:20:12,586
+Oh, it's nothing. I'll be right there.
+
+288
+00:20:12,670 --> 00:20:13,838
+Paninya...
+
+289
+00:20:16,215 --> 00:20:19,260
+Ouch! What was that for?
+
+290
+00:20:19,343 --> 00:20:22,555
+Shut up and give me
+my silver watch back, you thief!
+
+291
+00:20:22,638 --> 00:20:24,432
+<i>You didn't have to hit me
+</i><i>with your right arm!</i>
+
+292
+00:20:24,515 --> 00:20:27,560
+<i>Then I'll hit you again with my left!</i>
+
+293
+00:20:29,645 --> 00:20:32,314
+I'm your granddaddy!
+
+294
+00:20:32,398 --> 00:20:34,316
+You sure are cute!
+
+295
+00:20:34,400 --> 00:20:35,401
+MUSHY
+
+296
+00:20:35,484 --> 00:20:36,944
+That's out of character.
+
+297
+00:20:37,027 --> 00:20:39,280
+Mother and baby are both doing just fine.
+
+298
+00:20:39,363 --> 00:20:40,865
+Postnatal treatment
+has also been appropriate.
+
+299
+00:20:41,824 --> 00:20:44,744
+Being present at a childbirth is something
+that even adults freak out over.
+
+300
+00:20:44,827 --> 00:20:47,580
+Oh, well, we were desperate.
+
+301
+00:20:48,289 --> 00:20:53,461
+We really are in your debt.
+Especially the young lady.
+
+302
+00:20:54,378 --> 00:20:55,463
+Thanks.
+
+303
+00:20:56,172 --> 00:20:58,632
+Please, no need to be so formal.
+
+304
+00:20:58,716 --> 00:21:01,010
+Aw, gosh, now I'm gonna blush.
+
+305
+00:21:01,093 --> 00:21:02,428
+PING!
+
+306
+00:21:03,179 --> 00:21:06,223
+What do you say?
+Just this once, take on an apprentice?
+
+307
+00:21:06,307 --> 00:21:09,018
+This doesn't have anything
+to do with that.
+
+308
+00:21:09,101 --> 00:21:10,895
+I don't take on apprentices.
+
+309
+00:21:13,272 --> 00:21:14,565
+But...
+
+310
+00:21:14,648 --> 00:21:17,860
+if you insist, I can refer you
+to an accomplished engineer
+
+311
+00:21:17,943 --> 00:21:19,528
+who lives at the base of the mountain.
+
+312
+00:21:23,032 --> 00:21:27,578
+Would it be okay if I came by
+once in a while to watch you work?
+
+313
+00:21:27,661 --> 00:21:30,456
+If you were to come by once
+in a while to see my grandchild,
+
+314
+00:21:30,539 --> 00:21:32,082
+that would be okay.
+
+315
+00:21:32,166 --> 00:21:34,627
+Same goes for the tomboy, there.
+
+316
+00:21:39,715 --> 00:21:41,592
+Yikes! We gotta hurry!
+
+317
+00:21:41,675 --> 00:21:45,638
+If we miss this one, the next one
+to Dublith isn't for three days!
+
+318
+00:21:46,388 --> 00:21:49,391
+- Be careful!
+- You too!
+
+319
+00:21:52,895 --> 00:21:54,814
+Make sure you call Granny!
+
+320
+00:21:54,897 --> 00:21:57,858
+You're a fine one to talk!
+
+321
+00:21:57,942 --> 00:22:00,986
+You steal all
+of that old man's techniques,
+
+322
+00:22:01,070 --> 00:22:05,032
+and make me something better
+next time we meet, okay?
+
+323
+00:22:11,247 --> 00:22:12,957
+They're gone.
+
+324
+00:22:13,040 --> 00:22:15,459
+Don't you worry about it.
+
