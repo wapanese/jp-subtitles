@@ -1,0 +1,1867 @@
+1
+00:00:00,000 --> 00:00:02,350
+We have a
+check-up next week!!
+Don't forget!!
+
+2
+00:00:00,000 --> 00:00:02,350
+Preliminary questions for
+Takimoto Hifumi     at 14:00 in
+Iijima Yun               Meeting
+Shinoda Hajime       Room 1
+
+3
+00:00:11,580 --> 00:00:14,560
+Sorry to bother you, Suzukaze Aoba-san.
+
+4
+00:00:15,080 --> 00:00:16,780
+Oh. Yes?
+
+5
+00:00:17,030 --> 00:00:19,300
+I'm from the programming team.
+
+6
+00:00:19,300 --> 00:00:21,910
+We're getting errors from your NPCs.
+
+7
+00:00:23,530 --> 00:00:24,960
+I'm sorry.
+
+8
+00:00:24,960 --> 00:00:27,920
+They all seem to be careless mistakes,
+
+9
+00:00:27,920 --> 00:00:30,850
+but there are a lot, 
+and it's quite troublesome.
+
+10
+00:00:31,430 --> 00:00:33,510
+I-I'm sorry.
+
+11
+00:00:37,180 --> 00:00:39,920
+Is this an important NPC?
+
+12
+00:00:39,920 --> 00:00:41,680
+Oh, yes!
+
+13
+00:00:41,680 --> 00:00:43,890
+I just finished it.
+
+14
+00:00:45,050 --> 00:00:47,150
+It's very cute.
+
+15
+00:00:47,150 --> 00:00:48,560
+Thank you.
+
+16
+00:00:48,560 --> 00:00:51,220
+But this has errors, too.
+
+17
+00:00:51,220 --> 00:00:53,160
+That's going to be problematic.
+
+18
+00:00:53,160 --> 00:00:53,900
+Errors?
+
+19
+00:00:54,290 --> 00:00:55,450
+Where?
+
+20
+00:00:55,450 --> 00:00:56,160
+Right here.
+
+21
+00:00:56,640 --> 00:00:59,140
+It tells you the error with details.
+
+22
+00:00:59,920 --> 00:01:00,910
+You're right.
+
+23
+00:01:01,220 --> 00:01:03,700
+These errors show up in the game, as well,
+
+24
+00:01:03,700 --> 00:01:06,570
+so could you make sure it's error free?
+
+25
+00:01:06,570 --> 00:01:09,630
+I thought it was fine because 
+the designs were going through.
+
+26
+00:01:10,120 --> 00:01:12,960
+No one told you about that?
+
+27
+00:01:13,900 --> 00:01:16,480
+Yagami-san didn't tell me anything.
+
+28
+00:01:17,170 --> 00:01:18,280
+That wretch.
+
+29
+00:02:50,750 --> 00:02:54,800
+Small errors can sometimes 
+cause large errors.
+
+30
+00:02:54,800 --> 00:02:56,230
+I'm sorry.
+
+31
+00:02:56,960 --> 00:02:58,950
+Since these are visible errors,
+
+32
+00:02:58,950 --> 00:03:01,240
+it's my fault for not correcting them.
+
+33
+00:03:01,240 --> 00:03:03,180
+I'll fix them right away.
+
+34
+00:03:03,180 --> 00:03:04,520
+Undoubtedly.
+
+35
+00:03:04,520 --> 00:03:06,410
+Please fix them immediately.
+
+36
+00:03:07,390 --> 00:03:11,050
+How typical of artists to only 
+pay attention to appearances.
+
+37
+00:03:16,540 --> 00:03:20,620
+S-So long as you fix them, 
+I'll have no problems.
+
+38
+00:03:21,160 --> 00:03:23,610
+I compiled the errors into a list,
+
+39
+00:03:23,610 --> 00:03:25,820
+so please let me know when
+you're done fixing them.
+
+40
+00:03:25,820 --> 00:03:27,350
+Okay.
+
+41
+00:03:27,350 --> 00:03:30,290
+So I know I've seen you a few times.
+
+42
+00:03:30,290 --> 00:03:32,900
+May I ask for your name?
+
+43
+00:03:32,900 --> 00:03:34,480
+I'm Umiko.
+
+44
+00:03:34,960 --> 00:03:37,120
+Is Umiko your last name?
+
+45
+00:03:39,540 --> 00:03:41,290
+I-I'm sorry.
+
+46
+00:03:42,950 --> 00:03:45,120
+I'm Aha...
+
+47
+00:03:45,950 --> 00:03:47,620
+Aha-san?
+
+48
+00:03:48,220 --> 00:03:50,260
+Aha...n.
+
+49
+00:03:51,580 --> 00:03:53,520
+Hey, Ahagon!
+
+50
+00:03:54,660 --> 00:03:56,010
+Yagami-san?
+
+51
+00:03:57,630 --> 00:03:59,670
+Don't call me by my last name.
+
+52
+00:03:59,670 --> 00:04:01,300
+I tell you every time.
+
+53
+00:04:01,510 --> 00:04:04,460
+But Ahagon's a perfect name for you.
+
+54
+00:04:04,460 --> 00:04:05,660
+No, it's not!
+
+55
+00:04:05,360 --> 00:04:06,100
+Ow!
+
+56
+00:04:06,100 --> 00:04:06,550
+Ow.
+
+57
+00:04:06,550 --> 00:04:07,150
+Ow.
+
+58
+00:04:07,150 --> 00:04:08,450
+Ow. Ow. Ow!
+
+59
+00:04:08,450 --> 00:04:10,520
+Don't shoot people
+who aren't wearing goggles!
+
+60
+00:04:11,000 --> 00:04:12,310
+Ahagon-san?
+
+61
+00:04:12,310 --> 00:04:14,090
+That's a rare last name.
+
+62
+00:04:14,880 --> 00:04:16,310
+You write it like this.
+
+63
+00:04:16,310 --> 00:04:19,340
+Ahagon
+
+64
+00:04:16,730 --> 00:04:18,550
+I'm from Okinawa.
+
+65
+00:04:18,550 --> 00:04:19,870
+I see.
+
+66
+00:04:19,870 --> 00:04:21,900
+But, Suzukaze-san,
+
+67
+00:04:21,900 --> 00:04:25,580
+please call me Umiko.
+
+68
+00:04:25,580 --> 00:04:26,800
+Are we clear?
+
+69
+00:04:26,800 --> 00:04:27,910
+Y-Yes.
+
+70
+00:04:28,530 --> 00:04:31,830
+Ko-san, please train the new hires properly.
+
+71
+00:04:31,830 --> 00:04:34,670
+You're making more work for everybody else.
+
+72
+00:04:36,240 --> 00:04:37,650
+Now, if you'll excuse me.
+
+73
+00:04:42,720 --> 00:04:44,230
+Don't feel down.
+
+74
+00:04:44,230 --> 00:04:46,000
+It was partly my fault.
+
+75
+00:04:46,000 --> 00:04:48,430
+She's much nicer than she acts.
+
+76
+00:04:48,430 --> 00:04:52,110
+I bet she's feeling down, 
+thinking she said too much.
+
+77
+00:04:53,060 --> 00:04:54,560
+I said too much.
+
+78
+00:04:55,600 --> 00:04:58,690
+Suzukaze-san looked pretty scared in the end.
+
+79
+00:04:59,200 --> 00:05:01,380
+I'm sure she hates me now.
+
+80
+00:05:08,070 --> 00:05:09,150
+Come to think of it,
+
+81
+00:05:09,150 --> 00:05:11,820
+she looked like a monkey who felt bad.
+
+82
+00:05:15,260 --> 00:05:17,740
+What am I saying?
+
+83
+00:05:18,880 --> 00:05:21,600
+But if she is a monkey,
+
+84
+00:05:21,600 --> 00:05:25,310
+she should be happy if I 
+give her toys or snacks.
+
+85
+00:05:26,480 --> 00:05:28,300
+Though I've never had one as pet.
+
+86
+00:05:34,890 --> 00:05:36,120
+I see.
+
+87
+00:05:36,120 --> 00:05:39,150
+Umiko-san came and gave you a word?
+
+88
+00:05:39,150 --> 00:05:40,960
+It was my fault.
+
+89
+00:05:40,960 --> 00:05:43,700
+I didn't notice the errors.
+
+90
+00:05:44,390 --> 00:05:47,150
+But I'm so glad she didn't shoot me.
+
+91
+00:05:47,620 --> 00:05:51,420
+Umiko-san doesn't usually shoot people.
+
+92
+00:05:51,420 --> 00:05:53,950
+Only when you make her mad.
+
+93
+00:05:54,210 --> 00:05:57,270
+You know, her collection's incredible!
+
+94
+00:05:58,780 --> 00:05:59,560
+Oh.
+
+95
+00:05:59,560 --> 00:06:02,210
+I guess you two are a bit similar.
+
+96
+00:06:02,590 --> 00:06:06,390
+I suppose Umiko-san might 
+be a bit short-tempered.
+
+97
+00:06:06,390 --> 00:06:07,980
+A little birdy told me,
+
+98
+00:06:07,980 --> 00:06:12,220
+at last year's check-up, the nurse 
+was taking too long with the shot,
+
+99
+00:06:12,470 --> 00:06:15,120
+so she just tried to put it in herself.
+
+100
+00:06:16,430 --> 00:06:19,260
+I'm sure it's just a rumor.
+
+101
+00:06:19,260 --> 00:06:21,690
+Rumors are always exaggerated.
+
+102
+00:06:23,040 --> 00:06:27,820
+Knowing her, it might not be just a rumor.
+
+103
+00:06:27,820 --> 00:06:30,450
+I agree with Takimoto-kun.
+
+104
+00:06:30,450 --> 00:06:32,120
+Hazuki-san!
+
+105
+00:06:32,120 --> 00:06:34,830
+That sounds like something 
+Umiko-kun would do.
+
+106
+00:06:35,050 --> 00:06:37,570
+<i>She showed up out of nowhere again.</i>
+
+107
+00:06:38,330 --> 00:06:41,660
+I wish she'd stop shooting 
+people with airsoft guns,
+
+108
+00:06:42,170 --> 00:06:47,010
+but it's great to have 
+reliable staff like her.
+
+109
+00:06:47,350 --> 00:06:48,570
+I see.
+
+110
+00:06:54,790 --> 00:06:57,180
+Sorry to bother you, Suzukaze-san.
+
+111
+00:06:57,180 --> 00:06:57,890
+Ahagoâ€”
+
+112
+00:06:59,840 --> 00:07:01,220
+Umiko-san.
+
+113
+00:07:01,220 --> 00:07:03,150
+Thank you for coming.
+
+114
+00:07:03,440 --> 00:07:06,640
+Thank you for putting 
+in the fixes so quickly.
+
+115
+00:07:06,640 --> 00:07:07,850
+They're perfect.
+
+116
+00:07:07,850 --> 00:07:08,900
+Really?
+
+117
+00:07:09,260 --> 00:07:10,910
+I'm so glad.
+
+118
+00:07:14,410 --> 00:07:19,150
+And I think I said too much 
+earlier, so I'm sorry.
+
+119
+00:07:20,970 --> 00:07:23,630
+<i>She really felt bad about it.</i>
+
+120
+00:07:24,140 --> 00:07:26,720
+This is something I treasure,
+
+121
+00:07:27,690 --> 00:07:30,300
+but I'd like you to have it.
+
+122
+00:07:30,300 --> 00:07:31,210
+I can't!
+
+123
+00:07:31,210 --> 00:07:32,810
+It was my fault to begin with.
+
+124
+00:07:32,810 --> 00:07:33,970
+I'd feel bad.
+
+125
+00:07:34,250 --> 00:07:35,320
+No.
+
+126
+00:07:35,320 --> 00:07:36,970
+Please don't worry.
+
+127
+00:07:36,970 --> 00:07:38,470
+But...
+
+128
+00:07:38,470 --> 00:07:39,730
+Here you go.
+
+129
+00:07:39,730 --> 00:07:42,840
+<i>What? What is this?</i>
+
+130
+00:07:42,840 --> 00:07:45,880
+Oh, it's an empty shotgun shell.
+
+131
+00:07:45,880 --> 00:07:48,010
+It's the real deal.
+
+132
+00:07:48,010 --> 00:07:49,150
+Isn't it amazing?
+
+133
+00:07:49,540 --> 00:07:52,400
+I got it from an American soldier back home.
+
+134
+00:07:52,400 --> 00:07:54,720
+It doesn't have any monetary value,
+
+135
+00:07:55,160 --> 00:07:57,690
+but you can still smell the gunpowder,
+
+136
+00:07:57,690 --> 00:07:59,530
+and it gets your blood pumping.
+
+137
+00:08:00,300 --> 00:08:02,040
+Oh, I'm sorry.
+
+138
+00:08:02,040 --> 00:08:03,080
+I digress.
+
+139
+00:08:03,980 --> 00:08:04,830
+Here you go.
+
+140
+00:08:08,500 --> 00:08:09,470
+It's for you.
+
+141
+00:08:09,470 --> 00:08:11,340
+Oh, thank you.
+
+142
+00:08:12,450 --> 00:08:15,170
+I still have much more to see at my desk,
+
+143
+00:08:15,170 --> 00:08:17,290
+so feel free to stop by if you're curious.
+
+144
+00:08:17,850 --> 00:08:18,960
+Okay.
+
+145
+00:08:18,960 --> 00:08:23,730
+Though unfortunately, 
+I don't have any real guns.
+
+146
+00:08:23,730 --> 00:08:25,900
+It would be a crime if you did.
+
+147
+00:08:25,900 --> 00:08:27,570
+Thank you so much.
+
+148
+00:08:27,570 --> 00:08:29,110
+I'll take care of it.
+
+149
+00:08:29,110 --> 00:08:32,030
+I didn't know you were 
+into military stuff, Umiko-san.
+
+150
+00:08:34,570 --> 00:08:35,470
+I know.
+
+151
+00:08:35,470 --> 00:08:37,770
+Would you like to play airsoft sometime?
+
+152
+00:08:38,370 --> 00:08:39,930
+It's really fun.
+
+153
+00:08:39,930 --> 00:08:40,650
+Oh, no.
+
+154
+00:08:40,650 --> 00:08:43,500
+I'm terrible at sports, so I'm sorry.
+
+155
+00:08:44,870 --> 00:08:47,260
+I suppose you need to be athletic.
+
+156
+00:08:47,260 --> 00:08:49,250
+Guns aren't light, either.
+
+157
+00:08:49,250 --> 00:08:50,750
+Yeah, so I'll...
+
+158
+00:08:50,920 --> 00:08:53,750
+Then how about FPS games?
+
+159
+00:08:53,750 --> 00:08:56,260
+What are FPS games?
+
+160
+00:08:56,830 --> 00:09:00,410
+They're shooter games. 
+played in first-person view.
+
+161
+00:09:00,410 --> 00:09:02,690
+Even beginners can play those games.
+
+162
+00:09:02,690 --> 00:09:06,480
+But don't I need good 
+reflexes to play those...
+
+163
+00:09:06,480 --> 00:09:07,680
+Not at all.
+
+164
+00:09:07,680 --> 00:09:09,530
+I think it'll be too hard for me.
+
+165
+00:09:09,530 --> 00:09:12,900
+Positioning is more important than character 
+control, so it's all about experience.
+
+166
+00:09:12,900 --> 00:09:14,030
+But...
+
+167
+00:09:14,150 --> 00:09:18,370
+When you discover the fun of killing 
+other players, you'll be addicted.
+
+168
+00:09:19,350 --> 00:09:21,620
+<i>I think she likes me.</i>
+
+169
+00:09:22,250 --> 00:09:24,110
+But if you don't like PvP,
+
+170
+00:09:24,110 --> 00:09:27,080
+there's also co-op where you 
+cooperate with other players.
+
+171
+00:09:27,080 --> 00:09:30,380
+When you clear a mission through 
+teamwork, it's extremely satisfying.
+
+172
+00:09:30,380 --> 00:09:35,490
+However, you have to start by watching 
+the good players from the back.
+
+173
+00:09:33,880 --> 00:09:36,270
+<i>Is she going to be done soon?</i>
+
+174
+00:09:36,270 --> 00:09:37,290
+What's going on?
+
+175
+00:09:37,290 --> 00:09:39,360
+Are you going to play airsoft, too?
+
+176
+00:09:39,360 --> 00:09:42,420
+No, she was just telling me about it.
+
+177
+00:09:42,420 --> 00:09:45,810
+Yeah, it can be a bit 
+difficult for beginners,
+
+178
+00:09:45,810 --> 00:09:49,030
+but with an experienced player like myself...
+
+179
+00:09:49,030 --> 00:09:52,960
+Until you get mad and start 
+shooting friendlies, too.
+
+180
+00:09:52,960 --> 00:09:55,050
+In what world would I ever do that?
+
+181
+00:09:55,050 --> 00:09:56,020
+See?
+
+182
+00:09:56,020 --> 00:09:57,490
+You get mad so easily.
+
+183
+00:09:58,130 --> 00:10:00,700
+You're the one who makes me mad!
+
+184
+00:10:03,210 --> 00:10:05,900
+It's almost time to go home.
+
+185
+00:10:05,900 --> 00:10:10,080
+I'll let you experience 
+just how fun airsoft is.
+
+186
+00:10:10,510 --> 00:10:11,960
+Experience?
+
+187
+00:10:12,550 --> 00:10:16,210
+I'll show you to my secret training field.
+
+188
+00:10:24,260 --> 00:10:25,590
+Look at this, Aoba.
+
+189
+00:10:25,590 --> 00:10:27,390
+The view is beautiful.
+
+190
+00:10:27,920 --> 00:10:29,190
+Wow.
+
+191
+00:10:29,190 --> 00:10:31,400
+It's getting me excited.
+
+192
+00:10:31,810 --> 00:10:34,030
+Why are you here, too?
+
+193
+00:10:34,030 --> 00:10:35,940
+Come on, let me join.
+
+194
+00:10:35,940 --> 00:10:39,080
+I want to know about your hobby, too.
+
+195
+00:10:39,080 --> 00:10:40,410
+Well, whatever.
+
+196
+00:10:40,410 --> 00:10:43,490
+It's not like I have anything to hide.
+
+197
+00:10:45,860 --> 00:10:49,000
+Welcome to my secret training field.
+
+198
+00:10:49,920 --> 00:10:51,400
+Wait, Umiko...
+
+199
+00:10:51,400 --> 00:10:53,560
+I have permission to do this here.
+
+200
+00:10:53,560 --> 00:10:55,130
+Please don't worry.
+
+201
+00:10:58,890 --> 00:11:00,510
+I'm all ready!
+
+202
+00:11:02,530 --> 00:11:03,960
+U-Um...
+
+203
+00:11:03,960 --> 00:11:06,010
+Please be gentle with me.
+
+204
+00:11:06,260 --> 00:11:07,050
+Yes.
+
+205
+00:11:07,050 --> 00:11:08,890
+Open your legs a little more.
+
+206
+00:11:09,370 --> 00:11:12,770
+Aim carefully and pull the trigger slowly.
+
+207
+00:11:13,270 --> 00:11:14,470
+Be calm.
+
+208
+00:11:14,470 --> 00:11:15,990
+And squeeze.
+
+209
+00:11:19,150 --> 00:11:20,410
+I got it!
+
+210
+00:11:20,410 --> 00:11:21,870
+Well done, Suzukaze-san.
+
+211
+00:11:21,870 --> 00:11:23,070
+You have talent.
+
+212
+00:11:23,440 --> 00:11:26,090
+Wow, this feels great!
+
+213
+00:11:26,090 --> 00:11:29,330
+With practice, you'll even be able to do this.
+
+214
+00:11:40,200 --> 00:11:41,690
+Incredible!
+
+215
+00:11:42,470 --> 00:11:45,330
+I bet even I could do that.
+
+216
+00:11:45,330 --> 00:11:47,060
+Are you being serious?
+
+217
+00:11:47,290 --> 00:11:49,130
+Dead serious.
+
+218
+00:11:49,130 --> 00:11:51,060
+Can I borrow them so I can try?
+
+219
+00:11:52,550 --> 00:11:54,810
+It wouldn't be exciting 
+to just lend them to you.
+
+220
+00:11:55,100 --> 00:11:57,050
+I have an idea.
+
+221
+00:11:58,940 --> 00:12:00,110
+Um...
+
+222
+00:12:00,110 --> 00:12:02,100
+Isn't this dangerous?
+
+223
+00:12:02,100 --> 00:12:04,600
+This is how they did it in the West.
+
+224
+00:12:04,600 --> 00:12:06,750
+We're using soft, colored pellets,
+
+225
+00:12:06,750 --> 00:12:08,210
+so there's no danger.
+
+226
+00:12:09,410 --> 00:12:12,290
+I've always wanted to try this.
+
+227
+00:12:13,130 --> 00:12:14,330
+Are you ready?
+
+228
+00:12:14,330 --> 00:12:15,360
+Ready.
+
+229
+00:12:16,060 --> 00:12:16,590
+One...
+
+230
+00:12:17,170 --> 00:12:18,220
+Two...
+
+231
+00:12:18,220 --> 00:12:19,350
+Three...
+
+232
+00:12:19,350 --> 00:12:20,420
+Four...
+
+233
+00:12:20,420 --> 00:12:21,090
+Five...
+
+234
+00:12:21,520 --> 00:12:22,500
+Six...
+
+235
+00:12:22,500 --> 00:12:23,090
+Seven...
+
+236
+00:12:23,330 --> 00:12:24,090
+Eight...
+
+237
+00:12:24,380 --> 00:12:25,090
+Nine...
+
+238
+00:12:25,360 --> 00:12:26,190
+Ten!
+
+239
+00:12:28,970 --> 00:12:30,800
+I can't hit you if you dodge.
+
+240
+00:12:30,800 --> 00:12:32,520
+I'll get hit if I don't dodge!
+
+241
+00:12:32,980 --> 00:12:34,840
+Ahagon! Ahagon! Ahagon!
+
+242
+00:12:34,840 --> 00:12:38,330
+<i>Are they friends or are they enemies?</i>
+
+243
+00:12:41,940 --> 00:12:46,950
+Please Deposit
+Used Robes
+Here
+
+244
+00:12:42,460 --> 00:12:45,050
+Once you've changed into these robes,
+
+245
+00:12:45,050 --> 00:12:46,950
+please wait in the lobby.
+
+246
+00:12:47,230 --> 00:12:50,820
+I didn't know they did company 
+check-ups at hospitals.
+
+247
+00:12:50,820 --> 00:12:53,080
+I've never had barium before.
+
+248
+00:12:53,080 --> 00:12:54,650
+I'm so excited!
+
+249
+00:12:55,530 --> 00:12:58,560
+Wait, do we get barium?
+
+250
+00:12:58,560 --> 00:13:00,890
+That's only for older people.
+
+251
+00:13:04,880 --> 00:13:06,250
+Darn.
+
+252
+00:13:06,250 --> 00:13:08,120
+It's better to not do it!
+
+253
+00:13:08,120 --> 00:13:09,760
+Though I don't speak from experience.
+
+254
+00:13:13,520 --> 00:13:14,390
+Hey.
+
+255
+00:13:14,390 --> 00:13:16,520
+Your bra's cute, Aoba-chan.
+
+256
+00:13:16,520 --> 00:13:17,480
+What brand is it?
+
+257
+00:13:18,300 --> 00:13:19,770
+I don't know.
+
+258
+00:13:19,770 --> 00:13:21,820
+I don't pay attention to brands.
+
+259
+00:13:21,820 --> 00:13:23,620
+Maybe there's a label somewhere.
+
+260
+00:13:24,620 --> 00:13:26,070
+Is this it?
+
+261
+00:13:26,070 --> 00:13:29,440
+<i>I don't really feel comfortable 
+talking about that stuff.</i>
+
+262
+00:13:30,340 --> 00:13:31,330
+<i>Wow.</i>
+
+263
+00:13:31,330 --> 00:13:34,250
+<i>This robe is kinda thin.</i>
+
+264
+00:13:34,250 --> 00:13:37,330
+<i>It doesn't have pads either, 
+so my breasts really show.</i>
+
+265
+00:13:41,930 --> 00:13:43,690
+Okay, I'm ready.
+
+266
+00:13:45,310 --> 00:13:47,340
+<i>Oh, they have it easy.</i>
+
+267
+00:13:49,010 --> 00:13:49,970
+Toyama-san.
+
+268
+00:13:50,320 --> 00:13:51,610
+Hey, girls.
+
+269
+00:13:51,610 --> 00:13:52,470
+Wow!
+
+270
+00:13:52,470 --> 00:13:53,800
+Yagami-san!
+
+271
+00:13:53,800 --> 00:13:55,130
+Are you okay?
+
+272
+00:13:56,730 --> 00:13:58,950
+She looked at her own blood during the test,
+
+273
+00:13:58,950 --> 00:14:01,460
+and she started to feel sick.
+
+274
+00:14:01,460 --> 00:14:03,200
+N-No.
+
+275
+00:14:03,200 --> 00:14:05,490
+That's not it.
+
+276
+00:14:05,490 --> 00:14:06,910
+Be careful.
+
+277
+00:14:07,470 --> 00:14:12,030
+Th-That... nurse...
+
+278
+00:14:13,210 --> 00:14:15,810
+Wh-Wh-What did she mean by that?
+
+279
+00:14:15,810 --> 00:14:17,580
+Takimoto-san.
+
+280
+00:14:18,660 --> 00:14:20,500
+Y-Yes?
+
+281
+00:14:20,940 --> 00:14:25,260
+First, I'll take your blood pressure, 
+and then take your blood.
+
+282
+00:14:26,950 --> 00:14:28,100
+Don't worry.
+
+283
+00:14:28,100 --> 00:14:29,780
+Just calm down.
+
+284
+00:14:29,780 --> 00:14:31,530
+O-O-Okay.
+
+285
+00:14:31,530 --> 00:14:33,750
+Let's take some deep breaths.
+
+286
+00:14:40,490 --> 00:14:43,010
+<i>Hifumi-senpai, that's for giving birth.</i>
+
+287
+00:14:43,750 --> 00:14:45,880
+S-Suzukaze-san!
+
+288
+00:14:45,880 --> 00:14:46,590
+Yes?
+
+289
+00:14:46,590 --> 00:14:48,190
+I'll measure your blood pressure first,
+
+290
+00:14:48,190 --> 00:14:50,640
+a-a-and then take your blood.
+
+291
+00:14:50,640 --> 00:14:51,990
+O-Okay.
+
+292
+00:14:52,300 --> 00:14:55,600
+Your blood pressure rises 
+when you're nervous,
+
+293
+00:14:55,600 --> 00:14:58,150
+s-so let's start with a few deep breaths.
+
+294
+00:14:58,150 --> 00:14:59,760
+O-Okay.
+
+295
+00:14:59,760 --> 00:15:02,760
+I-I don't have much experience yet,
+
+296
+00:15:02,760 --> 00:15:04,380
+but I know the textbook inside and out,
+
+297
+00:15:04,380 --> 00:15:05,710
+so please feel at ease!
+
+298
+00:15:06,030 --> 00:15:08,840
+<i>So this is what she meant.</i>
+
+299
+00:15:09,280 --> 00:15:12,940
+Okay, your blood pressure 
+measurement is done.
+
+300
+00:15:14,550 --> 00:15:16,570
+<i>I bet it's high.</i>
+
+301
+00:15:19,400 --> 00:15:22,340
+Now, let's take your blood.
+
+302
+00:15:22,340 --> 00:15:24,110
+L-Let's wait just a bit!
+
+303
+00:15:25,020 --> 00:15:26,850
+Let's calm down first.
+
+304
+00:15:26,850 --> 00:15:28,570
+Y-You're right.
+
+305
+00:15:28,980 --> 00:15:31,240
+Let's take a few deep breaths.
+
+306
+00:15:36,080 --> 00:15:37,540
+<i>Not her, too...</i>
+
+307
+00:15:39,030 --> 00:15:40,330
+I'm sorry.
+
+308
+00:15:40,330 --> 00:15:42,950
+One of my patients collapsed earlier.
+
+309
+00:15:42,950 --> 00:15:45,040
+So I'm a little nervous.
+
+310
+00:15:45,040 --> 00:15:45,780
+I know.
+
+311
+00:15:45,780 --> 00:15:48,250
+I think that's my manager.
+
+312
+00:15:48,550 --> 00:15:50,210
+Is that so?
+
+313
+00:15:50,210 --> 00:15:52,050
+Please tell her sorry.
+
+314
+00:15:52,510 --> 00:15:56,480
+She had thin veins, so it took 
+me a few tries to get it right.
+
+315
+00:15:57,320 --> 00:15:59,420
+Oh, but don't worry.
+
+316
+00:15:59,420 --> 00:16:01,310
+I can see your veins.
+
+317
+00:16:02,770 --> 00:16:04,810
+I can do this.
+
+318
+00:16:05,820 --> 00:16:06,820
+Ready?
+
+319
+00:16:09,260 --> 00:16:10,620
+It's done.
+
+320
+00:16:17,330 --> 00:16:21,580
+<i>Give me the old nurse!
+Give me the old nurse!</i>
+
+321
+00:16:21,880 --> 00:16:23,570
+I'm going out for a bit.
+
+322
+00:16:23,570 --> 00:16:25,320
+Can you take care of things while I'm gone?
+
+323
+00:16:25,320 --> 00:16:26,390
+Oh, yes.
+
+324
+00:16:26,390 --> 00:16:27,590
+No problem.
+
+325
+00:16:31,830 --> 00:16:33,590
+<i>Will she be okay?</i>
+
+326
+00:16:36,340 --> 00:16:37,640
+Your back is open.
+
+327
+00:16:37,640 --> 00:16:40,030
+That wasn't fair.
+
+328
+00:16:40,910 --> 00:16:42,380
+It's over.
+
+329
+00:16:42,380 --> 00:16:44,440
+It didn't hurt that much.
+
+330
+00:16:44,440 --> 00:16:46,280
+Welcome back.
+
+331
+00:16:46,280 --> 00:16:50,650
+N-Next up, Anamine? Awane?
+
+332
+00:16:50,650 --> 00:16:52,100
+That's me.
+
+333
+00:16:53,440 --> 00:16:55,410
+It's Ahagon Umiko.
+
+334
+00:16:55,410 --> 00:16:59,800
+W-W-Well, I'll take your blood 
+pressure and then your blood.
+
+335
+00:16:59,800 --> 00:17:01,390
+Let's see.
+
+336
+00:17:01,390 --> 00:17:04,060
+Wait. How do I do this?
+
+337
+00:17:04,060 --> 00:17:05,140
+Of course.
+
+338
+00:17:05,140 --> 00:17:06,540
+Just remember the textbook.
+
+339
+00:17:07,310 --> 00:17:09,540
+N-Next, I'll take your blood.
+
+340
+00:17:09,540 --> 00:17:14,050
+Blood Drawing
+
+341
+00:17:10,540 --> 00:17:12,720
+Are you prepared for this?
+
+342
+00:17:12,720 --> 00:17:14,050
+Wait a minute.
+
+343
+00:17:14,890 --> 00:17:18,340
+I don't feel comfortable 
+with how you're acting.
+
+344
+00:17:18,340 --> 00:17:19,830
+Can I really trust you?
+
+345
+00:17:19,830 --> 00:17:21,180
+Don't worry.
+
+346
+00:17:21,540 --> 00:17:23,430
+I've memorized the textbook.
+
+347
+00:17:23,430 --> 00:17:24,860
+Wait.
+
+348
+00:17:24,860 --> 00:17:28,340
+I've never had a dark-skinned patient 
+before, so I can't see the vein.
+
+349
+00:17:28,340 --> 00:17:30,250
+Goodness, you're so slow.
+
+350
+00:17:30,770 --> 00:17:33,200
+I'll do it myself!
+
+351
+00:17:33,200 --> 00:17:35,820
+You definitely can't do that!
+
+352
+00:17:36,160 --> 00:17:38,040
+<i>It was all true.</i>
+
+353
+00:17:40,550 --> 00:17:43,050
+I'm so glad nothing bad happened.
+
+354
+00:17:43,050 --> 00:17:44,220
+So true.
+
+355
+00:17:44,220 --> 00:17:46,330
+Of course nothing bad happened.
+
+356
+00:17:47,700 --> 00:17:50,210
+<i>But the true test has yet to come.</i>
+
+357
+00:17:51,210 --> 00:17:53,210
+I'll measure your waist.
+
+358
+00:17:53,210 --> 00:17:56,710
+<i>I've been on a diet, and I 
+didn't eat all day yesterday.</i>
+
+359
+00:17:56,710 --> 00:17:58,420
+Next person, please.
+
+360
+00:18:00,010 --> 00:18:01,220
+Thank you.
+
+361
+00:18:08,440 --> 00:18:09,870
+That's good.
+
+362
+00:18:11,770 --> 00:18:13,230
+There's the number.
+
+363
+00:18:16,190 --> 00:18:19,250
+Wow, your waist is very tight and pretty.
+
+364
+00:18:19,250 --> 00:18:20,920
+Oh, really?
+
+365
+00:18:20,920 --> 00:18:22,260
+Thank you.
+
+366
+00:18:22,260 --> 00:18:24,410
+Do you do any sports?
+
+367
+00:18:24,410 --> 00:18:25,250
+Just a little exercise.
+
+368
+00:18:25,620 --> 00:18:28,300
+Though I don't do anything too much.
+
+369
+00:18:30,930 --> 00:18:32,830
+Wow, she's right.
+
+370
+00:18:32,830 --> 00:18:34,900
+Your abs are so pretty.
+
+371
+00:18:34,900 --> 00:18:36,730
+Hey, that tickles.
+
+372
+00:18:36,730 --> 00:18:37,730
+Hajime.
+
+373
+00:18:40,110 --> 00:18:43,240
+C-Can I touch it, too?
+
+374
+00:18:43,240 --> 00:18:44,220
+Sure.
+
+375
+00:18:50,580 --> 00:18:52,070
+You win!
+
+376
+00:18:52,070 --> 00:18:53,270
+Come again?
+
+377
+00:18:53,770 --> 00:18:56,330
+Wow, your waist is pretty, too.
+
+378
+00:18:57,460 --> 00:18:59,280
+And nice abs.
+
+379
+00:18:59,280 --> 00:19:01,250
+Thank you.
+
+380
+00:19:01,250 --> 00:19:03,350
+I put in the work every day.
+
+381
+00:19:03,760 --> 00:19:05,360
+Oh, every day?
+
+382
+00:19:05,360 --> 00:19:06,300
+So do you go...
+
+383
+00:19:06,300 --> 00:19:07,000
+Yes.
+
+384
+00:19:07,600 --> 00:19:09,040
+Airsofting.
+
+385
+00:19:09,690 --> 00:19:13,050
+We get some laborious work 
+at the programming team,
+
+386
+00:19:13,050 --> 00:19:16,370
+so we need to maintain fit and 
+healthy bodies to prevail.
+
+387
+00:19:16,370 --> 00:19:20,170
+You sound so professional and admirable.
+
+388
+00:19:23,860 --> 00:19:25,010
+Hazuki-san.
+
+389
+00:19:25,310 --> 00:19:26,890
+Are you okay?
+
+390
+00:19:26,890 --> 00:19:28,060
+Well.
+
+391
+00:19:28,060 --> 00:19:29,860
+I took barium.
+
+392
+00:19:29,860 --> 00:19:32,060
+But I'm not used to it.
+
+393
+00:19:32,390 --> 00:19:34,280
+Umiko-kun!
+
+394
+00:19:34,280 --> 00:19:37,000
+Can I sleep on your lap?
+
+395
+00:19:37,000 --> 00:19:41,910
+Your thighs are so nice and tight.
+
+396
+00:19:45,660 --> 00:19:47,290
+Want to die?
+
+397
+00:19:47,770 --> 00:19:49,160
+<i>It's weird.</i>
+
+398
+00:19:49,160 --> 00:19:52,290
+<i>I feel like a different 
+person after meeting you.</i>
+
+399
+00:19:52,620 --> 00:19:55,420
+<i>This is so relaxing.</i>
+
+400
+00:19:55,420 --> 00:19:56,750
+<i>I feel the same.</i>
+
+401
+00:19:58,520 --> 00:20:00,020
+No!
+
+402
+00:20:00,020 --> 00:20:02,330
+This isn't like that at all.
+
+403
+00:20:00,130 --> 00:20:03,460
+<i>I was able to be honest with myself.</i>
+
+404
+00:20:04,000 --> 00:20:05,520
+<i>I'm so grateful.</i>
+
+405
+00:20:05,520 --> 00:20:06,740
+<i>Thank you.</i>
+
+406
+00:20:16,200 --> 00:20:18,150
+I feel so rested.
+
+407
+00:20:18,150 --> 00:20:19,820
+Want to grab something 
+to eat on the way back?
+
+408
+00:20:20,070 --> 00:20:21,980
+I'm starving.
+
+409
+00:20:21,980 --> 00:20:23,090
+I'm in!
+
+410
+00:20:23,090 --> 00:20:24,330
+Thank you, Yagami-san!
+
+411
+00:20:24,330 --> 00:20:25,190
+What?
+
+412
+00:20:25,190 --> 00:20:27,670
+I didn't say I'm paying.
+
+413
+00:20:27,670 --> 00:20:30,080
+I'll take something with low calories.
+
+414
+00:20:32,490 --> 00:20:35,970
+I have a meeting, so I'm heading back.
+
+415
+00:20:35,970 --> 00:20:38,050
+Unfortunately, I have to go back.
+
+416
+00:20:38,050 --> 00:20:40,680
+I have to go over this month's schedule.
+
+417
+00:20:42,570 --> 00:20:44,270
+Schedule, huh?
+
+418
+00:20:44,270 --> 00:20:47,110
+We're going to be getting part-timers soon.
+
+419
+00:20:47,870 --> 00:20:49,270
+Part-timers?
+
+420
+00:20:49,270 --> 00:20:51,020
+For debugging.
+
+421
+00:20:51,020 --> 00:20:53,050
+We need to ask for some outside help.
+
+422
+00:20:53,050 --> 00:20:55,090
+With the development deadline coming up,
+
+423
+00:20:55,090 --> 00:20:57,280
+we're only going to get busier from here.
+
+424
+00:20:57,280 --> 00:21:00,480
+So please join me for some 
+airsoft while we have the time.
+
+425
+00:21:00,900 --> 00:21:02,990
+Like I've said before,
+
+426
+00:21:02,990 --> 00:21:05,990
+I'll totally pass!
+
+427
+00:22:36,260 --> 00:22:37,080
+<i>Really?</i>
+
+428
+00:22:37,080 --> 00:22:39,750
+<i>You guys have company check-ups?</i>
+
+429
+00:22:39,750 --> 00:22:41,610
+<i>Did you get taller?</i>
+
+430
+00:22:42,780 --> 00:22:45,200
+<i>I haven't really grown.</i>
+
+431
+00:22:45,200 --> 00:22:46,860
+<i>How are you doing?</i>
+
+432
+00:22:46,860 --> 00:22:50,430
+I have finals coming up, so I've been busy.
+
+433
+00:22:50,890 --> 00:22:54,010
+Once I'm done with those, 
+I'll be on summer break, though.
+
+434
+00:22:54,010 --> 00:22:56,400
+Summer break?
+
+435
+00:22:56,400 --> 00:22:59,560
+I wonder how many days off I get at work.
+
+436
+00:23:00,050 --> 00:23:02,170
+Is it going to be hard to take days off?
+
+437
+00:23:02,170 --> 00:23:03,020
+<i>Yeah.</i>
+
+438
+00:23:03,360 --> 00:23:06,580
+I heard we need to hire some part-timers.
+
+439
+00:23:07,190 --> 00:23:09,770
+But I should have time on Sundays,
+
+440
+00:23:09,770 --> 00:23:11,410
+so let's go play again.
+
+441
+00:23:11,410 --> 00:23:13,950
+Aocchi
+
+442
+00:23:13,950 --> 00:23:16,670
+Aocchi's working hard.
+
+443
+00:23:20,440 --> 00:23:23,890
+I wonder what it's like 
+to work for a company.
+
+444
+00:23:26,010 --> 00:23:27,520
+Good work this week.
+
+445
+00:23:27,520 --> 00:23:30,330
+How was your check-up, Suzukaze-san?
+
+446
+00:23:30,330 --> 00:23:31,580
+I got all As.
+
+447
+00:23:31,580 --> 00:23:34,060
+But don't overwork yourself.
+
+448
+00:23:34,060 --> 00:23:35,030
+I'll be careful.
+
+449
+00:23:35,030 --> 00:23:36,010
+Next time:
+
+450
+00:23:36,010 --> 00:23:37,800
+"It's Summer Break!!"
+
+451
+00:23:37,140 --> 00:23:41,000
+Next Time
+
+452
+00:23:37,140 --> 00:23:41,000
+"It's Summer Break!!"
+
+453
+00:23:37,800 --> 00:23:39,930
+Whose voice was that?
+
